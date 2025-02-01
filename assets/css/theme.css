@@ -7,7 +7,7 @@ body {
 	padding-top:69.75px;
 }
 .site-content {
-	margin-top:30px;
+	margin-top:50px;
 	min-height:400px;
 }
 .remove-site-content-margin {
@@ -226,6 +226,9 @@ a.text-dark:hover {
 		border-left:16px solid #fff;
 		-webkit-transform:rotate(45deg);
 		transform:rotate(45deg);
+	}
+	.navbar-brand {
+		width: 200px;
 	}
 }
 .navbar-light .navbar-brand {
