@@ -203,6 +203,7 @@ a.text-dark:hover {
 	color:#fff !important;
 }
 .navbar-brand {
+	width: 150px;
 	margin-right:2rem;
 	font-size:1.55rem;
     font-family:"Georgia","Times New Roman",serif;
