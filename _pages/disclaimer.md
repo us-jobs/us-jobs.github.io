@@ -1,7 +1,7 @@
 ---
 title: "Disclaimer"
 layout: page-sidebar
-permalink: "/disclaimer.html"
+permalink: "/disclaimer"
 ---
 
 ![Disclaimer warning for informational purposes of website content]({{ site.baseurl }}/assets/images/Disclaimer-warning-for-informational-purposes-of-website-content.webp)

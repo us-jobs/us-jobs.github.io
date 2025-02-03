@@ -1,7 +1,7 @@
 ---
 title: "Terms of Service"
 layout: page-sidebar
-permalink: "/terms-of-service.html"
+permalink: "/terms-of-service"
 ---
 
 ![Terms of service document with an agreement checkmark]({{ site.baseurl }}/assets/images/Terms-of-service-document-with-agreement-checkmark.webp)
