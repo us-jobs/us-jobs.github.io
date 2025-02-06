@@ -4,8 +4,6 @@ layout: page-sidebar
 permalink: "/contact-us"
 ---
 
-# Contact
-
 We’d love to hear from you! Whether you have questions, suggestions, or partnership inquiries, feel free to reach out.  
 
 ### 📧 Email Us  

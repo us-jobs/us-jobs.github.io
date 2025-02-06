@@ -4,8 +4,6 @@ layout: page-sidebar
 permalink: "/terms-of-service"
 ---
 
-## Terms of Service  
-
 Welcome to **US Jobs** (**us-jobs.github.io**). By accessing or using our website, you agree to comply with these Terms of Service. Please read them carefully.  
 
 ### 1. Acceptance of Terms  

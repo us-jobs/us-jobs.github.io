@@ -5,8 +5,6 @@ permalink: "/about-us.html"
 comments: true
 ---
 
-# About 
-
 Welcome to **US Jobs**, your trusted source for the latest job opportunities across the United States. Whether you're seeking your first job, making a career switch, or exploring new professional avenues, we're here to guide you with up-to-date job postings, career insights, and expert advice.  
 
 ### Our Mission  

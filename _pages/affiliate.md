@@ -4,10 +4,6 @@ layout: page-sidebar
 permalink: "/affiliate.html"
 ---
 
-# Affiliate
-
-**Last Updated:** [Insert Date]  
-
 At **US Jobs** (**us-jobs.github.io**), transparency is important to us. This page explains how we use affiliate links and how they may impact you.  
 
 ### 1. What Are Affiliate Links?  

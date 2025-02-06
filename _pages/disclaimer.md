@@ -4,8 +4,6 @@ layout: page-sidebar
 permalink: "/disclaimer"
 ---
 
-# Disclaimer  
-
 Welcome to **US Jobs** (**us-jobs.github.io**). The information provided on this website is for general informational purposes only. By using this site, you acknowledge and agree to the terms outlined in this Disclaimer.  
 
 ### 1. General Information  
