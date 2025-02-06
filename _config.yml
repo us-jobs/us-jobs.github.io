@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon-us.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'up-skills@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -35,8 +35,6 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:
