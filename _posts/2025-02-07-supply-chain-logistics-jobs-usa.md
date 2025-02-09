@@ -173,5 +173,4 @@ The demand for supply chain logistics professionals remains robust in 2025. Here
 - **Logistics Coordinator at ABC Logistics**  
   *Location:* Los Angeles, CA  
   *Responsibilities:*
-::contentReference[oaicite:0]{index=0}
  

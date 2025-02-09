@@ -21,9 +21,9 @@ In this guide, we’ll cover:
 ## 1. Why Salary Negotiation is Essential
 
 Salary negotiation isn’t just about earning more—it sets the foundation for future raises and benefits. Here’s why it matters:
-✅ **Higher starting salary = Higher lifetime earnings**
-✅ **Employers expect negotiation**—not negotiating may leave money on the table.
-✅ **It demonstrates confidence and leadership skills**
+✅ **Higher starting salary = Higher lifetime earnings** ---
+✅ **Employers expect negotiation**—not negotiating may leave money on the table. ---
+✅ **It demonstrates confidence and leadership skills** ---
 ✅ **Better benefits**—negotiation can also include perks like remote work, bonuses, and vacation days.
 
 ---
