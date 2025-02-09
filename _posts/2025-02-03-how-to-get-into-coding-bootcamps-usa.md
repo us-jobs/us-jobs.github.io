@@ -13,11 +13,11 @@ image: assets/images/featured_how-to-get-into-coding-bootcamps-usa.webp
 Coding bootcamps have become a **fast-track alternative to traditional college degrees** for those looking to enter the tech industry. With companies increasingly valuing **practical skills over formal education**, bootcamps provide an **affordable and efficient way** to gain in-demand programming expertise and secure **high-paying US jobs**.  
 
 In this guide, we’ll cover:  
-✅ **What coding bootcamps are** and why they are popular  
-✅ **Top coding bootcamps in the USA** and their specializations  
-✅ **Cost and financing options** for students  
-✅ **How bootcamps compare to traditional degrees**  
-✅ **Best career paths after completing a bootcamp**  
+✅ **What coding bootcamps are** and why they are popular  \
+✅ **Top coding bootcamps in the USA** and their specializations  \
+✅ **Cost and financing options** for students  \
+✅ **How bootcamps compare to traditional degrees**  \
+✅ **Best career paths after completing a bootcamp**  \
 
 ---
 
@@ -111,11 +111,11 @@ Graduates from **coding bootcamps** can land **high-paying US jobs** in tech. He
 
 Follow these steps to improve your chances of **getting accepted** into a top coding bootcamp:  
 
-✅ **Choose the Right Program** – Research bootcamps that align with your **career goals**.  
-✅ **Prepare for the Entrance Test** – Some bootcamps require **coding challenges** and interviews.  
-✅ **Build a Portfolio** – Showcase **basic coding projects** to demonstrate your skills.  
-✅ **Apply for Scholarships** – Reduce tuition costs by **applying for available scholarships**.  
-✅ **Join Prep Courses** – Many bootcamps offer **pre-course materials** to help beginners.  
+✅ **Choose the Right Program** – Research bootcamps that align with your **career goals**.  \
+✅ **Prepare for the Entrance Test** – Some bootcamps require **coding challenges** and interviews.  \
+✅ **Build a Portfolio** – Showcase **basic coding projects** to demonstrate your skills.  \
+✅ **Apply for Scholarships** – Reduce tuition costs by **applying for available scholarships**.  \
+✅ **Join Prep Courses** – Many bootcamps offer **pre-course materials** to help beginners.  \
 
 ---
 

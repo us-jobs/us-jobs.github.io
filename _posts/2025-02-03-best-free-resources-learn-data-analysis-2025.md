@@ -16,10 +16,10 @@ Data analysis is one of the **most in-demand skills** in the job market, offerin
 
 ## Why Learn Data Analysis?  
 
-📈 **High Demand** – Companies in the USA are actively hiring data analysts across various industries.  
-💰 **Great Salary** – The average data analyst salary in the USA is **$75,000 – $120,000 per year**.  
-🎓 **No Degree Required** – Many employers value skills and certifications over traditional degrees.  
-🔍 **Diverse Career Paths** – You can work in **finance, healthcare, marketing, and tech**.  
+📈 **High Demand** – Companies in the USA are actively hiring data analysts across various industries.  \
+💰 **Great Salary** – The average data analyst salary in the USA is **$75,000 – $120,000 per year**.  \
+🎓 **No Degree Required** – Many employers value skills and certifications over traditional degrees.  \
+🔍 **Diverse Career Paths** – You can work in **finance, healthcare, marketing, and tech**.  \
 
 Now, let's explore the **best free platforms to learn data analysis in 2025**.
 
@@ -32,9 +32,9 @@ Now, let's explore the **best free platforms to learn data analysis in 2025**.
 📌 **Best for:** Beginners and intermediate learners  
 
 **Top Free Courses:**  
-✅ Google Data Analytics Professional Certificate (audit option available)  
-✅ Data Science Methodology by IBM  
-✅ Python for Data Science by University of Michigan  
+✅ Google Data Analytics Professional Certificate (audit option available)  \
+✅ Data Science Methodology by IBM  \
+✅ Python for Data Science by University of Michigan  \
 
 ---
 
@@ -45,9 +45,9 @@ Now, let's explore the **best free platforms to learn data analysis in 2025**.
 📌 **Best for:** Learning from top universities  
 
 **Top Free Courses:**  
-✅ Data Science: R Basics by Harvard University  
-✅ Introduction to Data Science by IBM  
-✅ SQL for Data Science by UC Davis  
+✅ Data Science: R Basics by Harvard University  \
+✅ Introduction to Data Science by IBM  \
+✅ SQL for Data Science by UC Davis  \
 
 ---
 
@@ -71,9 +71,9 @@ Now, let's explore the **best free platforms to learn data analysis in 2025**.
 📌 **Best for:** Learning data analysis in Python and R  
 
 **Top Free Courses:**  
-✅ Data Analysis in Python  
-✅ SQL for Data Analysis  
-✅ Introduction to R for Data Science  
+✅ Data Analysis in Python  \
+✅ SQL for Data Analysis  \
+✅ Introduction to R for Data Science  \
 
 ---
 
@@ -123,9 +123,9 @@ Now, let's explore the **best free platforms to learn data analysis in 2025**.
 📌 **Best for:** Advanced learners  
 
 **Top Courses:**  
-✅ Introduction to Computational Thinking and Data Science  
-✅ Probability and Statistics in Data Science  
-✅ Machine Learning with Python  
+✅ Introduction to Computational Thinking and Data Science  \
+✅ Probability and Statistics in Data Science  \
+✅ Machine Learning with Python  \
 
 ---
 
@@ -133,11 +133,11 @@ Now, let's explore the **best free platforms to learn data analysis in 2025**.
 
 Once you've mastered data analysis skills, follow these steps to secure **US jobs** in this field:
 
-✅ **Build a Portfolio** – Upload projects on GitHub or Kaggle  
-✅ **Get Certifications** – Google, IBM, or Microsoft certifications add credibility  
-✅ **Gain Experience** – Do internships, freelancing, or data analysis projects  
-✅ **Optimize Your Resume** – Highlight skills like SQL, Python, and Tableau  
-✅ **Apply for Jobs** – Use platforms like LinkedIn, Indeed, and Glassdoor  
+✅ **Build a Portfolio** – Upload projects on GitHub or Kaggle  \
+✅ **Get Certifications** – Google, IBM, or Microsoft certifications add credibility  \
+✅ **Gain Experience** – Do internships, freelancing, or data analysis projects  \
+✅ **Optimize Your Resume** – Highlight skills like SQL, Python, and Tableau  \
+✅ **Apply for Jobs** – Use platforms like LinkedIn, Indeed, and Glassdoor  \
 
 ---
 

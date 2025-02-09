@@ -21,75 +21,75 @@ If you're passionate about the environment and want a **rewarding career in sust
 Green jobs are careers that contribute to environmental sustainability, renewable energy, conservation, and reducing pollution. These roles exist in various industries, including **solar energy, wind power, environmental consulting, and electric vehicle (EV) technology**.
 
 ### **Popular Green Job Sectors:**
-✔ **Renewable Energy** – Solar panel installation, wind energy technicians, energy analysts  
-✔ **Sustainable Agriculture** – Organic farming, soil conservation, sustainable food production  
-✔ **Environmental Science & Conservation** – Ecologists, conservation biologists, forestry experts  
-✔ **Green Construction** – Sustainable architects, LEED-certified engineers, eco-friendly builders  
-✔ **Electric Vehicles & Clean Transportation** – EV manufacturing, battery technology, smart transportation  
-✔ **Recycling & Waste Management** – Circular economy specialists, recycling coordinators, waste reduction managers  
+✔ **Renewable Energy** – Solar panel installation, wind energy technicians, energy analysts \ 
+✔ **Sustainable Agriculture** – Organic farming, soil conservation, sustainable food production \ 
+✔ **Environmental Science & Conservation** – Ecologists, conservation biologists, forestry experts  \
+✔ **Green Construction** – Sustainable architects, LEED-certified engineers, eco-friendly builders  \
+✔ **Electric Vehicles & Clean Transportation** – EV manufacturing, battery technology, smart transportation  \
+✔ **Recycling & Waste Management** – Circular economy specialists, recycling coordinators, waste reduction managers  \
 
 ---
 
 ## **Top Companies Hiring for Green Jobs in the USA**
 
 ### 1️⃣ **Tesla** – Leading the Electric Vehicle Revolution  
-**Industry:** Electric Vehicles (EVs), Energy Storage, Solar Power  
-**Popular Green Jobs:** Battery engineers, solar energy specialists, sustainability analysts  
-**Why Work Here?** Tesla is at the forefront of sustainable transportation and energy, offering high-paying green jobs with a focus on innovation.
+**Industry:** Electric Vehicles (EVs), Energy Storage, Solar Power  \
+**Popular Green Jobs:** Battery engineers, solar energy specialists, sustainability analysts \ 
+**Why Work Here?** Tesla is at the forefront of sustainable transportation and energy, offering high-paying green jobs with a focus on innovation. \
 
 🔗 **[Tesla Careers](https://www.tesla.com/careers)**
 
 ---
 
 ### 2️⃣ **NextEra Energy** – America’s Largest Renewable Energy Provider  
-**Industry:** Solar, Wind, Renewable Energy Infrastructure  
-**Popular Green Jobs:** Wind turbine technicians, solar engineers, grid modernization specialists  
-**Why Work Here?** NextEra Energy is one of the largest wind and solar energy providers in the USA, with vast opportunities in renewable energy careers.
+**Industry:** Solar, Wind, Renewable Energy Infrastructure  \
+**Popular Green Jobs:** Wind turbine technicians, solar engineers, grid modernization specialists  \
+**Why Work Here?** NextEra Energy is one of the largest wind and solar energy providers in the USA, with vast opportunities in renewable energy careers. \
 
 🔗 **[NextEra Energy Careers](https://www.nexteraenergy.com/careers.html)**
 
 ---
 
 ### 3️⃣ **Ørsted** – Pioneering Offshore Wind Energy  
-**Industry:** Offshore Wind Farms, Renewable Energy  
-**Popular Green Jobs:** Wind energy project managers, environmental impact specialists, marine ecologists  
-**Why Work Here?** Ørsted is a global leader in offshore wind power, investing heavily in the U.S. renewable energy sector.
+**Industry:** Offshore Wind Farms, Renewable Energy  \
+**Popular Green Jobs:** Wind energy project managers, environmental impact specialists, marine ecologists  \
+**Why Work Here?** Ørsted is a global leader in offshore wind power, investing heavily in the U.S. renewable energy sector. \
 
 🔗 **[Ørsted Careers](https://us.orsted.com/careers)**
 
 ---
 
 ### 4️⃣ **First Solar** – Advancing Photovoltaic (PV) Technology  
-**Industry:** Solar Panel Manufacturing, Renewable Energy  
-**Popular Green Jobs:** Solar technicians, photovoltaic engineers, sustainability managers  
-**Why Work Here?** First Solar is known for its cutting-edge solar technology and commitment to sustainable energy solutions.
+**Industry:** Solar Panel Manufacturing, Renewable Energy  \
+**Popular Green Jobs:** Solar technicians, photovoltaic engineers, sustainability managers  \
+**Why Work Here?** First Solar is known for its cutting-edge solar technology and commitment to sustainable energy solutions. \
 
 🔗 **[First Solar Careers](https://www.firstsolar.com/Careers)**
 
 ---
 
 ### 5️⃣ **Beyond Meat** – Innovating Sustainable Food Production  
-**Industry:** Plant-Based Food, Sustainable Agriculture  
-**Popular Green Jobs:** Food scientists, sustainable supply chain analysts, environmental compliance specialists  
-**Why Work Here?** Beyond Meat is leading the plant-based revolution, reducing carbon footprints with innovative food technology.
+**Industry:** Plant-Based Food, Sustainable Agriculture  \
+**Popular Green Jobs:** Food scientists, sustainable supply chain analysts, environmental compliance specialists  \
+**Why Work Here?** Beyond Meat is leading the plant-based revolution, reducing carbon footprints with innovative food technology. \
 
 🔗 **[Beyond Meat Careers](https://www.beyondmeat.com/careers/)**
 
 ---
 
 ### 6️⃣ **General Electric (GE) Renewable Energy** – Powering the Future  
-**Industry:** Wind Energy, Hydro Power, Grid Solutions  
-**Popular Green Jobs:** Wind energy engineers, grid modernization experts, energy efficiency analysts  
-**Why Work Here?** GE Renewable Energy is a global leader in sustainable power solutions, with a strong U.S. presence.
+**Industry:** Wind Energy, Hydro Power, Grid Solutions  \
+**Popular Green Jobs:** Wind energy engineers, grid modernization experts, energy efficiency analysts  \
+**Why Work Here?** GE Renewable Energy is a global leader in sustainable power solutions, with a strong U.S. presence. \
 
 🔗 **[GE Renewable Energy Careers](https://www.ge.com/renewableenergy/careers)**
 
 ---
 
 ### 7️⃣ **ChargePoint** – Expanding EV Charging Infrastructure  
-**Industry:** Electric Vehicle Charging Networks  
-**Popular Green Jobs:** EV infrastructure engineers, network software developers, energy consultants  
-**Why Work Here?** ChargePoint is helping expand EV charging networks across the USA, making green transportation more accessible.
+**Industry:** Electric Vehicle Charging Networks  \
+**Popular Green Jobs:** EV infrastructure engineers, network software developers, energy consultants  \
+**Why Work Here?** ChargePoint is helping expand EV charging networks across the USA, making green transportation more accessible. \
 
 🔗 **[ChargePoint Careers](https://www.chargepoint.com/careers/)**
 
@@ -99,11 +99,11 @@ Green jobs are careers that contribute to environmental sustainability, renewabl
 
 ### **1. Gain Relevant Skills & Certifications**  
 To stand out in the green job market, consider earning certifications like:
-✔ **LEED Certification** – For sustainable construction careers  
-✔ **Certified Energy Manager (CEM)** – For energy efficiency professionals  
-✔ **Solar PV Installer Certification** – For solar energy careers  
-✔ **Environmental Science Degree** – For conservation and research roles  
-✔ **Electric Vehicle Technician Certification** – For EV industry jobs  
+✔ **LEED Certification** – For sustainable construction careers  \
+✔ **Certified Energy Manager (CEM)** – For energy efficiency professionals  \
+✔ **Solar PV Installer Certification** – For solar energy careers  \
+✔ **Environmental Science Degree** – For conservation and research roles  \
+✔ **Electric Vehicle Technician Certification** – For EV industry jobs  \
 
 ### **2. Build Experience Through Internships & Volunteer Work**  
 Many environmental organizations offer hands-on experience. Look for internships at **EPA, Sierra Club, Greenpeace, and The Nature Conservancy**.
@@ -112,9 +112,9 @@ Many environmental organizations offer hands-on experience. Look for internships
 Join LinkedIn groups, attend **green job fairs**, and follow sustainability leaders to discover opportunities.
 
 ### **4. Apply to Top Green Job Platforms**  
-🟢 **Green Jobs Board** – (https://greenjobsboard.com)  
-🟢 **Sustainable Business Careers** – (https://sustainablebusiness.com/jobs)  
-🟢 **Renewable Energy Jobs** – (https://www.energyjobline.com)  
+🟢 **Green Jobs Board** – (https://greenjobsboard.com)  \
+🟢 **Sustainable Business Careers** – (https://sustainablebusiness.com/jobs)  \
+🟢 **Renewable Energy Jobs** – (https://www.energyjobline.com)  \
 
 ---
 

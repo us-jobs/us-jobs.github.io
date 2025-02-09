@@ -24,9 +24,9 @@ In this guide, we’ll explore:
 With the rise of **automation, AI, cloud computing, and cybersecurity threats**, companies need skilled professionals who can adapt to the changing landscape. According to industry reports, **US jobs in tech are growing faster than most other sectors**, with thousands of **unfilled positions** due to a skill gap.
 
 Key reasons to develop tech skills:
-🔹 **High-paying careers** – Many tech jobs offer six-figure salaries  
-🔹 **Remote work opportunities** – The tech industry leads in flexible job options  
-🔹 **Job security** – A strong demand for tech professionals ensures long-term career growth  
+🔹 **High-paying careers** – Many tech jobs offer six-figure salaries  \
+🔹 **Remote work opportunities** – The tech industry leads in flexible job options  \
+🔹 **Job security** – A strong demand for tech professionals ensures long-term career growth  \
 
 ---
 

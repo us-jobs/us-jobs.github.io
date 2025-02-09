@@ -32,34 +32,34 @@ Your choice of major can influence:
 If earning a high salary is a priority, consider majors that lead to **well-paying industries**. Here are some of the **top-paying careers** in the USA and the majors that can lead you there:
 
 ### **1. Technology & Computer Science**  
-💰 Average Salary: $80,000 - $150,000+  
-🔥 In-Demand Jobs: Software Engineer, Data Scientist, Cybersecurity Analyst  
+💰 Average Salary: $80,000 - $150,000+  \
+🔥 In-Demand Jobs: Software Engineer, Data Scientist, Cybersecurity Analyst  \
 🎓 Recommended Majors: Computer Science, Information Technology, Artificial Intelligence  
 
 ### **2. Healthcare & Medical Professions**  
-💰 Average Salary: $70,000 - $200,000+  
-🔥 In-Demand Jobs: Nurse Practitioner, Physician Assistant, Pharmacist  
+💰 Average Salary: $70,000 - $200,000+  \
+🔥 In-Demand Jobs: Nurse Practitioner, Physician Assistant, Pharmacist  \
 🎓 Recommended Majors: Nursing, Biomedical Science, Health Informatics  
 
 ### **3. Engineering**  
-💰 Average Salary: $75,000 - $130,000+  
-🔥 In-Demand Jobs: Mechanical Engineer, Electrical Engineer, Civil Engineer  
+💰 Average Salary: $75,000 - $130,000+  \
+🔥 In-Demand Jobs: Mechanical Engineer, Electrical Engineer, Civil Engineer  \
 🎓 Recommended Majors: Mechanical Engineering, Electrical Engineering, Civil Engineering  
 
 ### **4. Business & Finance**  
-💰 Average Salary: $60,000 - $150,000+  
-🔥 In-Demand Jobs: Financial Analyst, Investment Banker, Actuary  
+💰 Average Salary: $60,000 - $150,000+  \
+🔥 In-Demand Jobs: Financial Analyst, Investment Banker, Actuary  \
 🎓 Recommended Majors: Finance, Economics, Accounting  
 
 ### **5. Law & Public Policy**  
-💰 Average Salary: $80,000 - $200,000+  
-🔥 In-Demand Jobs: Lawyer, Policy Analyst, Corporate Attorney  
+💰 Average Salary: $80,000 - $200,000+  \
+🔥 In-Demand Jobs: Lawyer, Policy Analyst, Corporate Attorney  \
 🎓 Recommended Majors: Pre-Law, Political Science, Criminal Justice  
 
 ### **6. Skilled Trades & Technical Careers**  
-💰 Average Salary: $50,000 - $100,000+  
-🔥 In-Demand Jobs: Electrician, Plumber, Aircraft Mechanic  
-🎓 Recommended Majors: Trade School Certifications, Technical Programs  
+💰 Average Salary: $50,000 - $100,000+  \
+🔥 In-Demand Jobs: Electrician, Plumber, Aircraft Mechanic  \
+🎓 Recommended Majors: Trade School Certifications, Technical Programs  \
 
 ---
 
@@ -67,9 +67,9 @@ If earning a high salary is a priority, consider majors that lead to **well-payi
 
 Before selecting a major, research **job market trends** to understand which fields are growing. Key factors to consider include:
 
-📈 **Projected Job Growth** – The U.S. Bureau of Labor Statistics (BLS) predicts high demand in tech, healthcare, and engineering.  
-📊 **Salary Potential** – Check salary data from sources like Glassdoor and PayScale.  
-🎯 **Emerging Industries** – Fields like AI, renewable energy, and cybersecurity are booming.  
+📈 **Projected Job Growth** – The U.S. Bureau of Labor Statistics (BLS) predicts high demand in tech, healthcare, and engineering.  \
+📊 **Salary Potential** – Check salary data from sources like Glassdoor and PayScale. \  
+🎯 **Emerging Industries** – Fields like AI, renewable energy, and cybersecurity are booming. \ 
 
 👉 **Pro Tip:** Choose a major that aligns with future job market demands to increase your job security and salary potential.
 
@@ -79,10 +79,10 @@ Before selecting a major, research **job market trends** to understand which fie
 
 While salary is important, it’s equally crucial to pick a major that matches your **skills and passions**. Ask yourself:
 
-🔹 What subjects do I enjoy the most?  
-🔹 What are my strengths and natural talents?  
-🔹 What type of work environment do I prefer?  
-🔹 What careers align with my personality and values?  
+🔹 What subjects do I enjoy the most?  \
+🔹 What are my strengths and natural talents?  \
+🔹 What type of work environment do I prefer?  \
+🔹 What careers align with my personality and values? \ 
 
 👉 **Use Career Assessment Tools** like the **Myers-Briggs Type Indicator (MBTI)** and **Holland Code Test** to discover your ideal career path.
 
@@ -102,9 +102,9 @@ Your major alone won’t guarantee a high-paying job. Employers value **real-wor
 
 Some degrees require **more time and money** than others. Before committing, consider:
 
-📌 **Tuition Costs** – Research financial aid, scholarships, and affordable college options.  
-📌 **Return on Investment (ROI)** – Will your future salary justify the cost of your degree?  
-📌 **Alternative Education Paths** – Some high-paying careers don’t require a traditional degree (e.g., coding bootcamps, trade schools).  
+📌 **Tuition Costs** – Research financial aid, scholarships, and affordable college options.  \
+📌 **Return on Investment (ROI)** – Will your future salary justify the cost of your degree?  \
+📌 **Alternative Education Paths** – Some high-paying careers don’t require a traditional degree (e.g., coding bootcamps, trade schools).  \
 
 ---
 
@@ -112,9 +112,9 @@ Some degrees require **more time and money** than others. Before committing, con
 
 Building a strong **professional network** can open doors to high-paying careers. Here’s how:
 
-✔ **Connect with Alumni** – Use LinkedIn to reach out to graduates in your field.  
-✔ **Attend Career Fairs** – Many companies recruit directly from college events.  
-✔ **Find a Mentor** – Experienced professionals can guide your career path.  
+✔ **Connect with Alumni** – Use LinkedIn to reach out to graduates in your field.  \
+✔ **Attend Career Fairs** – Many companies recruit directly from college events. \ 
+✔ **Find a Mentor** – Experienced professionals can guide your career path.  \
 
 ---
 

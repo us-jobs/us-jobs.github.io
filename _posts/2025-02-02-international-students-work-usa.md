@@ -30,7 +30,7 @@ There are two main types of employment:
 
 On-campus jobs are the **most accessible** and flexible work option for international students. The U.S. government allows F-1 visa students to work on-campus **immediately** upon starting their studies.
 
-### ✅ Rules for On-Campus Jobs:  
+### ✅ Rules for On-Campus Jobs:  \
 - Work up to **20 hours per week** during the school term.  
 - Work **full-time (up to 40 hours)** during holidays and summer breaks.  
 - The job **must be located on-campus** or be **affiliated** with your university.  
@@ -58,7 +58,7 @@ After **one academic year**, F-1 visa students can apply for **off-campus work**
 
 CPT allows F-1 students to **work off-campus** if the job is related to their field of study.  
 
-✅ **Requirements:**  
+✅ **Requirements:**  \
 - Must complete **one full academic year** before applying.  
 - The job must be related to **your degree program**.  
 - Must be **approved by the university's Designated School Official (DSO)**.  
@@ -79,7 +79,7 @@ CPT allows F-1 students to **work off-campus** if the job is related to their fi
 
 OPT is one of the **best work opportunities** for international students in the USA. It allows F-1 visa holders to work **up to 12 months** in a job related to their major.  
 
-✅ **Eligibility:**  
+✅ **Eligibility:**  \
 - Must complete **one full academic year** before applying.  
 - Job must be **directly related** to your field of study.  
 
@@ -97,7 +97,7 @@ If you have a **STEM degree** (Science, Technology, Engineering, Math), you can 
 
 If international students face **unexpected financial difficulties**, they can apply for an **off-campus work permit** under economic hardship.  
 
-✅ **Eligibility:**  
+✅ **Eligibility:**  \
 - Must prove **financial difficulties** (e.g., loss of sponsor support).  
 - Must have **completed one year** of study.  
 - Must get approval from **USCIS**.  
@@ -154,11 +154,11 @@ If you’re an international student, start **exploring job opportunities** toda
 ---
 
 ### 📌 Quick Recap:  
-✅ **On-Campus Jobs** – Easy, no special approval needed.  
-✅ **CPT** – Work while studying if job is related to your major.  
-✅ **OPT** – Work for 12 months after graduation (36 months for STEM).  
-✅ **Economic Hardship Work** – Allowed in emergencies with USCIS approval.  
-✅ **H-1B Visa** – Pathway to permanent work in the USA.  
+✅ **On-Campus Jobs** – Easy, no special approval needed.  \
+✅ **CPT** – Work while studying if job is related to your major.  \
+✅ **OPT** – Work for 12 months after graduation (36 months for STEM).  \
+✅ **Economic Hardship Work** – Allowed in emergencies with USCIS approval.  \
+✅ **H-1B Visa** – Pathway to permanent work in the USA.  \
 
 By using these legal pathways, international students can build their careers and secure **US jobs** in their field! 🚀  
 

@@ -59,8 +59,8 @@ In-person networking is **one of the fastest ways** to land a job. **Texas hosts
 - **Chamber of Commerce Events** – Local business groups host events that are great for meeting employers.
 
 ### 🔹 How to Make the Most of Networking Events:
-✅ **Bring Business Cards** – Even if you’re a recent graduate, having a business card with your LinkedIn profile and email can make a great impression.  
-✅ **Practice Your Elevator Pitch** – Prepare a **30-second introduction** about yourself, your skills, and your job interests.  
+✅ **Bring Business Cards** – Even if you’re a recent graduate, having a business card with your LinkedIn profile and email can make a great impression.  \
+✅ **Practice Your Elevator Pitch** – Prepare a **30-second introduction** about yourself, your skills, and your job interests.  \
 ✅ **Follow Up** – After the event, connect with people on LinkedIn and send a short message thanking them for their time.
 
 ---
@@ -116,9 +116,9 @@ Recruiters **help match candidates** with job openings that aren’t always publ
 - **Murray Resources** – Connects job seekers with opportunities in Texas industries.
 
 🔹 **How to Approach Recruiters:**  
-✅ **Send a concise email or LinkedIn message** with your resume and career goals.  
-✅ **Be professional and responsive** when recruiters contact you.  
-✅ **Ask for feedback** on your resume and interview skills.
+✅ **Send a concise email or LinkedIn message** with your resume and career goals.  \
+✅ **Be professional and responsive** when recruiters contact you.  \
+✅ **Ask for feedback** on your resume and interview skills. \
 
 ---
 
@@ -127,13 +127,13 @@ Recruiters **help match candidates** with job openings that aren’t always publ
 Having a **well-structured resume and online presence** improves your chances of getting noticed by Texas employers.
 
 ### 🔹 Resume Tips:
-✅ Use **keywords** from Texas job descriptions.  
-✅ Highlight **internships, projects, and certifications** relevant to your industry.  
-✅ Keep it **one page** (unless you have extensive experience).  
+✅ Use **keywords** from Texas job descriptions.  \
+✅ Highlight **internships, projects, and certifications** relevant to your industry.  \
+✅ Keep it **one page** (unless you have extensive experience).  \
 
 ### 🔹 Online Presence:
-✅ **Google Yourself** – Ensure your online presence is **clean and professional**.  
-✅ **Optimize Your LinkedIn** – Recruiters **search LinkedIn first** before contacting candidates.  
+✅ **Google Yourself** – Ensure your online presence is **clean and professional**.  \
+✅ **Optimize Your LinkedIn** – Recruiters **search LinkedIn first** before contacting candidates.  \
 
 ---
 
@@ -142,10 +142,10 @@ Having a **well-structured resume and online presence** improves your chances of
 Getting a job in Texas after college is much easier when you **leverage networking opportunities**. Whether it’s **attending job fairs, connecting with alumni, or using LinkedIn**, building relationships can open doors to **high-paying US jobs** in Texas.
 
 ### 🚀 Take Action Today:
-✅ Optimize your **LinkedIn profile**  
-✅ Attend **Texas networking events**  
-✅ Reach out to **college alumni and recruiters**  
-✅ Apply for **internships or part-time jobs**  
+✅ Optimize your **LinkedIn profile** \
+✅ Attend **Texas networking events**  \
+✅ Reach out to **college alumni and recruiters**  \
+✅ Apply for **internships or part-time jobs**  \
 
 The more **connections you build**, the faster you’ll land your **dream job in Texas!**  
 
