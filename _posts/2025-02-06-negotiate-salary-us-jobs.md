@@ -20,7 +20,7 @@ In this guide, we’ll cover:
 
 ## 1. Why Salary Negotiation is Essential
 
-Salary negotiation isn’t just about earning more—it sets the foundation for future raises and benefits. Here’s why it matters:
+Salary negotiation isn’t just about earning more—it sets the foundation for future raises and benefits. Here’s why it matters: \
 ✅ **Higher starting salary = Higher lifetime earnings** \
 ✅ **Employers expect negotiation**—not negotiating may leave money on the table. \
 ✅ **It demonstrates confidence and leadership skills** \
@@ -101,10 +101,10 @@ If you have competing offers, use them as leverage (without sounding too aggress
 
 ## 5. Common Mistakes to Avoid in Salary Negotiation
 
-🚫 **Accepting the first offer without negotiation** – Always counter politely. 
-🚫 **Providing salary expectations too early** – It weakens your negotiation power. 
-🚫 **Using aggressive language** – Stay professional and collaborative. 
-🚫 **Focusing only on salary** – Consider the full compensation package. 
+🚫 **Accepting the first offer without negotiation** – Always counter politely. \
+🚫 **Providing salary expectations too early** – It weakens your negotiation power. \
+🚫 **Using aggressive language** – Stay professional and collaborative. \
+🚫 **Focusing only on salary** – Consider the full compensation package. \
 🚫 **Not preparing with research** – Employers respect well-informed candidates.
 
 ---
@@ -120,13 +120,13 @@ Many employers agree to a **performance-based raise review** after a few months.
 
 ---
 
-## 7. Final Checklist for Salary Negotiation
-✅ Research industry salaries in the USA
-✅ Define your target salary range
-✅ Delay salary discussions until after receiving an offer
-✅ Use a confident but collaborative tone
-✅ Be ready to negotiate perks if salary adjustments aren’t possible
-✅ Get all final agreements in **writing** before accepting the offer
+## 7. Final Checklist for Salary Negotiation \
+✅ Research industry salaries in the USA \
+✅ Define your target salary range \
+✅ Delay salary discussions until after receiving an offer \
+✅ Use a confident but collaborative tone \
+✅ Be ready to negotiate perks if salary adjustments aren’t possible \
+✅ Get all final agreements in **writing** before accepting the offer \
 
 ---
 
@@ -138,9 +138,9 @@ Are you ready to negotiate your next salary? Use these strategies and secure the
 
 ---
 
-### **Next Steps**
-🔹 **Practice your salary negotiation scripts** before interviews.
-🔹 **Research salaries** for your industry and experience level.
-🔹 **Apply these strategies** in your next job offer negotiation!
+### **Next Steps** \
+🔹 **Practice your salary negotiation scripts** before interviews. \
+🔹 **Research salaries** for your industry and experience level. \
+🔹 **Apply these strategies** in your next job offer negotiation! \
 
 Have questions or personal experiences with salary negotiation? Share them in the comments below! 😊
