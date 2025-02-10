@@ -103,7 +103,7 @@ Pursuing a STEM major from a **top US university** opens doors to high-paying ca
 💼 **Data Scientist** – Avg. Salary: **$115,000/year**  \
 💼 **Mechanical Engineer** – Avg. Salary: **$90,000/year**  \
 💼 **Cybersecurity Analyst** – Avg. Salary: **$105,000/year**  \
-💼 **Biotech Researcher** – Avg. Salary: **$95,000/year**  \
+💼 **Biotech Researcher** – Avg. Salary: **$95,000/year**  
 
 ---
 
@@ -114,7 +114,7 @@ If you’re an **international student** looking to study STEM in the USA, follo
 ✅ **Prepare for standardized tests** like SAT, GRE, or GMAT  \
 ✅ **Secure scholarships & funding** (Check FAFSA, university scholarships)  \
 ✅ **Apply for a US student visa** (F-1 Visa)  \
-✅ **Plan your career path** with **OPT & H1-B visa opportunities**  \
+✅ **Plan your career path** with **OPT & H1-B visa opportunities**  
 
 ---
 

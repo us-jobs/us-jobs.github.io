@@ -19,7 +19,7 @@ Earning a certification can help you:
 ✅ **Boost Salary Potential** – Many certifications lead to **higher-paying jobs**. \
 ✅ **Stay Competitive** – Keep up with **industry trends** and evolving job markets. \
 ✅ **Advance Your Career** – Move up in your career faster with **specialized credentials**. \
-✅ **Gain Recognition** – Certifications validate your expertise and skills. \
+✅ **Gain Recognition** – Certifications validate your expertise and skills. 
 
 ---
 
@@ -93,15 +93,15 @@ Choosing the right certification depends on:
 ✅ **Your Career Goals** – Identify what industry and role you want to work in. \
 ✅ **Job Market Demand** – Research which certifications are in demand for **US jobs**. \
 ✅ **Cost & Time Commitment** – Some certifications require exams and training courses. \
-✅ **Industry Recognition** – Ensure the certification is widely accepted by employers. \
+✅ **Industry Recognition** – Ensure the certification is widely accepted by employers. 
 
 ---
 
 ## Where to Get Certified
 
 You can obtain certifications from:
-🎓 **Professional Organizations** – PMI, ISC2, CompTIA, AWS, Google, Microsoft, etc.
-🎓 **Online Learning Platforms** – Coursera, Udemy, LinkedIn Learning, edX.
+🎓 **Professional Organizations** – PMI, ISC2, CompTIA, AWS, Google, Microsoft, etc. \
+🎓 **Online Learning Platforms** – Coursera, Udemy, LinkedIn Learning, edX. \
 🎓 **Universities & Training Institutes** – Many offer certification prep courses.
 
 ---

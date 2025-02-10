@@ -24,7 +24,7 @@ Trade jobs are skilled professions that typically require hands-on training, app
 ✔ **Quick entry into the workforce**  \
 ✔ **Strong job demand and security**  \
 ✔ **Opportunities for self-employment**  \
-✔ **Hands-on, practical work environment**  \
+✔ **Hands-on, practical work environment**  
 
 ---
 
@@ -32,7 +32,7 @@ Trade jobs are skilled professions that typically require hands-on training, app
 
 🔹 **Median Salary:** $97,000 per year  \
 🔹 **Education Requirement:** High school diploma + apprenticeship  \
-🔹 **Job Growth (2024-2034):** 6% (Faster than average)  \
+🔹 **Job Growth (2024-2034):** 6% (Faster than average)  
 
 Elevator installers and repairers are responsible for maintaining and fixing elevators, escalators, and lifts in buildings. The job offers **excellent pay and benefits**, with opportunities to work on modern high-rise structures.
 
@@ -44,7 +44,7 @@ Elevator installers and repairers are responsible for maintaining and fixing ele
 
 🔹 **Median Salary:** $134,000 per year  \
 🔹 **Education Requirement:** High school diploma + flight training  \
-🔹 **Job Growth (2024-2034):** 5%  \
+🔹 **Job Growth (2024-2034):** 5%  
 
 You don’t need a college degree to become a **commercial pilot**! Many pilots earn their licenses through **FAA-approved flight schools**. With demand increasing for cargo and regional airline pilots, this is a **high-paying and exciting career option**.
 
@@ -56,7 +56,7 @@ You don’t need a college degree to become a **commercial pilot**! Many pilots 
 
 🔹 **Median Salary:** $89,000 per year  \
 🔹 **Education Requirement:** High school diploma + extensive on-the-job training  \
-🔹 **Job Growth (2024-2034):** 1%  \
+🔹 **Job Growth (2024-2034):** 1%  
 
 Power plant operators oversee **the production and distribution of electricity**. This role requires technical skills and problem-solving abilities, making it ideal for individuals who enjoy working with **machinery and control systems**.
 
@@ -68,7 +68,7 @@ Power plant operators oversee **the production and distribution of electricity**
 
 🔹 **Median Salary:** $93,000 per year  \
 🔹 **Education Requirement:** Associate degree or certification  \
-🔹 **Job Growth (2024-2034):** 7% (Faster than average)  \
+🔹 **Job Growth (2024-2034):** 7% (Faster than average)  
 
 Radiation therapists assist in treating cancer patients by operating radiation equipment. The job is both **financially and emotionally rewarding**.
 
@@ -80,7 +80,7 @@ Radiation therapists assist in treating cancer patients by operating radiation e
 
 🔹 **Median Salary:** $98,000 per year  \
 🔹 **Education Requirement:** High school diploma + experience or certification  \
-🔹 **Job Growth (2024-2034):** 8% (Faster than average)  \
+🔹 **Job Growth (2024-2034):** 8% (Faster than average)  
 
 Experienced construction professionals can advance into **management roles**, overseeing large projects and construction crews.
 
@@ -92,7 +92,7 @@ Experienced construction professionals can advance into **management roles**, ov
 
 🔹 **Median Salary:** $75,000 per year  \
 🔹 **Education Requirement:** FAA-certified training program  \
-🔹 **Job Growth (2024-2034):** 5%  \
+🔹 **Job Growth (2024-2034):** 5%  
 
 Aircraft mechanics maintain and repair airplanes, ensuring flight safety. The job offers great stability and high pay.
 
@@ -104,7 +104,7 @@ Aircraft mechanics maintain and repair airplanes, ensuring flight safety. The jo
 
 🔹 **Median Salary:** $65,000 per year  \
 🔹 **Education Requirement:** Apprenticeship or trade school  \
-🔹 **Job Growth (2024-2034):** 9% (Much faster than average)  \
+🔹 **Job Growth (2024-2034):** 9% (Much faster than average)  
 
 Electricians are in **high demand** as modern infrastructure relies heavily on electrical systems.
 
@@ -116,7 +116,7 @@ Electricians are in **high demand** as modern infrastructure relies heavily on e
 
 🔹 **Median Salary:** $63,000 per year  \
 🔹 **Education Requirement:** Apprenticeship  \
-🔹 **Job Growth (2024-2034):** 5%  \
+🔹 **Job Growth (2024-2034):** 5%  
 
 Plumbing is a **steady, well-paying trade** with strong demand in residential and commercial buildings.
 
@@ -128,7 +128,7 @@ Plumbing is a **steady, well-paying trade** with strong demand in residential an
 
 🔹 **Median Salary:** $60,000 per year  \
 🔹 **Education Requirement:** Trade school certification  \
-🔹 **Job Growth (2024-2034):** 45% (One of the fastest-growing jobs!)  \
+🔹 **Job Growth (2024-2034):** 45% (One of the fastest-growing jobs!)  
 
 With the rise of **renewable energy**, wind turbine technicians are in high demand to install and maintain wind farms.
 
@@ -140,7 +140,7 @@ With the rise of **renewable energy**, wind turbine technicians are in high dema
 
 🔹 **Median Salary:** $55,000 per year  \
 🔹 **Education Requirement:** Trade school or apprenticeship  \
-🔹 **Job Growth (2024-2034):** 6%  \
+🔹 **Job Growth (2024-2034):** 6%  
 
 Heating, ventilation, and air conditioning (HVAC) technicians ensure that homes and businesses stay comfortable year-round.
 

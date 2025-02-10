@@ -19,7 +19,7 @@ Before we rank the top states, let's look at the **key factors** that make a sta
 ✅ **Cost of Living** – A high salary means little if the cost of living is too high. \
 ✅ **Teacher Benefits** – Health insurance, retirement plans, and job security. \
 ✅ **Job Openings** – More available positions mean better opportunities. \
-✅ **Work-Life Balance** – Teaching conditions, student-to-teacher ratios, and support systems matter. \
+✅ **Work-Life Balance** – Teaching conditions, student-to-teacher ratios, and support systems matter. 
 
 ---
 
@@ -100,10 +100,10 @@ Colorado offers a **beautiful environment, great work-life balance, and strong e
 ## Benefits of Being a Teacher in the USA  
 Apart from salary, teachers in the USA receive numerous **benefits** that make the profession fulfilling:
 
-📌 **Healthcare Coverage** – Comprehensive medical, dental, and vision plans.  
-📌 **Retirement Plans** – Pensions and 401(k) contributions for future financial security.  
-📌 **Summer Breaks** – Long vacations allow time for personal growth or travel.  
-📌 **Professional Development** – Grants and training opportunities for career growth.  
+📌 **Healthcare Coverage** – Comprehensive medical, dental, and vision plans.  \
+📌 **Retirement Plans** – Pensions and 401(k) contributions for future financial security.  \
+📌 **Summer Breaks** – Long vacations allow time for personal growth or travel.  \
+📌 **Professional Development** – Grants and training opportunities for career growth.  \
 📌 **Union Support** – Many states have strong teacher unions that advocate for educators.
 
 ---

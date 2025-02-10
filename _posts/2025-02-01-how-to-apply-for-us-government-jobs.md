@@ -34,8 +34,8 @@ The best way to find government jobs is through official job portals:
 - **Local Government Websites** – Check the **city or county websites** for municipal job openings.
 
 **Tips for Researching:**
-✔ Use **keywords like 'us jobs', 'government jobs', or 'federal jobs'** to narrow your search.
-✔ Set up **job alerts** on USAJOBS to receive notifications about new openings.
+✔ Use **keywords like 'us jobs', 'government jobs', or 'federal jobs'** to narrow your search. \
+✔ Set up **job alerts** on USAJOBS to receive notifications about new openings. \
 ✔ Read **job descriptions carefully** to ensure you meet eligibility requirements.
 
 ---
@@ -61,8 +61,8 @@ Most government jobs require the following:
 - **Certifications & Licenses** – Depending on the role (e.g., teaching, law enforcement).
 
 **Resume Tips for Government Jobs:**
-✔ Use **bullet points** to list achievements and responsibilities.
-✔ Focus on **quantifiable results** (e.g., “Managed a budget of $1M” instead of “Handled finances”).
+✔ Use **bullet points** to list achievements and responsibilities. \
+✔ Focus on **quantifiable results** (e.g., “Managed a budget of $1M” instead of “Handled finances”). \
 ✔ Include relevant **keywords from the job description** to pass automated screening systems.
 
 ---
@@ -87,8 +87,8 @@ After applying, the hiring process may include:
 - **Interviews** – May be conducted in person, via phone, or through video.
 - **Background Check** – Federal jobs require extensive security clearance.
 
-✔ **Practice Common Interview Questions** – Research typical questions for government jobs.
-✔ **Follow Up** – If you don’t hear back, check your application status on USAJOBS.
+✔ **Practice Common Interview Questions** – Research typical questions for government jobs. \
+✔ **Follow Up** – If you don’t hear back, check your application status on USAJOBS. \
 ✔ **Stay Patient** – Government hiring can take weeks or months.
 
 ---

@@ -24,7 +24,7 @@ Many students opt for **prep courses** because:
 ✔ Offer **expert guidance** from tutors \
 ✔ Include **practice tests** that simulate real exams \
 ✔ Help improve **test-taking strategies** \
-✔ Increase chances of **higher scores** and college admissions \
+✔ Increase chances of **higher scores** and college admissions 
 
 ---
 
@@ -38,7 +38,7 @@ Many students opt for **prep courses** because:
 ✅ Personalized study plans \
 ✅ Over 1000+ practice questions \
 ✅ Official test simulations \
-✅ Score improvement guarantee \
+✅ Score improvement guarantee 
 
 💰 **Pricing:** Starts at **$699** for online self-paced; **$1299** for live courses
 
@@ -54,7 +54,7 @@ Many students opt for **prep courses** because:
 ✅ Expert instructors \
 ✅ AI-driven personalized study plans \
 ✅ Access to real past SAT & ACT exams \
-✅ 100% score improvement guarantee \
+✅ 100% score improvement guarantee 
 
 💰 **Pricing:** Starts at **$899**
 
@@ -70,7 +70,7 @@ Many students opt for **prep courses** because:
 ✅ Personalized practice questions \
 ✅ Step-by-step video explanations \
 ✅ Adaptive learning technology \
-✅ Full-length practice tests \
+✅ Full-length practice tests 
 
 💰 **Pricing:** **Free**
 
@@ -86,7 +86,7 @@ Many students opt for **prep courses** because:
 ✅ Customized study plans \
 ✅ Video lessons & practice quizzes \
 ✅ Expert one-on-one tutoring \
-✅ 5-day free trial \
+✅ 5-day free trial 
 
 💰 **Pricing:** Starts at **$397**
 
@@ -102,7 +102,7 @@ Many students opt for **prep courses** because:
 ✅ 1400+ practice questions \
 ✅ Score predictor tool \
 ✅ 7-day free trial \
-✅ 5-point score improvement guarantee \
+✅ 5-point score improvement guarantee 
 
 💰 **Pricing:** Starts at **$129**
 
@@ -117,7 +117,7 @@ Many students opt for **prep courses** because:
 📌 **Learning Style** – Live classes vs. self-paced study \
 📌 **Practice Tests** – Ensure the course offers full-length practice exams \
 📌 **Score Guarantee** – Some courses offer a refund if scores don’t improve \
-📌 **Reviews & Ratings** – Check student feedback before enrolling \
+📌 **Reviews & Ratings** – Check student feedback before enrolling 
 
 ---
 

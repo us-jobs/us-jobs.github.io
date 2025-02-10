@@ -20,7 +20,7 @@ New York City is home to some of the **best business schools in the US**, offeri
 ✅ **World-Class Education** – Top universities with **renowned faculty, global business connections, and cutting-edge research**.  \
 ✅ **Career Opportunities** – Proximity to **major financial hubs, consulting firms, and tech startups** that actively recruit MBA graduates.  \
 ✅ **Networking Potential** – NYC provides **endless networking events, alumni connections, and corporate partnerships**.  \
-✅ **Higher Salary Potential** – Graduates from NYC business schools often land **six-figure jobs in US companies**.  \
+✅ **Higher Salary Potential** – Graduates from NYC business schools often land **six-figure jobs in US companies**.  
 
 Now, let’s explore the **top MBA programs in New York City**.  
 
@@ -130,9 +130,9 @@ Now, let’s explore the **top MBA programs in New York City**.
 
 Pursuing an MBA in New York City provides access to **unparalleled career opportunities**. Here’s how an NYC-based MBA can help you secure a **high-paying job in the US**:  
 
-✔ **Networking with Industry Leaders** – Gain direct access to **top executives, recruiters, and alumni networks**.  
-✔ **Internship Opportunities** – Most NYC MBA programs offer **internships at leading firms** to boost your resume.  
-✔ **Recruitment by Top Companies** – NYC business schools have **strong partnerships** with Fortune 500 companies.  
+✔ **Networking with Industry Leaders** – Gain direct access to **top executives, recruiters, and alumni networks**.  \
+✔ **Internship Opportunities** – Most NYC MBA programs offer **internships at leading firms** to boost your resume.  \
+✔ **Recruitment by Top Companies** – NYC business schools have **strong partnerships** with Fortune 500 companies.  \
 ✔ **High Salary Potential** – MBA graduates from NYC schools earn some of the **highest salaries in the US**.  
 
 ---
@@ -144,7 +144,7 @@ Choosing the **right MBA program in New York City** can set you up for **a succe
 ### 🚀 Take Action Today:  
 ✅ **Research MBA programs** and apply to the best fit for your career goals.  \
 ✅ **Connect with alumni** to learn about their experiences and job placements.  \
-✅ **Attend MBA open houses** and networking events in NYC.  \
+✅ **Attend MBA open houses** and networking events in NYC.  
 
 With the right choice, your MBA from New York City can **open doors to incredible job opportunities** in the US! 🎓✨  
 

@@ -41,9 +41,9 @@ LinkedIn is **one of the most powerful tools** for job seekers in Texas. Many re
 - **Engage with Content:** Comment on industry-related posts, share insights, and connect with professionals in your field.
 
 ### 🔹 How to Network on LinkedIn:
-1. **Follow Texas-based companies** you’re interested in.
-2. **Send connection requests** to alumni from your college who work in Texas.
-3. **Message professionals in your industry** with a short, personalized note.
+1. **Follow Texas-based companies** you’re interested in. \
+2. **Send connection requests** to alumni from your college who work in Texas. \
+3. **Message professionals in your industry** with a short, personalized note. \
 4. **Join Texas networking groups** like "Austin Tech Jobs" or "Houston Business Networking."
 
 ---
@@ -118,7 +118,7 @@ Recruiters **help match candidates** with job openings that aren’t always publ
 🔹 **How to Approach Recruiters:**  
 ✅ **Send a concise email or LinkedIn message** with your resume and career goals.  \
 ✅ **Be professional and responsive** when recruiters contact you.  \
-✅ **Ask for feedback** on your resume and interview skills. \
+✅ **Ask for feedback** on your resume and interview skills. 
 
 ---
 
@@ -129,7 +129,7 @@ Having a **well-structured resume and online presence** improves your chances of
 ### 🔹 Resume Tips:
 ✅ Use **keywords** from Texas job descriptions.  \
 ✅ Highlight **internships, projects, and certifications** relevant to your industry.  \
-✅ Keep it **one page** (unless you have extensive experience).  \
+✅ Keep it **one page** (unless you have extensive experience).  
 
 ### 🔹 Online Presence:
 ✅ **Google Yourself** – Ensure your online presence is **clean and professional**.  \
@@ -145,7 +145,7 @@ Getting a job in Texas after college is much easier when you **leverage networki
 ✅ Optimize your **LinkedIn profile** \
 ✅ Attend **Texas networking events**  \
 ✅ Reach out to **college alumni and recruiters**  \
-✅ Apply for **internships or part-time jobs**  \
+✅ Apply for **internships or part-time jobs**  
 
 The more **connections you build**, the faster you’ll land your **dream job in Texas!**  
 

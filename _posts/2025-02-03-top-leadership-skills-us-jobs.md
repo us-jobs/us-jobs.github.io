@@ -15,7 +15,7 @@ In today's competitive job market, employers in the USA are looking for professi
 In this guide, we will cover:
 ✅ The **most in-demand leadership skills** in the USA  \
 ✅ How to **develop and demonstrate these skills** in the workplace  \
-✅ The impact of leadership skills on **career growth and job opportunities**  \
+✅ The impact of leadership skills on **career growth and job opportunities**  
 
 ---
 
@@ -27,7 +27,7 @@ Leadership skills go beyond managing a team. Employers seek individuals who can 
 🔹 **Increases job opportunities** – Many employers prefer hiring candidates with leadership potential.  \
 🔹 **Enhances career progression** – Employees with leadership skills are often **promoted faster**.  \
 🔹 **Boosts workplace productivity** – Effective leaders **motivate teams** and **improve collaboration**.  \
-🔹 **Develops problem-solving abilities** – Strong leaders excel at **decision-making and crisis management**.  \
+🔹 **Develops problem-solving abilities** – Strong leaders excel at **decision-making and crisis management**.  
 
 ---
 

@@ -59,7 +59,7 @@ If earning a high salary is a priority, consider majors that lead to **well-payi
 ### **6. Skilled Trades & Technical Careers**  
 💰 Average Salary: $50,000 - $100,000+  \
 🔥 In-Demand Jobs: Electrician, Plumber, Aircraft Mechanic  \
-🎓 Recommended Majors: Trade School Certifications, Technical Programs  \
+🎓 Recommended Majors: Trade School Certifications, Technical Programs  
 
 ---
 
@@ -82,7 +82,7 @@ While salary is important, it’s equally crucial to pick a major that matches y
 🔹 What subjects do I enjoy the most?  \
 🔹 What are my strengths and natural talents?  \
 🔹 What type of work environment do I prefer?  \
-🔹 What careers align with my personality and values? \ 
+🔹 What careers align with my personality and values? 
 
 👉 **Use Career Assessment Tools** like the **Myers-Briggs Type Indicator (MBTI)** and **Holland Code Test** to discover your ideal career path.
 
@@ -104,7 +104,7 @@ Some degrees require **more time and money** than others. Before committing, con
 
 📌 **Tuition Costs** – Research financial aid, scholarships, and affordable college options.  \
 📌 **Return on Investment (ROI)** – Will your future salary justify the cost of your degree?  \
-📌 **Alternative Education Paths** – Some high-paying careers don’t require a traditional degree (e.g., coding bootcamps, trade schools).  \
+📌 **Alternative Education Paths** – Some high-paying careers don’t require a traditional degree (e.g., coding bootcamps, trade schools).  
 
 ---
 
@@ -114,7 +114,7 @@ Building a strong **professional network** can open doors to high-paying careers
 
 ✔ **Connect with Alumni** – Use LinkedIn to reach out to graduates in your field.  \
 ✔ **Attend Career Fairs** – Many companies recruit directly from college events. \ 
-✔ **Find a Mentor** – Experienced professionals can guide your career path.  \
+✔ **Find a Mentor** – Experienced professionals can guide your career path.  
 
 ---
 

@@ -16,7 +16,7 @@ In this guide, we’ll cover:
 ✅ What is the **H1-B visa** and who qualifies?  \
 ✅ How to find **sponsoring US employers**  \
 ✅ Step-by-step process to apply for the **H1-B visa**  \
-✅ Tips to increase your chances of **getting selected**  \
+✅ Tips to increase your chances of **getting selected**  
 
 ---
 
@@ -24,7 +24,7 @@ In this guide, we’ll cover:
 
 The **H1-B visa** is a **non-immigrant work visa** that allows **foreign professionals** to work in the United States for up to **6 years**. It is designed for individuals with specialized skills in **STEM (Science, Technology, Engineering, and Math), finance, healthcare, education, and more**.  
 
-### ✅ **H1-B Visa Eligibility Criteria**  \
+### ✅ **H1-B Visa Eligibility Criteria**  
 To qualify for an H1-B visa, you must:  
 - Have a **job offer from a US employer** willing to sponsor you.  
 - Work in a **specialized field** that typically requires a bachelor’s degree or higher.  
@@ -71,7 +71,7 @@ Your resume should be tailored for **US employers** to increase your chances of 
 ✅ Use a **clean, professional format** (No pictures, fancy fonts, or colors).  \
 ✅ Highlight **skills in demand** (especially in STEM, finance, and healthcare).  \
 ✅ List **quantifiable achievements** instead of generic job descriptions.  \
-✅ Include **LinkedIn profile** and **contact details** (email & phone number).  \
+✅ Include **LinkedIn profile** and **contact details** (email & phone number).  
 
 ---
 
@@ -117,10 +117,10 @@ Once you get a **job offer**, your employer will apply for an **H1-B visa on you
 
 ## Tips to Increase Your Chances of Getting an H1-B Job  
 
-🎯 **1. Apply Early** – Many companies close applications before the H1-B lottery.  
-🎯 **2. Choose High-Demand Fields** – STEM, healthcare, finance, and AI have better chances.  
-🎯 **3. Target Big Tech & Consulting Firms** – They sponsor **thousands** of H1-B visas annually.  
-🎯 **4. Network on LinkedIn** – Connect with hiring managers and employees.  
+🎯 **1. Apply Early** – Many companies close applications before the H1-B lottery.  \
+🎯 **2. Choose High-Demand Fields** – STEM, healthcare, finance, and AI have better chances.  \
+🎯 **3. Target Big Tech & Consulting Firms** – They sponsor **thousands** of H1-B visas annually. \ 
+🎯 **4. Network on LinkedIn** – Connect with hiring managers and employees.  \
 🎯 **5. Apply for Multiple Companies** – The more applications, the better your chances.  
 
 ---
@@ -132,7 +132,7 @@ If you don’t get an H1-B visa, here are some **alternative work visas**:
 ✅ **O-1 Visa** – For highly skilled professionals with **extraordinary ability**.  \
 ✅ **L-1 Visa** – If your company has a US office, they can **transfer you**.  \
 ✅ **TN Visa** – For **Canadian & Mexican professionals** under NAFTA.  \
-✅ **E-2 Visa** – For entrepreneurs who want to **start a business in the USA**.  \
+✅ **E-2 Visa** – For entrepreneurs who want to **start a business in the USA**.  
 
 ---
 
@@ -140,9 +140,9 @@ If you don’t get an H1-B visa, here are some **alternative work visas**:
 
 Landing a **US job** as a foreigner requires strategy, patience, and persistence. The **H1-B visa** is the best way to work legally in the USA, but you need a **sponsoring employer** and must follow the correct process.  
 
-🔹 **Start your job search early**  
-🔹 **Optimize your resume for US employers**  
-🔹 **Apply for multiple companies** to increase your chances  
+🔹 **Start your job search early**  \
+🔹 **Optimize your resume for US employers**  \
+🔹 **Apply for multiple companies** to increase your chances  \
 🔹 **Explore alternative work visa options** if needed  
 
 If you’re serious about working in the USA, start applying today! 🚀  
@@ -154,7 +154,7 @@ If you’re serious about working in the USA, start applying today! 🚀
 ✅ You need a **US employer to sponsor your visa**.  \
 ✅ Jobs in **STEM, finance, healthcare, and education** have better chances.  \
 ✅ Use **LinkedIn, Indeed, and MyVisaJobs** to find H1-B sponsors.  \
-✅ If you don’t get selected, consider **alternative visas** like O-1, L-1, or TN.  \
+✅ If you don’t get selected, consider **alternative visas** like O-1, L-1, or TN.  
 
 ---
 

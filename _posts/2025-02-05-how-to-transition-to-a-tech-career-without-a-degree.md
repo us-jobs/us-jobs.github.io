@@ -97,7 +97,7 @@ Gaining experience will boost your confidence and job chances. Here’s how:
 🌟 **Freelance** – Start by taking projects on **Upwork, Fiverr, or Toptal**. \
 🌟 **Internships & Apprenticeships** – Many companies offer paid opportunities. \
 🌟 **Volunteer Work** – Offer to build a website or do IT support for a small business. \
-🌟 **Personal Projects** – Create an app, website, or data dashboard on your own. \
+🌟 **Personal Projects** – Create an app, website, or data dashboard on your own. 
 
 ---
 
@@ -109,14 +109,14 @@ Many top companies **hire based on skills** rather than degrees. Here’s how to
 ✅ **Use LinkedIn** – Connect with recruiters and follow tech companies. \
 ✅ **Apply for Entry-Level Jobs** – Search for “Junior Developer,” “IT Support,” or “Data Analyst” roles. \
 ✅ **Prepare for Interviews** – Practice coding challenges on **LeetCode or HackerRank**. \
-✅ **Network** – Join **tech meetups, online forums, and Discord communities**. \
+✅ **Network** – Join **tech meetups, online forums, and Discord communities**. 
 
 ### **Top Companies Hiring Without a Degree:**
 📌 **Google** – Google Career Certificates can help you land a tech job. \
 📌 **IBM** – Offers tech apprenticeships for non-degree candidates. \
 📌 **Tesla** – Elon Musk hires people with skills over degrees. \
 📌 **Amazon AWS** – Focuses on cloud skills, not college education. \
-📌 **Microsoft** – Offers tech training and certification pathways. \
+📌 **Microsoft** – Offers tech training and certification pathways. 
 
 ---
 
@@ -127,7 +127,7 @@ The tech field evolves fast. To stay competitive:
 🚀 **Keep up with trends** – Follow blogs like TechCrunch and Wired. \
 🚀 **Take advanced courses** – Specialize in **machine learning, cloud computing, or cybersecurity**. \
 🚀 **Get more certifications** – Higher-level certifications can increase salary potential. \
-🚀 **Join tech communities** – Engage in LinkedIn groups, Reddit, or Slack channels. \
+🚀 **Join tech communities** – Engage in LinkedIn groups, Reddit, or Slack channels. 
 
 ---
 

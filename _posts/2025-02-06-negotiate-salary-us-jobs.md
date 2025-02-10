@@ -120,13 +120,13 @@ Many employers agree to a **performance-based raise review** after a few months.
 
 ---
 
-## 7. Final Checklist for Salary Negotiation \
+## 7. Final Checklist for Salary Negotiation 
 ✅ Research industry salaries in the USA \
 ✅ Define your target salary range \
 ✅ Delay salary discussions until after receiving an offer \
 ✅ Use a confident but collaborative tone \
 ✅ Be ready to negotiate perks if salary adjustments aren’t possible \
-✅ Get all final agreements in **writing** before accepting the offer \
+✅ Get all final agreements in **writing** before accepting the offer 
 
 ---
 
@@ -138,9 +138,9 @@ Are you ready to negotiate your next salary? Use these strategies and secure the
 
 ---
 
-### **Next Steps** \
+### **Next Steps** 
 🔹 **Practice your salary negotiation scripts** before interviews. \
 🔹 **Research salaries** for your industry and experience level. \
-🔹 **Apply these strategies** in your next job offer negotiation! \
+🔹 **Apply these strategies** in your next job offer negotiation! 
 
 Have questions or personal experiences with salary negotiation? Share them in the comments below! 😊
