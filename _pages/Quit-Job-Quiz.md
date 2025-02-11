@@ -6,44 +6,7 @@ permalink: "/Quit-Job-Quiz"
 
 <style>
 
-.quiz-container {
-    background: white  !important;
-    padding: 20px  !important;
-    border-radius: 10px  !important;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)  !important;
-    text-align: center  !important;
-    width: 350px  !important;
-}
-.progress-bar {
-    width: 100%;
-    background-color: #ddd  !important;
-    border-radius: 5px  !important;
-    margin-bottom: 15px  !important;
-}
-.progress {
-    height: 10px;
-    background-color: #3498db  !important;
-    border-radius: 5px  !important;
-    width: 0%;
-}
-.question {
-    font-size: 18px;
-    margin-bottom: 15px;
-}
-.options button {
-    display: block !important;
-    width: 100%;
-    margin: 5px 0;
-    padding: 10px;
-    border: none;
-    background: #3498db !important;
-    color: white  !important;
-    border-radius: 5px  !important;
-    cursor: pointer;
-}
-.options button:hover {
-    background: #2980b9  !important;
-}
+
 </style>
 
 {% endif %}
@@ -150,33 +113,6 @@ permalink: "/Quit-Job-Quiz"
     loadQuestion();
 </script>
 
-We’d love to hear from you! Whether you have questions, suggestions, or partnership inquiries, feel free to reach out.  
-
-### 📧 Email Us  
-For general inquiries and support, email us at:  
-**[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
-
-### 📝 Submit a Message  
-Fill out the form below to send us a message:  
-
-<form action="https://formspree.io/f/mvgzqzzn" method="POST">    
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
-</div>
-<div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-success" type="submit" value="Send">
-</form>
-
-### 📍 Follow Us  
-Stay connected for the latest job updates and career tips:  
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/CODINGRHODES)  
- 
 
 📌 **Looking for a job?** Browse the latest listings at **[us-jobs.github.io](https://us-jobs.github.io/)**  
 
