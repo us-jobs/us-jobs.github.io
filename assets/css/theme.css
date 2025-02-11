@@ -46,6 +46,7 @@ a.text-dark:hover {
 	min-width: 180px;
 	max-width: 190px;
 	z-index:9999;
+	text-align: center;
 }
 
 @media screen and (max-width: 1430px) {
