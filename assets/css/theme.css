@@ -41,15 +41,12 @@ a.text-dark:hover {
 }
 .side-bar-left-ads {
 	position: fixed;
-	top: 70px;
+	top: 90px;
 	left: 3px;
 	min-width: 180px;
 	max-width: 190px;
 	z-index:9999;
 	text-align: center;
-}
-.side-bar-left-buttons {
-	margin-top: 40px !important;
 }
 
 .quiz-container {
