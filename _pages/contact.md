@@ -29,8 +29,7 @@ Fill out the form below to send us a message:
 
 ### 📍 Follow Us  
 Stay connected for the latest job updates and career tips:  
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
-- **LinkedIn**: [Your LinkedIn Page](https://linkedin.com/in/YourProfile)  
+- **Twitter**: [@YourTwitterHandle](https://twitter.com/CODINGRHODES)  
 
 📌 **Looking for a job?** Browse the latest listings at **[us-jobs.github.io](https://us-jobs.github.io/)**  
 
