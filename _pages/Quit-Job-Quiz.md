@@ -5,32 +5,25 @@ permalink: "/Quit-Job-Quiz"
 ---
 
 <style>
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
+
 .quiz-container {
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    width: 350px;
+    background: white  !important;
+    padding: 20px  !important;
+    border-radius: 10px  !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)  !important;
+    text-align: center  !important;
+    width: 350px  !important;
 }
 .progress-bar {
     width: 100%;
-    background-color: #ddd;
-    border-radius: 5px;
-    margin-bottom: 15px;
+    background-color: #ddd  !important;
+    border-radius: 5px  !important;
+    margin-bottom: 15px  !important;
 }
 .progress {
     height: 10px;
-    background-color: #3498db;
-    border-radius: 5px;
+    background-color: #3498db  !important;
+    border-radius: 5px  !important;
     width: 0%;
 }
 .question {
@@ -38,18 +31,18 @@ body {
     margin-bottom: 15px;
 }
 .options button {
-    display: block;
+    display: block !important;
     width: 100%;
     margin: 5px 0;
     padding: 10px;
     border: none;
-    background: #3498db;
-    color: white;
-    border-radius: 5px;
+    background: #3498db !important;
+    color: white  !important;
+    border-radius: 5px  !important;
     cursor: pointer;
 }
 .options button:hover {
-    background: #2980b9;
+    background: #2980b9  !important;
 }
 </style>
 
