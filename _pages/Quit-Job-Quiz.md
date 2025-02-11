@@ -4,12 +4,6 @@ layout: page-sidebar
 permalink: "/Quit-Job-Quiz"
 ---
 
-<style>
-
-
-</style>
-
-{% endif %}
 
 <div class="quiz-container">
         <div class="progress-bar">
