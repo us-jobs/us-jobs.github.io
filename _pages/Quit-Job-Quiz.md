@@ -4,8 +4,6 @@ layout: page-sidebar
 permalink: "/Quit-Job-Quiz"
 ---
 
-{% if page.url == "/" %}
-
 <style>
 body {
     font-family: Arial, sans-serif;
