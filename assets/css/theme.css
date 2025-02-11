@@ -49,7 +49,7 @@ a.text-dark:hover {
 	text-align: center;
 }
 .side-bar-left-buttons {
-	margin-top: 40px;
+	margin-top: 40px !important;
 }
 @media screen and (max-width: 1430px) {
 	.side-bar-left-ads {
