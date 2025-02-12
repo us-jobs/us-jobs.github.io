@@ -27,6 +27,8 @@ Fill out the form below to send us a message:
 <input class="btn btn-success" type="submit" value="Send">
 </form>
 
+---
+
 ### 📍 Follow Us  
 Stay connected for the latest job updates and career tips:  
 - **Twitter**: [@CODINGRHODES](https://twitter.com/CODINGRHODES)  
