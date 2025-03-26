@@ -48,6 +48,15 @@ a.text-dark:hover {
 	z-index:9999;
 	text-align: center;
 }
+.side-bar-right-ads {
+	position: fixed;
+	top: 90px;
+	right: 3px;
+	min-width: 180px;
+	max-width: 190px;
+	z-index:9999;
+	text-align: center;
+}
 
 .quiz-container {
 	background: white  !important;
@@ -90,6 +99,9 @@ a.text-dark:hover {
 }
 @media screen and (max-width: 1430px) {
 	.side-bar-left-ads {
+		display:none;
+	}
+	.side-bar-right-ads {
 		display:none;
 	}
 	
