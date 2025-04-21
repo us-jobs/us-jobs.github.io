@@ -91,8 +91,6 @@ After years in transitional housing with her two children, Latasha applied to Am
 
 ## 🛠️ Practical Tips for Homeless Job Seekers
 
-![Amazon warehouse employees working together in a fulfillment center.]({{ site.baseurl }}/assets/images/Why-Amazon-Warehouse-Jobs-Are-Game-Changer-for-Homeless.webp)
-
 1. **Stay reachable.** Set up voicemail and check email often.
 2. **Dress clean and neat.** Most shelters offer donated interview clothing.
 3. **Be honest about your background.** Amazon values transparency.
