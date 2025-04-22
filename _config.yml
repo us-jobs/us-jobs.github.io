@@ -2,7 +2,7 @@
 # General Site Settings
 title: US Jobs
 logo: 'images/us-logo.png' # Add your logo path
-description: A series of day-long workshops covering best practices, software, methods for Genomics, Microbiology, and Immunology (GEMINI)
+description: 'US-Jobs: Your go-to source for the latest job trends, career advice, and employment opportunities across the USA.'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 future: true
