@@ -1,6 +1,6 @@
 ---
 title: "Should I Quit My Job? Quiz"
-layout: page-sidebar
+layout: page
 permalink: "/Quit-Job-Quiz"
 ---
 

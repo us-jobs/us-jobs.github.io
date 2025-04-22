@@ -5,7 +5,7 @@ description: "Explore the top summer internships in the USA for high school stud
 keywords: "us jobs, summer internships, high school internships, student jobs USA, internship programs, career opportunities for teens"
 categories: [Career, Internships, US Jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_best-summer-internships-usa-high-school-students.webp
+image: /images/featured_best-summer-internships-usa-high-school-students.webp
 ---
 
 ## **The Best Summer Internships in the USA for High School Students**

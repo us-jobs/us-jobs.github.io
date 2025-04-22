@@ -6,7 +6,7 @@ keywords: "amazon jobs usa"
 categories: [Employment, Homeless Support, USA Jobs, Amazon Careers]
 tags: [amazon jobs usa, homeless jobs, job assistance, warehouse work, reentry programs, remote jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_homeless-apply-amazon-jobs-usa.webp
+image: /images/featured_homeless-apply-amazon-jobs-usa.webp
 ---
 
 In a country filled with opportunities like the United States, the idea of rebuilding one’s life often begins with **getting a job**. But for many homeless individuals, this path can seem blocked by barriers such as lack of documentation, no fixed address, and limited access to the internet. The good news? **Amazon jobs USA** offer a potential lifeline — and this article is here to break down exactly how to access it.

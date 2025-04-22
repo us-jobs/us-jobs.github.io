@@ -5,7 +5,7 @@ description: "Discover the best strategies for selecting a college major that le
 keywords: "us jobs, high-paying careers, college major, best majors, career planning, job market, education"
 categories: [Education, Career, US Jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_how-to-choose-a-college-major-high-paying-career.webp
+image: /images/featured_how-to-choose-a-college-major-high-paying-career.webp
 ---
 
 ## **How to Choose a College Major That Leads to a High-Paying Career**

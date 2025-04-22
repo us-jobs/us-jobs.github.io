@@ -5,7 +5,7 @@ description: "Discover the best strategies to find top jobs at US Jobs Placement
 categories: [Career, us jobs]
 tags: [ job search]
 author: "Coding Rhodes"
-image: assets/images/featured_find-best-jobs-at-us-jobs-placement.webp
+image: /images/featured_find-best-jobs-at-us-jobs-placement.webp
 ---
 
 ## Introduction

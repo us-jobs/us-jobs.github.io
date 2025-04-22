@@ -5,7 +5,7 @@ categories: [education, FAFSA, student aid, financial aid]
 tags: [FAFSA, federal student aid, US jobs, financial aid guide, USA education, college funding]
 excerpt: "Navigating FAFSA can be confusing, but it’s an essential step for securing federal student aid. This guide explains how to navigate the FAFSA process, find financial support, and how it relates to future US jobs."
 author: "Coding Rhodes"
-image: assets/images/featured_navigate-fafsa-guide-federal-student-aid.webp
+image: /images/featured_navigate-fafsa-guide-federal-student-aid.webp
 ---
 
 ## How to Navigate FAFSA: A Guide to Federal Student Aid in the USA

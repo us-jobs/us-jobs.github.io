@@ -5,7 +5,7 @@ description: "Discover how to start a freelance career in the USA without prior 
 keywords: "us jobs, freelance career, work from home USA, freelancing tips, beginner freelancers, gig economy, remote work"
 categories: [Career, Freelancing, US Jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_how-to-build-a-freelance-career-usa.webp
+image: /images/featured_how-to-build-a-freelance-career-usa.webp
 ---
 
 ## **How to Build a Freelance Career in the USA with No Experience**

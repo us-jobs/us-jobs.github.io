@@ -5,7 +5,7 @@ description: "Learn how to maintain a healthy work-life balance while working re
 keywords: "us jobs, remote work, work-life balance, productivity tips, remote job stress, time management, work from home"
 categories: [Career, Remote Work, Work-Life Balance]
 author: "Coding Rhodes"
-image: assets/images/featured_tips-balancing-work-life-remote-job.webp
+image: /images/featured_tips-balancing-work-life-remote-job.webp
 ---
 
 ## **Tips for Balancing Work and Life in a Remote Job**

@@ -5,7 +5,7 @@ description: "Discover expert strategies to optimize your LinkedIn profile and n
 tags: [US jobs, LinkedIn, job search, career tips, networking]
 categories: [Education, Test Prep, US Jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_how-to-use-linkedin-for-us-jobs.webp
+image: /images/featured_how-to-use-linkedin-for-us-jobs.webp
 ---
 
 ## How to Use LinkedIn to Land a Job in the USA

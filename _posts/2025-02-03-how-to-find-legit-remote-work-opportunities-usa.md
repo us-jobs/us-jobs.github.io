@@ -4,7 +4,7 @@ title: "How to Find Legit Remote Work Opportunities in the USA"
 description: "Looking for legit remote work in the USA? Discover the best platforms, tips, and strategies to land high-paying US jobs from home."
 tags: [US jobs, remote work, work from home, online jobs, freelancing]
 author: "Coding Rhodes"
-image: assets/images/featured_how-to-find-legit-remote-work-opportunities-usa.webp
+image: /images/featured_how-to-find-legit-remote-work-opportunities-usa.webp
 ---
 
 ## How to Find Legit Remote Work Opportunities in the USA  

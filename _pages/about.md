@@ -1,6 +1,6 @@
 ---
 title: "About US"
-layout: page-sidebar
+layout: page
 permalink: "/about-us.html"
 comments: true
 ---

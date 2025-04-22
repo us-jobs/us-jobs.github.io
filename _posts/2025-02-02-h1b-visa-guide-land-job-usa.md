@@ -5,7 +5,7 @@ categories: [H1-B Visa, Immigration, US Jobs, Work in USA]
 tags: [H1-B visa, US jobs, work visa, immigration, job search USA, foreigners in USA]
 excerpt: "Want to work in the USA? Learn how to land a job as a foreigner and navigate the H1-B visa process successfully. Step-by-step guide for job seekers worldwide."
 author: "Coding Rhodes"
-image: assets/images/featured_h1b-visa-guide-land-job-usa.webp
+image: /images/featured_h1b-visa-guide-land-job-usa.webp
 ---
 
 # H1-B Visa Guide: How to Land a Job in the USA as a Foreigner  

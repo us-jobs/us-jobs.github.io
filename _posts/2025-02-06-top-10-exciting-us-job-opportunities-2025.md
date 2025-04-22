@@ -5,7 +5,7 @@ description: "Explore the latest job openings across various industries in the U
 tags: [US jobs, job opportunities, career development, employment, featured]
 categories: [Education, Test Prep, US Jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_exciting-us-job-opportunities-2025.webp
+image: /images/featured_exciting-us-job-opportunities-2025.webp
 ---
 
 ## Introduction

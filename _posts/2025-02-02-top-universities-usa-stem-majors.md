@@ -5,7 +5,7 @@ categories: [Education, STEM, US Jobs, Universities]
 tags: [STEM education, US jobs, best universities, study in USA, technology, engineering, science, mathematics]
 excerpt: "Looking to pursue a STEM major in the USA? Discover the top universities offering world-class programs in Science, Technology, Engineering, and Mathematics, and how they can help you secure US jobs."
 author: "Coding Rhodes"
-image: assets/images/featured_top-universities-usa-stem-majors.webp
+image: /images/featured_top-universities-usa-stem-majors.webp
 ---
 
 # Top Universities in the USA for STEM Majors: A Comprehensive Guide  

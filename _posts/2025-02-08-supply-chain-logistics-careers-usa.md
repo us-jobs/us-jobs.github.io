@@ -4,7 +4,7 @@ title: "Supply Chain Logistics Jobs in the USA: Companies Hiring Now"
 categories: [Career, Supply Chain, Logistics]
 tags: [supply chain logistics jobs USA, companies hiring, job opportunities]
 author: "Coding Rhodes"
-image: assets/images/featured_supply-chain-logistics-careers-usa.webp
+image: /images/featured_supply-chain-logistics-careers-usa.webp
 ---
 
 The supply chain and logistics sector in the USA is experiencing significant growth, leading to a surge in demand for qualified professionals. This article explores the current job market, highlights companies actively hiring, and provides guidance on securing a position in this dynamic field.

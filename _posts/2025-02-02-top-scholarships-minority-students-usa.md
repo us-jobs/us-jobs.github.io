@@ -5,7 +5,7 @@ categories: [scholarships, education, minority students, USA, US jobs]
 tags: [scholarships, minority students, education, financial aid, US jobs, higher education]
 excerpt: "Explore the top scholarships available for minority students in the USA and learn how these opportunities can help you pursue higher education and secure future US jobs."
 author: "Coding Rhodes"
-image: assets/images/featured_top-scholarships-minority-students-usa.webp
+image: /images/featured_top-scholarships-minority-students-usa.webp
 ---
 
 ## Top Scholarships for Minority Students in the USA

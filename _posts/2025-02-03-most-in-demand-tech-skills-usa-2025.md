@@ -5,7 +5,7 @@ categories: [Technology, US Jobs, Careers]
 tags: [tech skills, US jobs, IT careers, software development, AI, cybersecurity]
 excerpt: "Looking to boost your career in tech? Discover the most in-demand tech skills in the USA for 2025 and how mastering them can help you secure high-paying US jobs."
 author: "Coding Rhodes"
-image: assets/images/featured_most-in-demand-tech-skills-usa-2025.webp
+image: /images/featured_most-in-demand-tech-skills-usa-2025.webp
 ---
 
 ## The Most In-Demand Tech Skills in the USA for 2025

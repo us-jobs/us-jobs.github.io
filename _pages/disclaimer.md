@@ -1,6 +1,6 @@
 ---
 title: "Disclaimer"
-layout: page-sidebar
+layout: page
 permalink: "/disclaimer"
 ---
 

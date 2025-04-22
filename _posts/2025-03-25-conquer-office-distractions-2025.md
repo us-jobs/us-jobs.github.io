@@ -5,7 +5,7 @@ categories: productivity
 tags: [office-distractions, productivity, affiliate-marketing, work-from-office]
 description: "Discover how I tackled office distractions in 2025! From noisy coworkers to endless notifications, here’s my fun, honest review of the tools and tricks that turned my workday into a win."
 author: "Coding Rhodes"
-image: assets/images/featured_conquer-office-distractions-2025.webp
+image: /images/featured_conquer-office-distractions-2025.webp
 ---
 
 Hey there, fellow office warriors! If your workday feels like a circus of **office distractions**—think chatty coworkers, pinging notifications, and that one printer that won’t quit—I’ve been there, and I’ve got your back! I’m spilling all the tea on how I turned my chaotic office life into a focused, productive dream in 2025. Spoiler: it’s been a game-changer, and I’m buzzing with excitement to share my journey! 🚀

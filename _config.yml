@@ -1,55 +1,85 @@
-# Site
-name: 'US Jobs'
-description: 'US-Jobs: Your go-to source for the latest job trends, career advice, and employment opportunities across the USA.'
-logo: 'assets/images/us-jobs-logo.png'
-favicon: 'assets/images/favicon-us.ico'
-baseurl: ''
-disqus: 'demowebsite'
-email: 'up-skills@gmail.com'
-mailchimp-list: ''
+#-------------------------------
+# General Site Settings
+title: US Jobs
+logo: 'images/us-logo.png' # Add your logo path
+description: A series of day-long workshops covering best practices, software, methods for Genomics, Microbiology, and Immunology (GEMINI)
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "" # The base hostname & protocol for your site, e.g. http://example.com
+future: true
 
-include: ["_pages"]
-permalink: /:title/
+#-------------------------------
+# Author Settings
+author:
+  name: Coding Rhodes
+  title: Coding Rhodes
+  description: Hi, I am Coding Rhodes, One of the blog authors of this site. Do let me know in the comments, If you have any Questions.
+  image: '/images/Author-codingRhodes.webp'
+  avatar: '/images/Author-codingRhodes.webp'
 
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-  
-authors:
-    CodingRhodes:
-      name:           Coding Rhodes
-      site:           /
-      avatar:         assets/images/Author-codingRhodes.webp
-      bio:            "Hi, I am Coding Rhodes, the author of this article, Do let me know If you have any Questions"
-      email:          CodingRhodes@gmail.com
-      twitter:        https://x.com/CodingRhodes
- 
-# Defaults
-defaults:
+social:
+- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/codingrhodes"}
+# - {icon: "ion-logo-github", label: Github, link: "https://github.com/"}
 
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
+# Example of adding a new link to the author section - {icon: "ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Newsletter (_includes/footer-widgets/widget-subscribe.html)
+mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
+mailchimp__title: Get interesting news # Add your Title
+mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp__button__text: Join # Add your button text
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your email for contact form
+  description: Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Build Settings
 markdown: kramdown
-highlighter: rouge
+permalink: /:title
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
 
-# Paginate
-paginate: 10
+paginate: 12
+paginate_path: "/page/:num"
 
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
 
+include:
+  - _pages
 
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  /:title
+
+sass:
+  sass_dir: _sass
+  style: compressed

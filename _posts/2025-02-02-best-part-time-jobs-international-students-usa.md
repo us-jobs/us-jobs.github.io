@@ -5,7 +5,7 @@ description: "Explore the best part-time jobs for international students in the 
 keywords: "part-time jobs, international students, US jobs, working in the USA, student employment"
 categories: [Career, Education, Jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_best-part-time-jobs-international-students-usa.webp
+image: /images/featured_best-part-time-jobs-international-students-usa.webp
 ---
 
 ## Introduction

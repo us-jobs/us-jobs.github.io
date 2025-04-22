@@ -5,7 +5,7 @@ description: "Discover essential tips for writing a compelling Statement of Purp
 keywords: "Statement of Purpose, U.S. Colleges, US jobs, college application, SOP writing tips"
 categories: [College, Education, SOP Writing]
 author: "Coding Rhodes"
-image: assets/images/featured_tips-for-writing-statement-of-purpose-us-colleges.webp
+image: /images/featured_tips-for-writing-statement-of-purpose-us-colleges.webp
 ---
 
 ## Introduction

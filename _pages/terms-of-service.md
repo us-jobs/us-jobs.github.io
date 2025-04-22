@@ -1,6 +1,6 @@
 ---
 title: "Terms of Service"
-layout: page-sidebar
+layout: page
 permalink: "/terms-of-service"
 ---
 

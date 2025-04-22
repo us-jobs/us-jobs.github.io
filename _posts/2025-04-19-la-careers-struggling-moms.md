@@ -6,7 +6,7 @@ keywords: "us jobs"
 categories: [Career, Single Mothers, Los Angeles Jobs, Flexible Work]
 tags: [us jobs, flexible jobs, single moms, LA careers, remote jobs, gig economy, women empowerment]
 author: "Coding Rhodes"
-image: assets/images/featured_a-careers-struggling-moms.webp
+image: /images/featured_a-careers-struggling-moms.webp
 ---
 
 **Being a single mom in Los Angeles is no easy feat.** Between childcare, rent, groceries, and emotional load, finding work that pays the bills *and* fits around your life is a challenge. But here’s the good news: the landscape of **US jobs** is changing—and it’s changing in your favor.

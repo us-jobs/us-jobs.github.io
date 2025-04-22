@@ -5,7 +5,7 @@ description: "Discover how to start a career in the U.S. film industry with behi
 keywords: "us jobs, film industry careers, behind the scenes jobs, Hollywood jobs, production assistant, filmmaking jobs, entertainment industry"
 categories: [Career, Film Industry, US Jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_breaking-into-us-film-industry-jobs.webp
+image: /images/featured_breaking-into-us-film-industry-jobs.webp
 ---
 
 ## **Breaking into the U.S. Film Industry: Jobs Behind the Scenes**

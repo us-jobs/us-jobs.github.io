@@ -1,6 +1,6 @@
 ---
 title: "Affiliate"
-layout: page-sidebar
+layout: page
 permalink: "/affiliate.html"
 ---
 

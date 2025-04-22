@@ -5,7 +5,7 @@ description: "Learn how to start a tech career in the USA without a formal degre
 keywords: "us jobs, tech career, no degree jobs, IT jobs USA, career transition, coding bootcamps, remote tech jobs"
 categories: [Career, Tech, US Jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_how-to-transition-to-a-tech-career-without-a-degree.webp
+image: /images/featured_how-to-transition-to-a-tech-career-without-a-degree.webp
 ---
 
 ## **How to Transition to a Tech Career Without a Degree**

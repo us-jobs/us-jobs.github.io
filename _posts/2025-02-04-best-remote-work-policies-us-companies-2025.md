@@ -4,7 +4,7 @@ title: "The Best Remote Work Policies Offered by U.S. Companies in 2025"
 description: "Looking for US jobs with great remote work policies? Discover the top companies in the USA offering the best work-from-home benefits in 2025."
 tags: [US jobs, remote work, work from home, flexible jobs, hybrid jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_best-remote-work-policies-us-companies-2025.webp
+image: /images/featured_best-remote-work-policies-us-companies-2025.webp
 ---
 
 ## The Best Remote Work Policies Offered by U.S. Companies in 2025  

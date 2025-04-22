@@ -5,7 +5,7 @@ categories: [education, international students, college life]
 tags: [affordable colleges, international students, US jobs, study in the USA, higher education, college tuition]
 description: "Discover the top 10 affordable colleges in the USA for international students. Explore your options for higher education in the U.S. and how studying here can lead to future US jobs."
 author: "Coding Rhodes"
-image: assets/images/featured_affordable-colleges-usa-international-students.webp
+image: /images/featured_affordable-colleges-usa-international-students.webp
 ---
 
 

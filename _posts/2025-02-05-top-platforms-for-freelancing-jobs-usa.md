@@ -4,7 +4,7 @@ title: "Top Platforms for Freelancing Jobs in the USA"
 description: "Looking for high-paying freelance jobs in the USA? Discover the best freelancing platforms for US jobs, including Upwork, Fiverr, and Toptal."
 tags: [US jobs, freelancing, work from home, online jobs, gig economy]
 author: "Coding Rhodes"
-image: assets/images/featured_top-platforms-for-freelancing-jobs-usa.webp
+image: /images/featured_top-platforms-for-freelancing-jobs-usa.webp
 ---
 
 ## Top Platforms for Freelancing Jobs in the USA  

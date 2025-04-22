@@ -1,151 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    {% if page.url == "/" %}
-    <title>{{page.title}} | {{site.name}}</title>
-    {% endif %}
 
-    {% seo %}
+{% include head.html %}
 
-    <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
+<body>
+  {% if site.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
 
-    <!-- Font Awesome Icons -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  {% include header.html %}
 
-    <!-- Google Fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="stylesheet">
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
+    {{ content }}
+  </main>
+  <!-- end content -->
 
-    <!-- Bootstrap Modified -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+  <div class="top" title="Top"><i class="ion ion-ios-arrow-round-up"></i></div>
 
-    <!-- Theme Stylesheet -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
+  {% include footer.html %}
 
-    <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
-    <!-- <script
-    src="https://code.jquery.com/jquery-3.3.1.min.js"
-    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-    crossorigin="anonymous"></script> -->
-    <!-- Analytics -->
-    <!-- Google tag (gtag.js) -->
-    <script defer src="https://www.googletagmanager.com/gtag/js?id=G-7MT99FR3T6"></script>
-    <script defer>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-7MT99FR3T6');
-    </script>
-
-
-    {% include tracking-header.html %}
-
-    <!-- Added searchs -->
-    <meta name="msvalidate.01" content="D949E2F107551F710F1D7CCF92BE9E7E" />
-    <meta name="yandex-verification" content="df4e56b7ff3b08d2" />
-    <meta name="seznam-wmt" content="qvHyVUDEZN8FuHEAPH5fgsaGtZ1wvj6Z" />
-    <meta name="naver-site-verification" content="" />
-
-
-     <!-- Yandex.Metrika counter -->
-    <script defer type="text/javascript" >
-        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-        m[i].l=1*new Date();
-        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-    
-        ym(99851181, "init", {
-            clickmap:true,
-            trackLinks:true,
-            accurateTrackBounce:true
-        });
-    </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/99851181" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-    <!-- /Yandex.Metrika counter -->
-
-    <!-- <script async="async" data-cfasync="false" src="//pl26222277.effectiveratecpm.com/f87adbf393405cf171f85014e699cb60/invoke.js"></script> -->
-    <!-- <div id="container-f87adbf393405cf171f85014e699cb60"></div> -->
-
-
-</head>
-
-<body class="{% if page.url == "/" %} homefirstpage {% endif %}">
-
-    <!-- Navbar -->
-    <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
-    <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="../assets/images/us-logo.png" alt="Logo"></a>
-        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="navbar-collapse collapse" id="navbarColor02" style="">
-            <ul class="navbar-nav mr-auto d-flex align-items-center">
-               {% include menu-header.html %}
-            </ul>
-            <ul class="navbar-nav ml-auto d-flex align-items-center">
-                {% include search-lunr.html %}
-            </ul>
-        </div>
-    </div>
-    </nav>
-
-    <!-- Search Results -->
-    <div id="lunrsearchresults">
-        <ul class="mb-0"></ul>
-    </div>
-
-    <!-- Content -->
-    <main role="main" class="site-content">
-        <div class="side-bar-left-ads">
-            <div class="side-bar-left-buttons">
-                <a href="/Quit-Job-Quiz" class="heart btn btn-success mt-2">Quit Job Quiz</a>
-            </div>
-        </div>
-        <div class="side-bar-right-ads">
-
-        </div>
-
-        {{ content }}
-    </main>
-    <!-- Scripts: popper, bootstrap, theme, lunr -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-
-    <script src="{{site.baseurl}}/assets/js/theme.js"></script>
-
-
-    <!-- Footer -->
-    <footer class="bg-white border-top p-3 text-muted small">
-        <div class="container">
-        <div class="row align-items-center justify-content-center">
-            <div>
-                <span class="navbar-brand mr-2 mb-0"><strong>US Jobs</strong></span>
-                <span>Copyright © <script>document.write(new Date().getFullYear())</script>.</span>
-
-            </div>
-        </div>
-
-        <br>
-        <div class="row align-items-center justify-content-between">
-            <a href="/about-us">About US</a>
-            <a href="/contact-us">Contact US</a>
-            <a href="/privacy-policy">Privacy Policies</a>
-            <a href="/disclaimer">Disclaimer</a>
-            <a href="/affiliate">Affiliate Policy</a>
-            <a href="/terms-of-service">Terms of Service</a>
-            <a href="/sitemap.xml">Site Map</a>
-
-        </div>
-        </div>
-    </footer>
-
-    {% include tracking-footer.html %}
-
+  <script src="{{ site.baseurl }}/js/scripts.js"></script>
 </body>
 
 </html>

@@ -4,7 +4,7 @@ title: "Best Job Search Websites in the USA for 2025"
 description: "Discover the top job search websites in the USA for 2025. Find the best platforms to land your dream job in the competitive US jobs market."
 tags: [US jobs, job search, career, employment, job websites]
 author: "Coding Rhodes"
-image: assets/images/featured_best-job-search-sites-usa-2025.webp
+image: /images/featured_best-job-search-sites-usa-2025.webp
 ---
 
 ## Best Job Search Websites in the USA for 2025

@@ -5,7 +5,7 @@ description: "Prepare for US jobs with expert answers to the top 10 interview qu
 tags: [US jobs, interview questions, job market, career tips, job search]
 categories: [Education, Test Prep, US Jobs]
 author: "Coding Rhodes"
-image: assets/images/featured_top-10-us-job-interview-questions.webp
+image: /images/featured_top-10-us-job-interview-questions.webp
 ---
 
 ## Top 10 Interview Questions Asked by U.S. Employers and How to Answer Them

@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-layout: page-sidebar
+layout: page
 permalink: "/contact-us"
 ---
 
@@ -13,20 +13,23 @@ For general inquiries and support, email us at:
 ### 📝 Submit a Message  
 Fill out the form below to send us a message:  
 
-<form action="https://formspree.io/f/mvgzqzzn" method="POST">    
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
-</div>
-<div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-success" type="submit" value="Send">
-</form>
-
+  <form class="form" action="{% if site.contact.email %}https://formspree.io/{{site.contact.email}}{% else %}https://formspree.io/f/mvgzqzzn{% endif %}" method="POST">
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
+      <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Message" required></textarea>
+    </div>
+    <div class="form__group">
+      <button class="button button--dark" type="submit">Send Message</button>
+    </div>
+  </form>
 ---
 
 ### 📍 Follow Us  

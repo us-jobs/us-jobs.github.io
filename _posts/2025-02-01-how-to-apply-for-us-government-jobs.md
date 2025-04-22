@@ -6,7 +6,7 @@ keywords: "us jobs, government jobs, USA job application, federal jobs, state jo
 categories: [Career, Jobs, Employment]
 tags: [featured]
 author: "Coding Rhodes"
-image: assets/images/featured_how-to-apply-for-us-government-jobs.webp
+image: /images/featured_how-to-apply-for-us-government-jobs.webp
 ---
 
 ## How to Apply for Government Jobs in the USA: A Step-by-Step Guide

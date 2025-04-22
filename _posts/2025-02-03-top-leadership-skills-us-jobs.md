@@ -5,7 +5,7 @@ categories: [Career, Leadership, US Jobs]
 tags: [leadership skills, career growth, US jobs, professional development, workplace success]
 excerpt: "Discover the top leadership skills employers in the USA value the most. Learn how to develop these skills and increase your chances of securing high-paying US jobs."
 author: "Coding Rhodes"
-image: assets/images/featured_top-leadership-skills-us-jobs.webp
+image: /images/featured_top-leadership-skills-us-jobs.webp
 ---
 
 ## Top Leadership Skills Employers in the USA Look For  
