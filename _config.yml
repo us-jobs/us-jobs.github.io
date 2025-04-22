@@ -36,8 +36,8 @@ mailchimp__button__text: Join # Add your button text
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
-  description: Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: codingrhodes@email.com # Add your email for contact form
+  description:  # Add a description of your form
 
 # NOTE
 # Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -45,7 +45,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: codingrhodes # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
