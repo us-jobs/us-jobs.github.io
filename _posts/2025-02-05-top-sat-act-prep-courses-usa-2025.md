@@ -31,93 +31,93 @@ Many students opt for **prep courses** because:
 ## **Best SAT/ACT Prep Courses in 2025**
 
 ### **1. Kaplan SAT & ACT Prep**
-📌 **Best for:** Comprehensive study plans and interactive learning
+**Best for:** Comprehensive study plans and interactive learning
 
 **Features:**
-✅ Live and on-demand classes \
-✅ Personalized study plans \
-✅ Over 1000+ practice questions \
-✅ Official test simulations \
-✅ Score improvement guarantee 
+- Live and on-demand classes \
+- Personalized study plans \
+- Over 1000+ practice questions \
+- Official test simulations \
+- Score improvement guarantee 
 
-💰 **Pricing:** Starts at **$699** for online self-paced; **$1299** for live courses
+**Pricing:** Starts at **$699** for online self-paced; **$1299** for live courses
 
-👉 **Visit:** [Kaplan Test Prep](https://www.kaptest.com)
+**Visit:** [Kaplan Test Prep](https://www.kaptest.com)
 
 ---
 
 ### **2. The Princeton Review SAT/ACT Prep**
-📌 **Best for:** Guaranteed high score improvements
+**Best for:** Guaranteed high score improvements
 
 **Features:**
-✅ 140+ hours of online content \
-✅ Expert instructors \
-✅ AI-driven personalized study plans \
-✅ Access to real past SAT & ACT exams \
-✅ 100% score improvement guarantee 
+- 140+ hours of online content \
+- Expert instructors \
+- AI-driven personalized study plans \
+- Access to real past SAT & ACT exams \
+- 100% score improvement guarantee 
 
-💰 **Pricing:** Starts at **$899**
+**Pricing:** Starts at **$899**
 
-👉 **Visit:** [The Princeton Review](https://www.princetonreview.com)
+**Visit:** [The Princeton Review](https://www.princetonreview.com)
 
 ---
 
 ### **3. Khan Academy (Free SAT Prep)**
-📌 **Best for:** Budget-friendly SAT prep
+**Best for:** Budget-friendly SAT prep
 
 **Features:**
-✅ Free official SAT prep by College Board \
-✅ Personalized practice questions \
-✅ Step-by-step video explanations \
-✅ Adaptive learning technology \
-✅ Full-length practice tests 
+- Free official SAT prep by College Board \
+- Personalized practice questions \
+- Step-by-step video explanations \
+- Adaptive learning technology \
+- Full-length practice tests 
 
-💰 **Pricing:** **Free**
+**Pricing:** **Free**
 
-👉 **Visit:** [Khan Academy](https://www.khanacademy.org/sat)
+**Visit:** [Khan Academy](https://www.khanacademy.org/sat)
 
 ---
 
 ### **4. PrepScholar SAT & ACT Prep**
-📌 **Best for:** Adaptive learning technology
+**Best for:** Adaptive learning technology
 
 **Features:**
-✅ Smart diagnostic assessments \
-✅ Customized study plans \
-✅ Video lessons & practice quizzes \
-✅ Expert one-on-one tutoring \
-✅ 5-day free trial 
+- Smart diagnostic assessments \
+- Customized study plans \
+- Video lessons & practice quizzes \
+- Expert one-on-one tutoring \
+- 5-day free trial 
 
-💰 **Pricing:** Starts at **$397**
+**Pricing:** Starts at **$397**
 
-👉 **Visit:** [PrepScholar](https://www.prepscholar.com)
+**Visit:** [PrepScholar](https://www.prepscholar.com)
 
 ---
 
 ### **5. Magoosh SAT/ACT Prep**
-📌 **Best for:** Affordable self-paced learning
+**Best for:** Affordable self-paced learning
 
 **Features:**
-✅ Video-based lessons \
-✅ 1400+ practice questions \
-✅ Score predictor tool \
-✅ 7-day free trial \
-✅ 5-point score improvement guarantee 
+- Video-based lessons \
+- 1400+ practice questions \
+- Score predictor tool \
+- 7-day free trial \
+- 5-point score improvement guarantee 
 
-💰 **Pricing:** Starts at **$129**
+**Pricing:** Starts at **$129**
 
-👉 **Visit:** [Magoosh](https://www.magoosh.com)
+**Visit:** [Magoosh](https://www.magoosh.com)
 
 ---
 
 ## **How to Choose the Best Prep Course for You**
 
 ### Consider These Factors:
-📌 **Budget** – Choose a course that fits your budget \
-📌 **Learning Style** – Live classes vs. self-paced study \
-📌 **Practice Tests** – Ensure the course offers full-length practice exams \
-📌 **Score Guarantee** – Some courses offer a refund if scores don’t improve \
-📌 **Reviews & Ratings** – Check student feedback before enrolling 
+**Budget** – Choose a course that fits your budget \
+**Learning Style** – Live classes vs. self-paced study \
+**Practice Tests** – Ensure the course offers full-length practice exams \
+**Score Guarantee** – Some courses offer a refund if scores don’t improve \
+**Reviews & Ratings** – Check student feedback before enrolling 
 
 ---
 

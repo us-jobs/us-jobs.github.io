@@ -112,9 +112,9 @@ Many environmental organizations offer hands-on experience. Look for internships
 Join LinkedIn groups, attend **green job fairs**, and follow sustainability leaders to discover opportunities.
 
 ### **4. Apply to Top Green Job Platforms**  
-🟢 **Green Jobs Board** – (https://greenjobsboard.com)  \
-🟢 **Sustainable Business Careers** – (https://sustainablebusiness.com/jobs)  \
-🟢 **Renewable Energy Jobs** – (https://www.energyjobline.com)  
+- **Green Jobs Board** – (https://greenjobsboard.com)  \
+- **Sustainable Business Careers** – (https://sustainablebusiness.com/jobs)  \
+- **Renewable Energy Jobs** – (https://www.energyjobline.com)  
 
 ---
 
@@ -122,7 +122,7 @@ Join LinkedIn groups, attend **green job fairs**, and follow sustainability lead
 
 As the U.S. shifts toward sustainability, **green jobs are in high demand**. Whether you’re passionate about **renewable energy, sustainable food, or climate technology**, these companies offer exciting career paths.
 
-🌍 **Ready to make a difference?** Start applying to **green jobs in the USA** today and contribute to a more sustainable future! 🚀
+**Ready to make a difference?** Start applying to **green jobs in the USA** today and contribute to a more sustainable future! 
 
-💬 **Do you have questions about green jobs?** Drop a comment below! 👇
+*Do you have questions about green jobs?** Drop a comment below! 
 

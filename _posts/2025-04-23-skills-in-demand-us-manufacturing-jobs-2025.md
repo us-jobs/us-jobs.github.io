@@ -15,7 +15,7 @@ This in-depth guide outlines the **top skills employers are looking for in the m
 
 ---
 
-## ⚙️ Why Skills Matter More Than Ever
+## Why Skills Matter More Than Ever
 
 With rapid advancements in automation, artificial intelligence, and digital manufacturing, employers are on the hunt for talent who can:
 
@@ -29,7 +29,7 @@ With rapid advancements in automation, artificial intelligence, and digital manu
 
 ---
 
-## 🏆 Top Skills in Demand for Manufacturing in 2025
+## Top Skills in Demand for Manufacturing in 2025
 
 ### 1. **CNC Machining & Programming**
 - Skills needed: G-code programming, blueprint reading, machine calibration
@@ -66,7 +66,7 @@ With rapid advancements in automation, artificial intelligence, and digital manu
 
 ---
 
-## 🎓 Where to Get Trained
+## Where to Get Trained
 
 | Platform | Type | Example Courses | Cost |
 |---------|------|------------------|------|
@@ -82,7 +82,7 @@ Affiliate Suggestion:
 
 ---
 
-## 📈 Industry Trends Driving Skill Demand
+## Industry Trends Driving Skill Demand
 
 - **Reshoring:** More US companies bringing jobs back from overseas
 - **EV Manufacturing Boom:** New skills needed for battery assembly and component integration
@@ -91,7 +91,7 @@ Affiliate Suggestion:
 
 ---
 
-## 👨‍🏭 Real Stories from the Field
+## Real Stories from the Field
 
 > “My Six Sigma training helped me move from a $16/hr floor job to a $30/hr process analyst role.” – *Jasmine R., Detroit*
 
@@ -99,7 +99,7 @@ Affiliate Suggestion:
 
 ---
 
-## 🧭 How to Land a Manufacturing Job with the Right Skills
+## How to Land a Manufacturing Job with the Right Skills
 
 - **Update your resume** with newly earned certifications
 - **Use job boards** like ZipRecruiter and Indeed
@@ -109,7 +109,7 @@ Affiliate Suggestion:
 
 ---
 
-## 📝 Sample Resume Section
+## Sample Resume Section
 
 **Technical Skills**
 - CNC Programming (G-Code)
@@ -124,7 +124,7 @@ Affiliate Suggestion:
 
 ---
 
-## 📍 Suggested Job Titles to Search
+## Suggested Job Titles to Search
 - CNC Operator
 - Automation Technician
 - Maintenance Mechanic
@@ -134,7 +134,7 @@ Affiliate Suggestion:
 
 ---
 
-## 💬 FAQ
+## FAQ
 
 ### Q1: Can I learn manufacturing skills online?
 Yes, platforms like Skillshare, Coursera, and Udemy offer beginner to advanced technical training courses.
@@ -153,7 +153,7 @@ Most short-term certifications take 3–9 months to complete.
 
 ---
 
-## ✅ Final Thoughts
+## Final Thoughts
 
 The demand for skilled workers in US manufacturing jobs is growing fast, especially in 2025. Whether you're entering the field or looking to upskill, the time to invest in your training is now.
 
