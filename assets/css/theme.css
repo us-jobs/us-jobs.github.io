@@ -871,11 +871,12 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- .article-audio {
+ button.article-audio {
 	padding:2px 10px !important;
   	border-radius:5px !important;
 	border: none !important;
 	box-shadow: 0 2px 8px #ddd !important;
+	margin-top: 5px !important;
  }
  button#play {
 	background: #2ef92e !important;
@@ -886,4 +887,7 @@ div.a2a_full_footer {display:none;}
  button#stop {
 	background: #fd6e36 !important;
  }
- 
+ .text-alexa-tts {
+	margin-top: 10px !important;
+	font-weight: bold !important;
+ }
