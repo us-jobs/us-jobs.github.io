@@ -65,10 +65,191 @@ layout: default
 		<div class="col-md-12 col-lg-8">
             
             <!-- Article -->
-			<article class="article-post">                
+			<div class="tts-controls">
+				<button id="play" aria-label="Play article audio">Play</button>
+				<button id="pause" aria-label="Pause article audio">Pause</button>
+				<button id="stop" aria-label="Stop article audio">Stop</button>
+			</div>
+			<article class="article-post" id="article-post-tts">                
 			{{ content }}                
 			</article>
+			    <!-- WebsiteVoice Widget -->
+				<script>
+					(function (d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id)) return;
+						js = d.createElement(s); js.id = id;
+						js.src = "https://websitevoice.com/js/widget.js";
+						js.async = true;
+						fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'websitevoice-sdk'));
+				</script>
+				<script>
+					window.wvSettings = {
+						siteId: 'YOUR_WEBSITEVOICE_SITE_ID',
+						voice: 'en-US-JennyNeural',
+						language: 'en-US'
+					};
+				</script>
 			
+				<!-- Web Speech API with Synchronized Word Highlighting -->
+				<script>
+					const synth = window.speechSynthesis;
+					let utterance = null;
+					let isPlaying = false;
+					let words = [];
+					let wordStartPositions = [];
+					let currentWordIndex = -1;
+			
+					// Split article into words and wrap each in a span
+					function prepareText() {
+						const article = document.getElementById('article-post-tts');
+						if (!article) {
+							console.error('Article element not found');
+							return;
+						}
+						const paragraphs = article.querySelectorAll('p');
+						let wordId = 0;
+						let charPosition = 0;
+			
+						paragraphs.forEach((para) => {
+							const text = para.textContent;
+							const wordArray = text.split(/\s+/).filter(word => word.length > 0);
+							const wordSpans = wordArray.map((word, index) => {
+								const span = document.createElement('span');
+								span.className = 'word';
+								span.id = `word-${wordId++}`;
+								span.textContent = word + ' ';
+								wordStartPositions.push(charPosition);
+								charPosition += word.length + 1;
+								return span;
+							});
+			
+							// Replace paragraph content with spanned words
+							para.innerHTML = '';
+							wordSpans.forEach(span => para.appendChild(span));
+							words.push(...wordSpans);
+						});
+					}
+			
+					// Highlight the current word
+					function highlightWord(index) {
+						// Clear previous highlight
+						if (currentWordIndex >= 0 && currentWordIndex < words.length) {
+							words[currentWordIndex].classList.remove('highlight');
+						}
+						// Highlight current word
+						if (index >= 0 && index < words.length) {
+							words[index].classList.add('highlight');
+							words[index].scrollIntoView({ behavior: 'smooth', block: 'center' });
+						}
+						currentWordIndex = index;
+					}
+			
+					// Clear all highlights
+					function clearHighlights() {
+						words.forEach(span => span.classList.remove('highlight'));
+						currentWordIndex = -1;
+					}
+			
+					// Initialize text preparation
+					try {
+						prepareText();
+					} catch (e) {
+						console.error('Error preparing text:', e);
+					}
+			
+					document.getElementById('play').addEventListener('click', () => {
+						if (!isPlaying) {
+							try {
+								const text = document.getElementById('article').textContent;
+								if (!text.trim()) {
+									console.warn('No text to read');
+									return;
+								}
+								utterance = new SpeechSynthesisUtterance(text);
+								utterance.lang = 'en-US';
+								utterance.rate = 0.92;
+								utterance.pitch = 1.0;
+			
+								// Track word boundaries
+								utterance.onboundary = (event) => {
+									if (event.name === 'word' && event.charIndex != null) {
+										const charIndex = event.charIndex;
+										let wordIndex = wordStartPositions.findIndex((pos, idx) => {
+											return charIndex >= pos && (idx === wordStartPositions.length - 1 || charIndex < wordStartPositions[idx + 1]);
+										});
+										// Ensure sequential progression
+										if (wordIndex >= 0 && wordIndex >= currentWordIndex) {
+											highlightWord(wordIndex);
+										}
+									}
+								};
+			
+								// Clear highlights when speech ends
+								utterance.onend = () => {
+									isPlaying = false;
+									clearHighlights();
+								};
+			
+								synth.speak(utterance);
+								isPlaying = true;
+								highlightWord(0);
+			
+								// Fallback timing mechanism for browsers with poor onboundary support
+								let startTime = performance.now();
+								const wordsPerSecond = utterance.rate * 0; // Approximate: 150-200 words per minute
+								const totalWords = words.length;
+								const checkProgress = (timestamp) => {
+									if (!isPlaying || synth.paused) return;
+									const elapsedSeconds = (timestamp - startTime) / 1000;
+									const estimatedWordIndex = Math.min(Math.floor(elapsedSeconds * wordsPerSecond), totalWords - 1);
+									if (estimatedWordIndex > currentWordIndex) {
+										highlightWord(estimatedWordIndex);
+									}
+									requestAnimationFrame(checkProgress);
+								};
+								// Only use fallback if onboundary is unreliable
+								if (!('onboundary' in SpeechSynthesisUtterance.prototype)) {
+									requestAnimationFrame(checkProgress);
+								}
+							} catch (e) {
+								console.error('Error during playback:', e);
+							}
+						} else if (synth.paused) {
+							try {
+								synth.resume();
+								startTime = performance.now() - (currentWordIndex / wordsPerSecond) * 1000;
+							} catch (e) {
+								console.error('Error resuming playback:', e);
+							}
+						}
+					});
+			
+					document.getElementById('pause').addEventListener('click', () => {
+						if (isPlaying && !synth.paused) {
+							try {
+								synth.pause();
+								clearHighlights();
+							} catch (e) {
+								console.error('Error pausing playback:', e);
+							}
+						}
+					});
+			
+					document.getElementById('stop').addEventListener('click', () => {
+						if (isPlaying) {
+							try {
+								synth.cancel();
+								isPlaying = false;
+								clearHighlights();
+							} catch (e) {
+								console.error('Error stopping playback:', e);
+							}
+						}
+					});
+				</script>
+
 			<!-- Tags -->
 			<div class="mb-4">
 				<span class="taglist">
