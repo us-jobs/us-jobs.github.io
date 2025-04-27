@@ -871,4 +871,19 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
+ .article-audio {
+	padding:2px 10px;
+  	border-radius:5px;
+	border: none;
+	box-shadow: 0 2px 8px #ddd;
+ }
+ #play {
+	background: #2ef92e;
+ }
+ #pause {
+	background: #02e7ff;
+ }
+ #stop {
+	background: #fd6e36;
+ }
  
