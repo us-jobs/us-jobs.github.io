@@ -70,7 +70,7 @@ layout: default
 				<button id="pause" aria-label="Pause article audio">Pause</button>
 				<button id="stop" aria-label="Stop article audio">Stop</button>
 			</div>
-			<article class="article-post" id="article-post-tts">                
+			<article class="article-post" id="article">                
 			{{ content }}                
 			</article>
 			    <!-- WebsiteVoice Widget -->
@@ -103,7 +103,7 @@ layout: default
 			
 					// Split article into words and wrap each in a span
 					function prepareText() {
-						const article = document.getElementById('article-post-tts');
+						const article = document.getElementById('article');
 						if (!article) {
 							console.error('Article element not found');
 							return;
