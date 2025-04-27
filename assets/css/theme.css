@@ -872,18 +872,18 @@ div.a2a_full_footer {display:none;}
 	 }
  }
  .article-audio {
-	padding:2px 10px;
-  	border-radius:5px;
-	border: none;
-	box-shadow: 0 2px 8px #ddd;
+	padding:2px 10px !important;
+  	border-radius:5px !important;
+	border: none !important;
+	box-shadow: 0 2px 8px #ddd !important;
  }
- #play {
-	background: #2ef92e;
+ button#play {
+	background: #2ef92e !important;
  }
- #pause {
-	background: #02e7ff;
+ button#pause {
+	background: #02e7ff !important;
  }
- #stop {
-	background: #fd6e36;
+ button#stop {
+	background: #fd6e36 !important;
  }
  
