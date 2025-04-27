@@ -877,6 +877,7 @@ div.a2a_full_footer {display:none;}
 	border: none !important;
 	box-shadow: 0 2px 8px #ddd !important;
 	margin-top: 5px !important;
+	cursor: pointer !important;
  }
  button#play {
 	background: #2ef92e !important;
