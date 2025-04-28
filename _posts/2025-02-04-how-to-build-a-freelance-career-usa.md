@@ -20,11 +20,11 @@ In this guide, we'll show you **step-by-step** how to start freelancing in the U
 
 Freelancing is an excellent way to **earn money on your terms**. Here’s why people are choosing to freelance in the USA:
 
-✔ **No degree or experience required**   \
-✔ **Work from anywhere**   \
-✔ **Set your own rates and hours**   \
-✔ **Endless opportunities in multiple industries**   \
-✔ **Low startup costs**   
+-  **No degree or experience required**   \
+-  **Work from anywhere**   \
+-  **Set your own rates and hours**   \
+-  **Endless opportunities in multiple industries**   \
+-  **Low startup costs**   
 
 ---
 
@@ -32,14 +32,14 @@ Freelancing is an excellent way to **earn money on your terms**. Here’s why pe
 
 Even if you think you don’t have any experience, you probably have **skills that people will pay for**. Some beginner-friendly freelance services include:
 
-🔹 **Writing & Blogging** – Content writing, SEO writing, copywriting  \
-🔹 **Graphic Design** – Logo design, social media graphics, branding  \
-🔹 **Virtual Assistance** – Data entry, email management, scheduling  \
-🔹 **Social Media Management** – Handling Instagram, Facebook, LinkedIn accounts  \
-🔹 **Customer Support** – Chat support, phone support, email support  \
-🔹 **Transcription & Translation** – Converting audio to text, multilingual services  \
-🔹 **Video Editing** – Basic video cuts, adding captions, animation  \
-🔹 **Website Development** – Basic WordPress or Wix site setup  
+  -  **Writing & Blogging** – Content writing, SEO writing, copywriting  \
+  -  **Graphic Design** – Logo design, social media graphics, branding  \
+  -  **Virtual Assistance** – Data entry, email management, scheduling  \
+  -  **Social Media Management** – Handling Instagram, Facebook, LinkedIn accounts  \
+  -  **Customer Support** – Chat support, phone support, email support  \
+  -  **Transcription & Translation** – Converting audio to text, multilingual services  \
+  -  **Video Editing** – Basic video cuts, adding captions, animation  \
+  -  **Website Development** – Basic WordPress or Wix site setup  
 
 👉 **Tip:** If you don’t have experience, **start learning for free** using YouTube tutorials, Coursera, or Udemy courses.
 
@@ -49,9 +49,9 @@ Even if you think you don’t have any experience, you probably have **skills th
 
 Clients will want to see samples of your work before hiring you. **Here’s how to build a portfolio quickly:**
 
-📌 **Do mock projects** – Create sample articles, graphics, or designs to showcase your skills.   \
-📌 **Offer free or discounted work** – Work on small projects for family, friends, or nonprofits.   \
-📌 **Use portfolio platforms** – Create an online portfolio using Behance (for design), Medium (for writing), or GitHub (for coding). 
+-  **Do mock projects** – Create sample articles, graphics, or designs to showcase your skills.   \
+-  **Offer free or discounted work** – Work on small projects for family, friends, or nonprofits.   \
+-  **Use portfolio platforms** – Create an online portfolio using Behance (for design), Medium (for writing), or GitHub (for coding). 
 
 ---
 
@@ -59,12 +59,12 @@ Clients will want to see samples of your work before hiring you. **Here’s how 
 
 There are many freelance marketplaces where beginners can find **entry-level gigs**. Here are some of the best ones:
 
-🌟 **Upwork** – Great for writing, design, and virtual assistance jobs.  \
-🌟 **Fiverr** – Ideal for selling services like video editing, SEO, and voiceovers.  \
-🌟 **Freelancer.com** – Offers a mix of beginner and professional projects.  \
-🌟 **PeoplePerHour** – Best for marketing, design, and writing tasks.  \
-🌟 **Toptal** – Ideal for experienced developers and finance professionals.  \
-🌟 **FlexJobs** – Focuses on remote and freelance jobs with verified employers.  
+-  **Upwork** – Great for writing, design, and virtual assistance jobs.  \
+-  **Fiverr** – Ideal for selling services like video editing, SEO, and voiceovers.  \
+-  **Freelancer.com** – Offers a mix of beginner and professional projects.  \
+-  **PeoplePerHour** – Best for marketing, design, and writing tasks.  \
+-  **Toptal** – Ideal for experienced developers and finance professionals.  \
+-  **FlexJobs** – Focuses on remote and freelance jobs with verified employers.  
 
 **Pro Tip:** Start with **smaller projects** to build experience and get positive reviews.
 
@@ -74,11 +74,11 @@ There are many freelance marketplaces where beginners can find **entry-level gig
 
 Your profile is your first impression on potential clients. Make sure to include:
 
-✔ **A professional photo** – A clear, friendly headshot.   \
-✔ **A compelling bio** – Highlight your skills, experience, and what you offer.   \
-✔ **A portfolio** – Add sample work or links to previous projects.   \
-✔ **Keywords** – Use terms related to your industry (e.g., “SEO writer,” “logo designer”).   \
-✔ **Affordable rates** – Start with competitive pricing and increase as you gain experience. 
+-  **A professional photo** – A clear, friendly headshot.   \
+-  **A compelling bio** – Highlight your skills, experience, and what you offer.   \
+-  **A portfolio** – Add sample work or links to previous projects.   \
+-  **Keywords** – Use terms related to your industry (e.g., “SEO writer,” “logo designer”).   \
+-  **Affordable rates** – Start with competitive pricing and increase as you gain experience. 
 
 ---
 
@@ -86,11 +86,11 @@ Your profile is your first impression on potential clients. Make sure to include
 
 Here’s how to **land your first freelance job**:
 
-✅ **Search for entry-level jobs** – Use filters to find beginner-friendly projects.  \
-✅ **Write personalized proposals** – Avoid generic applications; show how you can help.  \
-✅ **Offer competitive pricing** – Charge slightly lower rates at the beginning to attract clients.  \
-✅ **Deliver quality work** – Always exceed expectations to get 5-star reviews.  \
-✅ **Ask for testimonials** – Positive reviews help build credibility. 
+-  **Search for entry-level jobs** – Use filters to find beginner-friendly projects.  \
+-  **Write personalized proposals** – Avoid generic applications; show how you can help.  \
+-  **Offer competitive pricing** – Charge slightly lower rates at the beginning to attract clients.  \
+-  **Deliver quality work** – Always exceed expectations to get 5-star reviews.  \
+-  **Ask for testimonials** – Positive reviews help build credibility. 
 
 ---
 
@@ -98,11 +98,11 @@ Here’s how to **land your first freelance job**:
 
 Freelancers who actively promote themselves **get more job offers**. Here’s how you can market your services:
 
-📌 **Create a LinkedIn profile** – Showcase your skills and connect with potential clients.   \
-📌 **Join Facebook groups** – Many business owners look for freelancers in online communities.   \
-📌 **Start a website** – A personal website boosts credibility and attracts direct clients.   \
-📌 **Network in industry events** – Attend virtual or in-person meetups.   \
-📌 **Cold email potential clients** – Reach out to businesses that might need your services. 
+-  **Create a LinkedIn profile** – Showcase your skills and connect with potential clients.   \
+-  **Join Facebook groups** – Many business owners look for freelancers in online communities.   \
+-  **Start a website** – A personal website boosts credibility and attracts direct clients.   \
+-  **Network in industry events** – Attend virtual or in-person meetups.   \
+-  **Cold email potential clients** – Reach out to businesses that might need your services. 
 
 ---
 
@@ -119,10 +119,10 @@ Freelancers who actively promote themselves **get more job offers**. Here’s ho
 
 The best freelancers **continuously improve their skills** to stay competitive. Here’s how:
 
-🎯 **Take online courses** – Learn new skills on Coursera, Udemy, or Skillshare.   \
-🎯 **Follow industry trends** – Read blogs and follow influencers in your field.   \
-🎯 **Upgrade your services** – Offer higher-paying services like consulting or coaching.   \
-🎯 **Stay consistent** – Keep applying for jobs and delivering quality work. 
+-  **Take online courses** – Learn new skills on Coursera, Udemy, or Skillshare.   \
+-  **Follow industry trends** – Read blogs and follow influencers in your field.   \
+-  **Upgrade your services** – Offer higher-paying services like consulting or coaching.   \
+-  **Stay consistent** – Keep applying for jobs and delivering quality work. 
 
 ---
 

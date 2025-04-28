@@ -154,8 +154,8 @@ Are you ready to start your LinkedIn job search journey? Implement these strateg
 ---
 
 ### **Next Steps**
-🔹 **Update your LinkedIn profile** with the tips above. \
-🔹 **Start networking** by connecting with professionals in your industry. \
-🔹 **Apply for jobs** and reach out to recruiters today!
+  -  **Update your LinkedIn profile** with the tips above. \
+  -  **Start networking** by connecting with professionals in your industry. \
+  -  **Apply for jobs** and reach out to recruiters today!
 
 Got questions? Drop them in the comments!

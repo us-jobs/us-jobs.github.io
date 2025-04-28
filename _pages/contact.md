@@ -33,6 +33,6 @@ Fill out the form below to send us a message:
 Stay connected for the latest job updates and career tips:  
 - **Twitter**: [@CODINGRHODES](https://twitter.com/CODINGRHODES)  
 
-📌 **Looking for a job?** Browse the latest listings at **[us-jobs.github.io](https://us-jobs.github.io/)**  
+-  **Looking for a job?** Browse the latest listings at **[us-jobs.github.io](https://us-jobs.github.io/)**  
 
 ---

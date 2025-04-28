@@ -30,7 +30,7 @@ There are two main types of employment:
 
 On-campus jobs are the **most accessible** and flexible work option for international students. The U.S. government allows F-1 visa students to work on-campus **immediately** upon starting their studies.
 
-### ✅ Rules for On-Campus Jobs:  
+### Rules for On-Campus Jobs:  
 - Work up to **20 hours per week** during the school term.  
 - Work **full-time (up to 40 hours)** during holidays and summer breaks.  
 - The job **must be located on-campus** or be **affiliated** with your university.  
@@ -43,7 +43,7 @@ On-campus jobs are the **most accessible** and flexible work option for internat
 - Administrative office support  
 - Bookstore clerk  
 
-### 💡 Benefits:  
+### Benefits:  
 - Easy approval (No need for additional work authorization).  
 - Convenient location (No need for extra travel).  
 - Great way to earn money while studying.  
@@ -58,17 +58,17 @@ After **one academic year**, F-1 visa students can apply for **off-campus work**
 
 CPT allows F-1 students to **work off-campus** if the job is related to their field of study.  
 
-✅ **Requirements:**  
+-  **Requirements:**  
 - Must complete **one full academic year** before applying.  
 - The job must be related to **your degree program**.  
 - Must be **approved by the university's Designated School Official (DSO)**.  
 
-💼 **Types of Jobs Allowed Under CPT:**  
+-  **Types of Jobs Allowed Under CPT:**  
 - Paid internships  
 - Co-op education programs  
 - Work-study programs with employers  
 
-📌 **Important:**  
+-  **Important:**  
 - CPT must be **part of your academic curriculum**.  
 - You need a job offer before applying.  
 - Work is **limited to the CPT authorization period**.  
@@ -79,16 +79,16 @@ CPT allows F-1 students to **work off-campus** if the job is related to their fi
 
 OPT is one of the **best work opportunities** for international students in the USA. It allows F-1 visa holders to work **up to 12 months** in a job related to their major.  
 
-✅ **Eligibility:**  
+-  **Eligibility:**  
 - Must complete **one full academic year** before applying.  
 - Job must be **directly related** to your field of study.  
 
-💼 **Types of Jobs Allowed Under OPT:**  
+-  **Types of Jobs Allowed Under OPT:**  
 - Full-time jobs  
 - Internships  
 - Contract work  
 
-📌 **STEM OPT Extension:**  
+-  **STEM OPT Extension:**  
 If you have a **STEM degree** (Science, Technology, Engineering, Math), you can **extend OPT for an additional 24 months**, making it **36 months in total**!  
 
 ---
@@ -97,15 +97,15 @@ If you have a **STEM degree** (Science, Technology, Engineering, Math), you can 
 
 If international students face **unexpected financial difficulties**, they can apply for an **off-campus work permit** under economic hardship.  
 
-✅ **Eligibility:**  
+-  **Eligibility:**  
 - Must prove **financial difficulties** (e.g., loss of sponsor support).  
 - Must have **completed one year** of study.  
 - Must get approval from **USCIS**.  
 
-💼 **Types of Jobs Allowed:**  
+-  **Types of Jobs Allowed:**  
 - Any part-time job that is not related to your studies.  
 
-📌 **Important:**  
+-  **Important:**  
 - You can work **up to 20 hours per week** during school.  
 - You can work **full-time during vacations**.  
 - Approval process takes several months.  
@@ -116,13 +116,13 @@ If international students face **unexpected financial difficulties**, they can a
 
 Many students work part-time **to gain experience** in preparation for **US jobs** after graduation. Here are some ways to find legal work opportunities:
 
-### 🔎 Where to Find Student Jobs in the USA?  
+### Where to Find Student Jobs in the USA?  
 - **University Career Centers** – Most universities have job boards.  
 - **Company Websites** – Check career pages for student jobs.  
 - **LinkedIn & Job Portals** – Websites like Indeed, Glassdoor, and Handshake.  
 - **Networking & Professors** – Professors often recommend students for jobs.  
 
-### 💼 Best Part-Time Jobs for International Students:  
+### Best Part-Time Jobs for International Students:  
 - Teaching Assistant (TA)  
 - Research Assistant (RA)  
 - Customer Service Representative  
@@ -138,7 +138,7 @@ Yes, but only **during school breaks** or **after graduation** under OPT or H-1B
 ### H-1B Visa – A Pathway to US Jobs  
 After completing your studies, you can apply for an **H-1B work visa** if you get a job offer from a U.S. company. Many international students transition from **OPT to H-1B** and secure **long-term US jobs**.  
 
-📌 **H-1B Facts:**  
+-  **H-1B Facts:**  
 - Requires employer sponsorship.  
 - Is valid for **3 years (extendable to 6 years)**.  
 - Is common in STEM, finance, and business fields.  
@@ -153,12 +153,12 @@ If you’re an international student, start **exploring job opportunities** toda
 
 ---
 
-### 📌 Quick Recap:  
-✅ **On-Campus Jobs** – Easy, no special approval needed.  \
-✅ **CPT** – Work while studying if job is related to your major.  \
-✅ **OPT** – Work for 12 months after graduation (36 months for STEM).  \
-✅ **Economic Hardship Work** – Allowed in emergencies with USCIS approval.  \
-✅ **H-1B Visa** – Pathway to permanent work in the USA.  
+### Quick Recap:  
+-  **On-Campus Jobs** – Easy, no special approval needed.  \
+-  **CPT** – Work while studying if job is related to your major.  \
+-  **OPT** – Work for 12 months after graduation (36 months for STEM).  \
+-  **Economic Hardship Work** – Allowed in emergencies with USCIS approval.  \
+-  **H-1B Visa** – Pathway to permanent work in the USA.  
 
 By using these legal pathways, international students can build their careers and secure **US jobs** in their field! 🚀  
 

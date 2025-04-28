@@ -27,6 +27,6 @@ We may update this Affiliate Disclosure as needed. Any changes will be posted on
 If you have any questions about our affiliate partnerships, feel free to reach out:  
 📧 **[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
 
-🔎 Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for the latest job opportunities and career insights.  
+-  Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for the latest job opportunities and career insights.  
 
 ---

@@ -21,12 +21,12 @@ If you're passionate about the environment and want a **rewarding career in sust
 Green jobs are careers that contribute to environmental sustainability, renewable energy, conservation, and reducing pollution. These roles exist in various industries, including **solar energy, wind power, environmental consulting, and electric vehicle (EV) technology**.
 
 ### **Popular Green Job Sectors:**
-✔ **Renewable Energy** – Solar panel installation, wind energy technicians, energy analysts \ 
-✔ **Sustainable Agriculture** – Organic farming, soil conservation, sustainable food production \ 
-✔ **Environmental Science & Conservation** – Ecologists, conservation biologists, forestry experts  \
-✔ **Green Construction** – Sustainable architects, LEED-certified engineers, eco-friendly builders  \
-✔ **Electric Vehicles & Clean Transportation** – EV manufacturing, battery technology, smart transportation  \
-✔ **Recycling & Waste Management** – Circular economy specialists, recycling coordinators, waste reduction managers  
+-  **Renewable Energy** – Solar panel installation, wind energy technicians, energy analysts \ 
+-  **Sustainable Agriculture** – Organic farming, soil conservation, sustainable food production \ 
+-  **Environmental Science & Conservation** – Ecologists, conservation biologists, forestry experts  \
+-  **Green Construction** – Sustainable architects, LEED-certified engineers, eco-friendly builders  \
+-  **Electric Vehicles & Clean Transportation** – EV manufacturing, battery technology, smart transportation  \
+-  **Recycling & Waste Management** – Circular economy specialists, recycling coordinators, waste reduction managers  
 
 ---
 
@@ -99,11 +99,11 @@ Green jobs are careers that contribute to environmental sustainability, renewabl
 
 ### **1. Gain Relevant Skills & Certifications**  
 To stand out in the green job market, consider earning certifications like:
-✔ **LEED Certification** – For sustainable construction careers  \
-✔ **Certified Energy Manager (CEM)** – For energy efficiency professionals  \
-✔ **Solar PV Installer Certification** – For solar energy careers  \
-✔ **Environmental Science Degree** – For conservation and research roles  \
-✔ **Electric Vehicle Technician Certification** – For EV industry jobs  
+-  **LEED Certification** – For sustainable construction careers  \
+-  **Certified Energy Manager (CEM)** – For energy efficiency professionals  \
+-  **Solar PV Installer Certification** – For solar energy careers  \
+-  **Environmental Science Degree** – For conservation and research roles  \
+-  **Electric Vehicle Technician Certification** – For EV industry jobs  
 
 ### **2. Build Experience Through Internships & Volunteer Work**  
 Many environmental organizations offer hands-on experience. Look for internships at **EPA, Sierra Club, Greenpeace, and The Nature Conservancy**.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I Conquered Office Distractions in 2025: My Productivity Glow-Up! 🌟"
+title: "How I Conquered Office Distractions in 2025: My Productivity Glow-Up!"
 categories: productivity
 tags: [office-distractions, productivity, affiliate-marketing, work-from-office]
 description: "Discover how I tackled office distractions in 2025! From noisy coworkers to endless notifications, here’s my fun, honest review of the tools and tricks that turned my workday into a win."
@@ -86,7 +86,7 @@ So, did I conquer **office distractions**? Heck yes! Here’s the scoop:
 - **Learning Curve**: Took a week to nail time-blocking.
 - **Cost**: Headphones aren’t cheap (but worth it!).
 
-Overall, my productivity’s up 50%, and I’m less stressed. **Office distractions** don’t own me anymore—I own them! Ready to join me? 🌟
+Overall, my productivity’s up 50%, and I’m less stressed. **Office distractions** don’t own me anymore—I own them! Ready to join me? 
 
 ---
 

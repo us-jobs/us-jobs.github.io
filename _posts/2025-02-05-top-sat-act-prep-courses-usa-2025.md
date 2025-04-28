@@ -20,11 +20,11 @@ In this guide, we’ll explore the **top SAT/ACT prep courses for 2025**, coveri
 
 Many students opt for **prep courses** because:
 
-✔ They provide **structured study plans** \
-✔ Offer **expert guidance** from tutors \
-✔ Include **practice tests** that simulate real exams \
-✔ Help improve **test-taking strategies** \
-✔ Increase chances of **higher scores** and college admissions 
+-  They provide **structured study plans** \
+-  Offer **expert guidance** from tutors \
+-  Include **practice tests** that simulate real exams \
+-  Help improve **test-taking strategies** \
+-  Increase chances of **higher scores** and college admissions 
 
 ---
 
