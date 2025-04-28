@@ -104,7 +104,7 @@ Many Michigan-based employers also value **certifications** such as:
 
 ## Where to Search for Remote Jobs in Michigan
 
-![Person searching for remote jobs in Michigan on laptop with state map on screen](/assets/images/remote-job-search-michigan.webp)
+![Person searching for remote jobs in Michigan on laptop with state map on screen]({{ site.baseurl }}/assets/images/remote-job-search-michigan.webp)
 
 
 Here are the best websites to find remote jobs in Michigan today:
@@ -155,7 +155,7 @@ Alicia was laid off in 2023 but used her downtime to learn SEO and content writi
 
 ## Checklist: Steps to Get a High-Paying Remote Job in Michigan
 
-![Cozy Michigan cabin home office with computer and lake view](/assets/images/michigan-home-office-setup.webp)
+![Cozy Michigan cabin home office with computer and lake view]({{ site.baseurl }}/assets/images/michigan-home-office-setup.webp)
 
 
 1. **Identify your ideal industry and role**

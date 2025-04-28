@@ -24,7 +24,7 @@ In this guide, we’ll explore:
 
 Below are the most prominent employers actively hiring remote talent in Michigan.
 
-![Person working remotely on laptop with Detroit skyline in the background](/assets/images/remote-work-detroit-skyline.webp)
+![Person working remotely on laptop with Detroit skyline in the background]({{ site.baseurl }}/assets/images/remote-work-detroit-skyline.webp)
 
 
 ### 1. **Rocket Companies (Detroit, MI)**
@@ -161,7 +161,7 @@ Michigan’s economy is rapidly evolving. These industries are projected to see 
 
 ## How to Land a Remote Job in Michigan
 
-![Comfortable home office setup with natural lighting and plants](/assets/images/home-office-michigan-style.jpg)
+![Comfortable home office setup with natural lighting and plants]({{ site.baseurl }}/assets/images/home-office-michigan-style.jpg)
 
 
 ### Step-by-Step Guide:

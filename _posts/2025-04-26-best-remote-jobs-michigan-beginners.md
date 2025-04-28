@@ -19,9 +19,9 @@ Let’s dive into beginner-friendly industries, companies hiring in 2025, remote
 
 ---
 
-## Why Michigan is Great for Remote Work—Even if You’re a Beginner
+## 🌟 Why Michigan is Great for Remote Work—Even if You’re a Beginner
 
-![Beginner remote worker setting up home office in Michigan with laptop and notebook](/assets/images/beginner-remote-worker-michigan.webp)
+![Beginner remote worker setting up home office in Michigan with laptop and notebook]({{ site.baseurl }}/assets/images/beginner-remote-worker-michigan.webp)
 
 
 Michigan has become one of the fastest-growing states for remote job creation. With a cost of living lower than coastal tech hubs and strong internet access across most regions, it's a perfect location to launch your remote career.
@@ -67,7 +67,7 @@ You don’t need a tech degree to start working remotely. Many industries now of
 
 ## Top Companies Offering Remote Jobs in Michigan for Beginners
 
-![Map showing top cities in Michigan offering beginner-friendly remote jobs](/assets/images/michigan-remote-work-hotspots-map.webp)
+![Map showing top cities in Michigan offering beginner-friendly remote jobs]({{ site.baseurl }}/assets/images/michigan-remote-work-hotspots-map.webp)
 
 
 Several companies are known for hiring entry-level talent in Michigan for remote roles:
