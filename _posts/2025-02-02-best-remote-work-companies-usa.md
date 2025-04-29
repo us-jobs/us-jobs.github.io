@@ -4,7 +4,7 @@ title: "Best Companies in the USA Offering Remote Work Opportunities"
 description: "Explore the top companies in the USA that offer remote work opportunities. Learn about the best employers providing flexible work-from-home jobs in 2025."
 keywords: "us jobs, remote work, work from home, best remote companies, USA job opportunities, flexible jobs"
 categories: [Career, Jobs, Remote Work]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-remote-work-companies-usa.webp
 ---
 

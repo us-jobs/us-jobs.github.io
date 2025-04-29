@@ -4,7 +4,7 @@ title: "Best Online Learning Platforms for K-12 Students in the USA"
 categories: [education, online learning, K-12, USA, e-learning]
 tags: [online learning, K-12 education, learning platforms, education technology, US jobs, e-learning platforms]
 excerpt: "Discover the best online learning platforms for K-12 students in the USA. Learn how these platforms offer valuable education opportunities that prepare students for future US jobs."
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-online-learning-platforms-k12-students-usa.webp
 ---
 

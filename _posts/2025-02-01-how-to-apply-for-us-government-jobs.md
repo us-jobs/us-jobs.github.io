@@ -5,7 +5,7 @@ description: "Learn the complete process of applying for government jobs in the 
 keywords: "us jobs, government jobs, USA job application, federal jobs, state jobs, job search, career guide"
 categories: [Career, Jobs, Employment]
 tags: [featured]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_how-to-apply-for-us-government-jobs.webp
 ---
 

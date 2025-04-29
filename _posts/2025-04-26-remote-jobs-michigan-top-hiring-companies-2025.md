@@ -4,7 +4,7 @@ title: "Remote Jobs in Michigan: Top Hiring Companies in 2025"
 categories: [Jobs, Remote Work, Michigan]
 tags: [remote jobs in Michigan, work from home, Michigan companies hiring, 2025 jobs]
 description: Discover remote jobs in Michigan and top hiring companies in 2025. Learn where to apply and what industries are booming remotely.
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_remote-jobs-michigan-top-hiring-companies-2025.webp
 ---
 

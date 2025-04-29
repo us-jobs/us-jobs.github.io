@@ -4,7 +4,7 @@ title: "How to Find High-Paying Remote Jobs in Michigan Right Now"
 categories: [Jobs, Michigan, Remote Work]
 tags: [remote jobs in Michigan, high-paying jobs, work from home, Michigan careers, tech jobs, remote hiring]
 description: Discover how to find high-paying remote jobs in Michigan right now. Step-by-step guide with tips, industries, and companies hiring.
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_high-paying-remote-jobs-michigan-guide.webp
 ---
 

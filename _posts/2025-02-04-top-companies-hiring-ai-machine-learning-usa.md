@@ -4,7 +4,7 @@ title: "Top Companies Hiring for AI and Machine Learning Roles in the USA"
 description: "Explore the best companies hiring for AI and machine learning roles in the USA. Learn about job opportunities, required skills, and how to land a career in AI."
 keywords: "us jobs, AI jobs USA, machine learning careers, top AI companies, artificial intelligence hiring, tech jobs USA"
 categories: [Career, AI Jobs, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_top-companies-hiring-ai-machine-learning-usa.webp
 ---
 

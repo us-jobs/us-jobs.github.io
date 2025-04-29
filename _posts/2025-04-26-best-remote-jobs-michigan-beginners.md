@@ -4,7 +4,7 @@ title: "Best Remote Work Opportunities in Michigan for Beginners"
 categories: [Jobs, Michigan, Remote Work]
 tags: [remote jobs in Michigan, beginner remote jobs, work from home, Michigan careers, remote entry-level jobs]
 description: "Discover beginner-friendly remote jobs in Michigan. Easy-to-understand guide with companies, skills, job boards, and success tips."
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-remote-jobs-michigan-beginners.webp
 ---
 

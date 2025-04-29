@@ -5,7 +5,7 @@ description: "Explore top entry-level warehouse jobs in Atlanta. Learn about pay
 keywords: "warehouse jobs atlanta"
 categories: [Jobs, Warehouse, Entry-Level, Career Guide]
 tags: [warehouse jobs atlanta, no experience warehouse jobs, apply now, us jobs, atlanta employment, job seekers]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_entry-level-warehouse-jobs-atlanta.webp
 ---
 

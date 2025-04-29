@@ -3,7 +3,7 @@ layout: post
 title: "How to Get a Job in Texas After College: Networking Tips"
 description: "Learn the best networking tips to land a job in Texas after college. Discover strategies to connect with professionals, attend career events, and build a strong network for high-paying US jobs."
 tags: [US jobs, Texas jobs, college graduates, networking tips, job search, career advice]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_how-to-get-a-job-in-texas-after-college-networking-tips.webp
 ---
 

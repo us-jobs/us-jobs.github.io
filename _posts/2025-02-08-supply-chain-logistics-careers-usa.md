@@ -3,7 +3,7 @@ layout: post
 title: "Supply Chain Logistics Jobs in the USA: Companies Hiring Now"
 categories: [Career, Supply Chain, Logistics]
 tags: [supply chain logistics jobs USA, companies hiring, job opportunities]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_supply-chain-logistics-careers-usa.webp
 ---
 

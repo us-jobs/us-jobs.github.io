@@ -3,7 +3,7 @@ layout: post
 title: "Best Supply Chain Logistics Jobs in the USA: Top Careers & Salaries (2025)"
 categories: [Career, Supply Chain, Logistics]
 tags: [supply chain logistics jobs USA, careers, salaries, 2025]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_supply-chain-logistics-jobs-usa.webp
 ---
 

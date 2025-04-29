@@ -5,7 +5,7 @@ description: "Explore the top skills and certifications needed for US manufactur
 keywords: ["us manufacturing jobs"]
 categories: [Jobs, Manufacturing, Career Skills, USA Employment]
 tags: [Manufacturing Jobs, In-Demand Skills, Career Development, Training]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_skills-in-demand-us-manufacturing-jobs-2025.webp
 ---
 

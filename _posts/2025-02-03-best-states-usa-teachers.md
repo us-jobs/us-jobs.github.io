@@ -4,7 +4,7 @@ title: "Best States in the USA for Teachers: Salaries, Benefits, and Job Opening
 categories: [Education, US Jobs, Teaching]
 tags: [teachers, best states for teachers, teaching jobs, US jobs, education careers, salaries]
 excerpt: "Looking for the best states to teach in the USA? Explore salaries, benefits, job openings, and cost of living to make the best career decision."
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-states-usa-teachers.webp
 ---
 

@@ -4,7 +4,7 @@ title: "Navigating the 2025 Federal Workforce Overhaul: What It Means for USA Go
 description: "Understand the 2025 federal workforce changes and how they impact USA gov jobs, opportunities, and hiring processes."
 tags: [USA gov jobs, federal employment, 2025 workforce changes, government careers]
 layout: post
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_navigating-2025-federal-workforce-usa-gov-jobs.webp
 ---
 

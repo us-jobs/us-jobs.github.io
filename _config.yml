@@ -9,12 +9,14 @@ future: true
 
 #-------------------------------
 # Author Settings
-author:
-  name: Coding Rhodes
-  title: Coding Rhodes
-  description: Hi, I am Coding Rhodes, One of the blog authors of this site. Do let me know in the comments, If you have any Questions.
-  image: '/images/Author-codingRhodes.webp'
-  avatar: '/images/Author-codingRhodes.webp'
+authors:
+    CodingRhodes:
+      name:           Coding Rhodes
+      site:           /
+      avatar:         assets/images/Author-codingRhodes.webp
+      bio:            "Hi, I am Coding Rhodes, the author of this article, Do let me know If you have any Questions"
+      email:          CodingRhodes@gmail.com
+      twitter:        https://x.com/CodingRhodes
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/codingrhodes"}

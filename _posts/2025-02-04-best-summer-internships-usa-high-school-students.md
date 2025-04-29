@@ -4,7 +4,7 @@ title: "The Best Summer Internships in the USA for High School Students"
 description: "Explore the top summer internships in the USA for high school students. Learn how to apply, eligibility requirements, and benefits of these programs."
 keywords: "us jobs, summer internships, high school internships, student jobs USA, internship programs, career opportunities for teens"
 categories: [Career, Internships, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-summer-internships-usa-high-school-students.webp
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Top Vocational Schools in California for a High-Paying Career"
 description: "Explore the top vocational schools in California that offer training for high-paying US jobs in industries like healthcare, technology, and skilled trades."
 tags: [vocational schools, high-paying careers, US jobs, California education, career training]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_top-vocational-schools-california-high-paying-career.webp
 ---
 

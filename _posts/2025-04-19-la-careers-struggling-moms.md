@@ -5,7 +5,7 @@ description: "Explore flexible and sustainable US jobs tailored for single mothe
 keywords: "us jobs"
 categories: [Career, Single Mothers, Los Angeles Jobs, Flexible Work]
 tags: [us jobs, flexible jobs, single moms, LA careers, remote jobs, gig economy, women empowerment]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_a-careers-struggling-moms.webp
 ---
 

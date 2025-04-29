@@ -4,7 +4,7 @@ title: "Top SAT/ACT Prep Courses in the USA for 2025"
 description: "Discover the best SAT and ACT prep courses in the USA for 2025. Compare online and in-person options to boost your test scores and college admissions chances."
 keywords: "us jobs, SAT prep courses, ACT prep courses, best SAT courses, online SAT prep, college admissions USA, SAT ACT tutoring"
 categories: [Education, Test Prep, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_top-sat-act-prep-courses-usa-2025.webp
 ---
 

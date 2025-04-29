@@ -4,7 +4,7 @@ title: "Best Free Resources to Learn Data Analysis in 2025"
 categories: [Data Analysis, Education, US Jobs]
 tags: [data analysis, free learning, US jobs, online courses, data science, analytics]
 excerpt: "Looking to build a career in data analysis? Discover the best free resources to learn data analysis in 2025 and secure top US jobs in this in-demand field."
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-free-resources-learn-data-analysis-2025.webp
 ---
 

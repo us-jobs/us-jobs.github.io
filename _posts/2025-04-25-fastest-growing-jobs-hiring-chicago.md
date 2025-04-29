@@ -5,7 +5,7 @@ description: "Explore the top 10 fastest-growing job sectors hiring in Chicago t
 keywords: ["jobs hiring Chicago"]
 categories: [Jobs, Employment Trends, Career Advice]
 tags: [Chicago Jobs, Fastest Growing Careers, Jobs Hiring Chicago, Career Growth, Job Sectors]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_fastest-growing-jobs-hiring-chicago.webp
 ---
 

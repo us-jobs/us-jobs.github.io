@@ -4,7 +4,7 @@ title: "Top 10 Fastest-Growing Jobs in the USA for 2025"
 description: "Discover the top 10 fastest-growing jobs in the USA for 2025. Learn about the skills required, salary expectations, and future job prospects."
 keywords: "us jobs, fastest-growing jobs, job trends, career growth, high-demand jobs, best careers 2025"
 categories: [Career, Jobs, Employment Trends]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_top-fastest-growing-us-jobs-2025.webp
 ---
 

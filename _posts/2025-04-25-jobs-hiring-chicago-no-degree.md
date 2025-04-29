@@ -5,7 +5,7 @@ description: "Discover the best-paying jobs hiring in Chicago today that don't r
 keywords: ["jobs hiring Chicago", "entry-level jobs", "no degree jobs Chicago", "Chicago employment"]
 categories: [Jobs, Career, Entry-Level, Chicago]
 tags: [Jobs Hiring Chicago, No Degree Jobs, Career Options, Entry-Level Roles, High Paying Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_jobs-hiring-chicago-no-degree.webp
 ---
 

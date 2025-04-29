@@ -4,7 +4,7 @@ title: "Top Certifications to Boost Your Career in the USA"
 categories: [Career, Certifications, US Jobs, Professional Growth]
 tags: [certifications, career growth, US jobs, professional skills, best certifications]
 excerpt: "Looking to advance your career in the USA? Explore the top certifications that can help you land high-paying US jobs and stand out in the job market."
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_top-certifications-boost-career-usa.webp
 ---
 

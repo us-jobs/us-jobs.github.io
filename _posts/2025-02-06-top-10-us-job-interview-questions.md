@@ -4,7 +4,7 @@ title: "Top 10 Interview Questions Asked by U.S. Employers and How to Answer The
 description: "Prepare for US jobs with expert answers to the top 10 interview questions asked by U.S. employers. Ace your next job interview with confidence."
 tags: [US jobs, interview questions, job market, career tips, job search]
 categories: [Education, Test Prep, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_top-10-us-job-interview-questions.webp
 ---
 

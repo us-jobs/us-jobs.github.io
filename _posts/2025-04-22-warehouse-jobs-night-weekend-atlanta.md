@@ -5,7 +5,7 @@ description: "Explore the top warehouse jobs in Atlanta offering night and weeke
 keywords: "warehouse jobs atlanta"
 categories: [Jobs, Warehouse, Night Shift, Career Advice, Entry-Level]
 tags: [warehouse jobs atlanta, night shift jobs, weekend jobs, part-time warehouse, flexible jobs atlanta, us jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_warehouse-jobs-night-weekend-atlanta.webp
 ---
 

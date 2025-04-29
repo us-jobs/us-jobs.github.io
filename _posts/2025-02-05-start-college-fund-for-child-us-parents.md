@@ -3,7 +3,7 @@ layout: post
 title: "How to Start a College Fund for Your Child: Options for U.S. Parents"
 categories: finance, parenting
 tags: college fund, us jobs, savings, education
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_start-college-fund-for-child-us-parents.webp
 ---
 

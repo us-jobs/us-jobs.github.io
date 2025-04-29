@@ -5,7 +5,7 @@ description: "Discover the top US cities actively hiring for manufacturing jobs 
 keywords: ["us manufacturing jobs"]
 categories: [Jobs, Manufacturing, Careers, USA Employment]
 tags: [Manufacturing Jobs, US Cities, Career Opportunities, Job Growth]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_top-us-cities-hiring-manufacturing-jobs.webp
 ---
 

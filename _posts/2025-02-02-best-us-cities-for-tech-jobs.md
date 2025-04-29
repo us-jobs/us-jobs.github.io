@@ -4,7 +4,7 @@ title: "Top 5 Cities in the USA for Tech Jobs and Why They’re Thriving"
 description: "Explore the top five cities in the USA for tech jobs, why they are booming, and what makes them attractive to tech professionals. Find the best opportunities in the tech industry."
 keywords: "us jobs, tech jobs USA, best cities for tech jobs, technology careers, thriving tech hubs, IT job opportunities"
 categories: [Career, Tech Jobs, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-us-cities-for-tech-jobs.webp
 ---
 

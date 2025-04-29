@@ -4,7 +4,7 @@ title: "How to Use LinkedIn to Land a Job in the USA"
 description: "Discover expert strategies to optimize your LinkedIn profile and network effectively to secure US jobs. Get step-by-step tips to land your dream job in the USA."
 tags: [US jobs, LinkedIn, job search, career tips, networking]
 categories: [Education, Test Prep, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_how-to-use-linkedin-for-us-jobs.webp
 ---
 

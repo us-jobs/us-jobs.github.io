@@ -5,7 +5,7 @@ Meta Description: 'Discover if US manufacturing jobs are making a comeback in 20
 Keywords: ["us manufacturing jobs", "manufacturing careers 2025", "american industry outlook"]
 Categories: [Jobs, Economy, Industry, Labor Market]
 Tags: [Manufacturing, US Jobs, Labor, Skilled Trades, Automation, Reshoring]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_us-manufacturing-jobs-2025-trends-comeback.webp
 ---
 

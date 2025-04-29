@@ -4,7 +4,7 @@ title: "How to Find the Best Jobs at US Jobs Placement"
 description: "Discover the best strategies to find top jobs at US Jobs Placement. Learn job search tips, resume hacks, and interview techniques!"
 categories: [Career, us jobs]
 tags: [ job search]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_find-best-jobs-at-us-jobs-placement.webp
 ---
 

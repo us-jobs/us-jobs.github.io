@@ -5,7 +5,7 @@ description: "Find out how to land high-paying travel nurse USA assignments in 2
 keywords: ["travel nurse USA"]
 categories: [Healthcare, Nursing, Travel Jobs, Career Advice]
 tags: [Travel Nurse USA, Nursing Jobs, High Paying Assignments, Travel RN, USA Healthcare Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_travel-nurse-usa-complete-guide.webp
 ---
 

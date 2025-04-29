@@ -5,7 +5,7 @@ description: "Discover how homeless individuals can access Amazon jobs USA oppor
 keywords: "amazon jobs usa"
 categories: [Employment, Homeless Support, USA Jobs, Amazon Careers]
 tags: [amazon jobs usa, homeless jobs, job assistance, warehouse work, reentry programs, remote jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_homeless-apply-amazon-jobs-usa.webp
 ---
 

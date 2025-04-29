@@ -4,7 +4,7 @@ title: "How to Build a Freelance Career in the USA with No Experience"
 description: "Discover how to start a freelance career in the USA without prior experience. Learn the best platforms, skills, and strategies to succeed in the gig economy."
 keywords: "us jobs, freelance career, work from home USA, freelancing tips, beginner freelancers, gig economy, remote work"
 categories: [Career, Freelancing, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_how-to-build-a-freelance-career-usa.webp
 ---
 

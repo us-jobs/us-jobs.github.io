@@ -4,7 +4,7 @@ title: "What Are the Highest-Paying Trade Jobs in the USA Without a College Degr
 description: "Discover the highest-paying trade jobs in the USA that don’t require a college degree. Learn about salaries, job growth, and how to get started in these lucrative careers."
 keywords: "us jobs, highest paying trade jobs, no college degree jobs, skilled trades, best paying careers USA, vocational jobs, trade careers"
 categories: [Career, Trade Jobs, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_highest-paying-trade-jobs-usa.webp
 ---
 

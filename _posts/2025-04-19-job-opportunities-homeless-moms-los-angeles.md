@@ -4,7 +4,7 @@ title: "Top Job Opportunities for Homeless Moms in Los Angeles to Rebuild Their 
 categories: [Career, US Jobs, Homeless Support] 
 tags: [us jobs, homeless moms, los angeles, job opportunities, career rebuilding] 
 description: "Discover top US jobs for homeless moms in Los Angeles. Flexible, accessible roles to rebuild lives with practical tips and resources."
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_job-opportunities-homeless-moms-los-angeles.webp
 ---
 

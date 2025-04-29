@@ -5,7 +5,7 @@ description: "Discover the top free job posting sites in USA for 2025 that help 
 keywords: "free job posting sites in usa"
 categories: [Hiring, Recruitment, Employment, US Jobs]
 tags: [free job boards, us jobs, job posting 2025, online hiring platforms, recruiting tools]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-free-job-posting-sites-usa-2025.webp
 ---
 

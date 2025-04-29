@@ -5,7 +5,7 @@ description: "Explore the top agencies hiring travel nurses in the USA right now
 keywords: ["travel nurse USA", "travel nurse agencies", "top travel nurse jobs"]
 categories: [Healthcare, Nursing, Travel Jobs, Career Advice]
 tags: [Travel Nurse USA, Nursing Jobs, USA Healthcare Jobs, Travel Nursing Opportunities]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_travel-nurse-usa-top-hiring-agencies.webp
 ---
 

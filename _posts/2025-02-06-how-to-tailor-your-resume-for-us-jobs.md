@@ -4,7 +4,7 @@ title: "How to Tailor Your Resume for the U.S. Job Market"
 description: "Learn how to craft a winning resume for US jobs with expert tips on formatting, keywords, and customization for different industries."
 tags: [US jobs, resume tips, job market, career growth, job search]
 categories: [Education, Test Prep, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_how-to-tailor-your-resume-for-us-jobs.webp
 ---
 

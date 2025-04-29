@@ -4,7 +4,7 @@ title: "How International Students Can Work Legally While Studying in the USA"
 categories: [international students, work, USA, US jobs]
 tags: [international students, work in USA, student jobs, visa rules, US jobs, F-1 visa, employment]
 excerpt: "Learn how international students can legally work in the USA while studying. Discover job options, visa regulations, and how part-time work can help you gain experience and secure US jobs."
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_international-students-work-usa.webp
 ---
 

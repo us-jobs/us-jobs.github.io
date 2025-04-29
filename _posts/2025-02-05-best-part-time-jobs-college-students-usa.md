@@ -3,7 +3,7 @@ layout: post
 title: "Best Part-Time Jobs for College Students in the USA"
 categories: career, education
 tags: part-time jobs, college students, us jobs, student work, side hustle
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-part-time-jobs-college-students-usa.webp
 ---
 

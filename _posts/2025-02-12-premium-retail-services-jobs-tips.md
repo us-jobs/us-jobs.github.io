@@ -3,7 +3,7 @@ layout: post
 title: "Premium Retail Services Jobs: How to Stand Out and Get Hired Fast"
 categories: [Career, Retail]
 tags: [retail job, premium retail services, job search, career advice]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_premium-retail-services-jobs-tips.webp
 ---
 

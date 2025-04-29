@@ -5,7 +5,7 @@ description: "Discover the top high-paying skilled trade jobs hiring in Chicago 
 keywords: ["jobs hiring Chicago", "skilled trade jobs", "Chicago trade careers"]
 categories: [Careers, Employment, Skilled Trades, Chicago Jobs]
 tags: [Chicago Jobs, Skilled Trades, High Paying Jobs, Trade Careers, Jobs Without Degree]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_skilled-trade-jobs-hiring-chicago-2025.webp
 ---
 

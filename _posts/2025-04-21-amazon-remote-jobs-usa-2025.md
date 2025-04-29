@@ -5,7 +5,7 @@ description: "Learn how homeless individuals can access and apply for Amazon war
 keywords: "us jobs"
 categories: [Employment, Homeless Support, Amazon Jobs, US Jobs]
 tags: [us jobs, amazon warehouse, employment access, homeless workers, job programs, support services, second chances]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_amazon-remote-jobs-usa-2025.webp
 ---
 

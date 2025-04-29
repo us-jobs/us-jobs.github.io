@@ -4,7 +4,7 @@ title: "How to Get into Coding Bootcamps in the USA: Cost, Benefits, and Options
 categories: [Education, Tech, US Jobs, Coding Bootcamps]
 tags: [coding bootcamps, US jobs, tech education, programming, career growth]
 excerpt: "Thinking about joining a coding bootcamp in the USA? Discover the best programs, their costs, benefits, and how they can help you land top US jobs in tech."
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_how-to-get-into-coding-bootcamps-usa.webp
 ---
 

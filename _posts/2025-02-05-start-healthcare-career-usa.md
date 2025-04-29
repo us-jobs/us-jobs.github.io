@@ -4,7 +4,7 @@ title: "How to Start a Career in Healthcare in the USA: From Certification to Em
 description: "Learn how to start a successful healthcare career in the USA, including certifications, job opportunities, and industry insights."
 keywords: "us jobs, healthcare career, medical jobs USA, healthcare certification, job opportunities in healthcare, how to get a job in healthcare"
 categories: [Career, Healthcare, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_start-healthcare-career-usa.webp
 ---
 

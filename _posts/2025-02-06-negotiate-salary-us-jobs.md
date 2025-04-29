@@ -3,7 +3,7 @@ layout: post
 title: "How to Negotiate a Salary in the USA: Tips and Scripts"
 description: "Learn expert tips and proven scripts to successfully negotiate a salary for US jobs. Increase your earning potential with confidence."
 tags: [US jobs, salary negotiation, job offers, career growth, salary tips]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_negotiate-salary-us-jobs.webp
 ---
 

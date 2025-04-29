@@ -4,7 +4,7 @@ title: "Breaking into the U.S. Film Industry: Jobs Behind the Scenes"
 description: "Discover how to start a career in the U.S. film industry with behind-the-scenes jobs. Learn about roles, required skills, and how to land your first job."
 keywords: "us jobs, film industry careers, behind the scenes jobs, Hollywood jobs, production assistant, filmmaking jobs, entertainment industry"
 categories: [Career, Film Industry, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_breaking-into-us-film-industry-jobs.webp
 ---
 

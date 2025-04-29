@@ -5,7 +5,7 @@ description: "Discover the best warehouse jobs in Atlanta hiring now—no experi
 keywords: "warehouse jobs atlanta"
 categories: [Jobs, Warehouse, Career Advice, Entry-Level]
 tags: [warehouse jobs atlanta, no experience jobs, us jobs, atlanta hiring now, career start, blue collar work]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_warehouse-jobs-atlanta-no-experience.webp
 ---
 

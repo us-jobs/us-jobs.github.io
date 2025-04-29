@@ -4,7 +4,7 @@ title: "The Best Student Loan Forgiveness Programs Available in the USA"
 tags: [student loan forgiveness, US jobs, loan repayment, student debt, financial advice]
 excerpt: "Learn about the best student loan forgiveness programs available in the USA. Discover options for borrowers in US jobs who are looking for relief from student debt."
 categories: [finance, education, student loans]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-student-loan-forgiveness-programs-usa.webp
 ---
 

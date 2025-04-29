@@ -3,7 +3,7 @@ layout: post
 title: "Best Universities in New York City for MBA Programs"
 description: "Discover the best universities in New York City for MBA programs. Learn about top-ranked business schools, career opportunities, and how an MBA can help you secure high-paying US jobs."
 tags: [US jobs, MBA programs, business schools, New York universities, career growth]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_best-universities-in-new-york-city-for-mba-programs.webp
 ---
 

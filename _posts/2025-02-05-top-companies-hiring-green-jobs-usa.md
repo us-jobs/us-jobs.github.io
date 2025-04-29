@@ -4,7 +4,7 @@ title: "Top Companies Hiring for Green Jobs in the USA"
 description: "Discover the best companies hiring for green jobs in the USA. Learn about sustainability careers, renewable energy roles, and how to get started in the growing green job sector."
 keywords: "us jobs, green jobs USA, sustainability careers, renewable energy jobs, eco-friendly companies, environmental jobs, climate change careers"
 categories: [Career, Green Jobs, US Jobs]
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_top-companies-hiring-green-jobs-usa.webp
 ---
 

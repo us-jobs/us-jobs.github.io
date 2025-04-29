@@ -4,7 +4,7 @@ title: "How I Conquered Office Distractions in 2025: My Productivity Glow-Up!"
 categories: productivity
 tags: [office-distractions, productivity, affiliate-marketing, work-from-office]
 description: "Discover how I tackled office distractions in 2025! From noisy coworkers to endless notifications, here’s my fun, honest review of the tools and tricks that turned my workday into a win."
-author: "Coding Rhodes"
+author: CodingRhodes
 image: assets/images/featured_conquer-office-distractions-2025.webp
 ---
 
