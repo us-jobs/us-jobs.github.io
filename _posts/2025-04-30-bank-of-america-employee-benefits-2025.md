@@ -81,9 +81,6 @@ Employees can earn rewards for participating in wellness challenges, annual chec
 ---
 
 ## Work-Life Balance in 2025
-
-![Multi-currency checkout interface showing different payment options and currency selection]({{ site.baseurl }}/assets/images/Key-Features-for-Cross-Border-eCommerce.webp)
-
 ![Bank of America employee participating in a virtual wellness program from home in 2025]({{ site.baseurl }}/assets/images/Work-Life-Balance-in-2025.webp)
 
 ### Flexible Work Arrangements
