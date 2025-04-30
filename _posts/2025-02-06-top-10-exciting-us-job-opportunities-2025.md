@@ -4,8 +4,8 @@ title: "Exciting Job Opportunities in the USA: Find Your Next Career Move Today!
 description: "Explore the latest job openings across various industries in the USA. Discover how to navigate the US jobs market and secure your next career opportunity."
 tags: [US jobs, job opportunities, career development, employment, featured]
 categories: [Education, Test Prep, US Jobs]
-author: "Coding Rhodes"
-image: /images/featured_exciting-us-job-opportunities-2025.webp
+author: CodingRhodes
+image: assets/images/featured_exciting-us-job-opportunities-2025.webp
 ---
 
 ## Introduction

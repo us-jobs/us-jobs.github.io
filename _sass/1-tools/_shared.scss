@@ -9,7 +9,7 @@ hr,
 table,
 fieldset, figure,
 pre {
-  margin-bottom: 32px;
+  margin-bottom: 30px;
 }
 
 
@@ -20,10 +20,4 @@ pre {
 ul, ol,
 dd {
   margin-left: $base-spacing-unit;
-}
-
-ul, ol {
-  li {
-    margin-bottom: 10px;
-  }
 }

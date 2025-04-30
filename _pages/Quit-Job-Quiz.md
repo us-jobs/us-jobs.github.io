@@ -1,6 +1,6 @@
 ---
 title: "Should I Quit My Job? Quiz"
-layout: page
+layout: page-sidebar
 permalink: "/Quit-Job-Quiz"
 ---
 
@@ -17,7 +17,7 @@ permalink: "/Quit-Job-Quiz"
 
 <script>
     const questions = [
-        "💼 Do you feel valued at work?",
+        "📅 Do you feel valued at work?",
         "🧠 Is your job negatively impacting your mental health?",
         "📈 Do you see opportunities for growth in your company?",
         "💰 Are you fairly compensated for your work?",
@@ -39,7 +39,7 @@ permalink: "/Quit-Job-Quiz"
     ];
 
     const results = {
-        positive: "✅ It looks like you should consider staying! Your job still offers value and satisfaction.",
+        positive: "-  It looks like you should consider staying! Your job still offers value and satisfaction.",
         negative: "🚨 You may want to consider quitting! Your responses indicate dissatisfaction and possible burnout.",
         neutral: "⚖️ It’s a mixed bag! Consider making a pros and cons list before deciding.",
         slightly_negative: "🤔 You seem to have some concerns. It might be worth addressing them before making a decision.",
@@ -108,6 +108,6 @@ permalink: "/Quit-Job-Quiz"
 </script>
 
 
-📌 **Looking for a job?** Browse the latest listings at **[us-jobs.github.io](https://us-jobs.github.io/)**  
+-  **Looking for a job?** Browse the latest listings at **[us-jobs.github.io](https://us-jobs.github.io/)**  
 
 ---

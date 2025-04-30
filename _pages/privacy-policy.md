@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Privacy Policy"
 permalink: "/privacy-policy"
 ---  
@@ -39,6 +38,6 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have any questions regarding this Privacy Policy, please contact us at:  
 📧 **[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
 
-🔎 Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for the latest job listings and career insights.  
+-  Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for the latest job listings and career insights.  
 
 ---

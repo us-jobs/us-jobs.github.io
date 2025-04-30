@@ -4,8 +4,8 @@ title: "Tips for Writing a Statement of Purpose for U.S. Colleges"
 description: "Discover essential tips for writing a compelling Statement of Purpose for U.S. colleges and how focusing on your career aspirations, including US jobs, can make your application stand out."
 keywords: "Statement of Purpose, U.S. Colleges, US jobs, college application, SOP writing tips"
 categories: [College, Education, SOP Writing]
-author: "Coding Rhodes"
-image: /images/featured_tips-for-writing-statement-of-purpose-us-colleges.webp
+author: CodingRhodes
+image: assets/images/featured_tips-for-writing-statement-of-purpose-us-colleges.webp
 ---
 
 ## Introduction

@@ -1,6 +1,6 @@
 ---
 title: "About US"
-layout: page
+layout: page-sidebar
 permalink: "/about-us.html"
 comments: true
 ---
@@ -12,17 +12,17 @@ At **US Jobs**, our goal is to bridge the gap between job seekers and top employ
 
 ### What We Offer  
 - 🏢 **Job Listings** – Discover new job openings across various industries.  
-- 📌 **Career Advice** – Tips on resumes, interviews, and professional growth.  
+- -  **Career Advice** – Tips on resumes, interviews, and professional growth.  
 - 📊 **Market Insights** – Stay updated on employment trends and opportunities.  
 - 💻 **Remote & In-Person Jobs** – Find the right job that fits your lifestyle.  
 
 ### Why Choose Us?  
-✔ **Reliable & Updated Job Listings**  
-✔ **Easy-to-Navigate Platform**  
-✔ **Supportive Career Resources**  
+-  **Reliable & Updated Job Listings**  
+-  **Easy-to-Navigate Platform**  
+-  **Supportive Career Resources**  
 
 Join us on your journey to finding the perfect job!  
 
-🔎 Explore job opportunities today at **[us-jobs.github.io](https://us-jobs.github.io/)**  
+-  Explore job opportunities today at **[us-jobs.github.io](https://us-jobs.github.io/)**  
 
 ---

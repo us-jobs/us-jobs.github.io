@@ -1,6 +1,6 @@
 ---
 title: "Disclaimer"
-layout: page
+layout: page-sidebar
 permalink: "/disclaimer"
 ---
 
@@ -34,6 +34,6 @@ We reserve the right to update or modify this Disclaimer at any time. Any change
 If you have any questions about this Disclaimer, please contact us at:  
 📧 **[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
 
-🔎 Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for job listings and career insights.  
+-  Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for job listings and career insights.  
 
 ---

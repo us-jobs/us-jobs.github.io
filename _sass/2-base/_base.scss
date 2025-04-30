@@ -5,17 +5,48 @@
 body {
   font-family: $base-font-family;
   font-size: $base-font-size;
+  font-weight: $base-font-weight;
   line-height: $base-line-height;
-  color: var(--text-color);
-  background-color: var(--background-color);
+  color: $text-color;
+  background-color: $background-color;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  transition: all .25s;
+  overflow-x: hidden;
+  &.is-in {
+    &::after {
+      visibility: hidden;
+      opacity: 0;
+      pointer-events: none;
+    }
+  }
+  &::after {
+    content: "";
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: $white;
+    z-index: 15;
+    transition: 1s;
+  }
+  input, textarea {
+    border: 1px solid $gray-light;
+    outline: none;
+  }
+  
+  @media only screen and (max-width: $mobile) {
+    font-size: 18px;
+  }
+}
+
+::placeholder {
+  color: $gray;
 }
 
 *::selection {
-  color: var(--white);
-  background-color: var(--brand-color);
+  color: $white;
+  background-color: $brand-color;
 }
 
 h1,
@@ -27,7 +58,7 @@ h6 {
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   line-height: $heading-line-height;
-  color: var(--heading-font-color);
+  color: $heading-color;
 }
 
 h1 {
@@ -56,143 +87,94 @@ h6 {
 
 blockquote {
   position: relative;
-  padding: 28px 0 60px 60px;
+  padding: 20px 20px 20px 50px;
   margin-bottom: 0;
   font-family: $heading-font-family;
-  font-size: 22px;
-  line-height: 36px;
-  font-weight: 700;
-  color: var(--heading-font-color);
-  
-  &::before {
+  font-size: 31px;
+  line-height: 38px;
+  font-weight: 800;
+  color: $heading-color;
+
+  &:before {
     content: '\201C';
     position: absolute;
-    top: 0.61em;
+    font-family: $heading-font-family;
+    top: 0.2em;
     left: -0.01em;
-    font-size: 3em;
-    color: var(--brand-color);
+    font-size: 3.5em;
+    color: $brand-color;
   }
 
   p {
-    margin-bottom: 0;
+    margin-bottom: 15px;
   }
-  
+
   cite {
-    display: inline-block;
-    margin-top: 20px;
-    font-family: $base-font-family;
-    font-size: 16px;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
     font-style: normal;
-    font-weight: 700;
-    color: var(--heading-font-color);
-  
+    color: $text-color;
     &:before {
       content: '\2014' '\00a0';
     }
   }
 
-  @media only screen and (max-width: $tablet) {
-    padding: 16px 0 48px 48px;
-    font-size: 18px;
-    line-height: 32px;
-
-    &::before {
-      top: 0.49em;
-    }
-  }
-
   @media only screen and (max-width: $mobile) {
-    padding: 8px 0 40px 38px;
-    font-size: 14px;
-    line-height: 24px;
-
-    &::before {
-      top: 0.39em;
-      font-size: 3em;
-    }
-
-    cite {
-      margin-top: 16px;
-      font-size: 14px;
-    }
+    padding: 20px 20px 20px 35px;
+    font-size: 21px;
+    line-height: 28px;
   }
 }
 
 pre {
   overflow: auto;
   padding: 15px;
-  margin-bottom: 0;
   font-size: 14px;
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
-  color: var(--heading-font-color);
 }
 
-img,
-.lightense-wrap {
+code[class*=language-], pre[class*=language-] {
+  white-space: pre-wrap;
+  word-break: break-all;
+  line-height: inherit;
+}
+
+img, 
+.zoom-img-wrap {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
-}
-
-img,
-.lightense-wrap,
-.gallery {
-
   &+em {
     display: block;
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 14px;
-    line-height: 22px;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 600;
+    text-transform: uppercase;
     text-align: center;
-    color: var(--heading-font-color);
-  
-    a {
-      font-weight: 700;
-      border-bottom: 1px solid var(--border-color);
-      transition: $global-transition;
-      &:hover {
-        color: var(--heading-font-color);
-        border-color: var(--brand-color);
-      }
-    }
-  
-    @media only screen and (max-width: $mobile) {
-      margin-top: 12px;
-      font-size: 12px;
-      line-height: 20px;
-    }
   }
 }
 
 a {
   text-decoration: none;
-  color: var(--link-color);
+  color: $text-color;
   transition: $global-transition;
-
   &:hover {
-    color: var(--link-color-hover);
+      color: $brand-color;
   }
 }
 
 hr {
-  position: relative;
+  display: block;
+  width: 100%;
   height: 1px;
-  margin: 60px 0;
+  margin: 50px 0;
   border: 0;
-
-  &::before {
-    content: ". . .";
-    position: absolute;
-    top: -5px;
-    left: 50%;
-    transform: translateX(-50%);
-    line-height: 0;
-    color: var(--heading-font-color);
-  }
+  background: rgba($text-color, .1);
 }
 
 .table-container {
@@ -203,137 +185,67 @@ hr {
 
 table {
   font-size: 12px;
-  color: var(--dark);
+  color: $dark;
   width: 100%;
-  border: 1.5px solid var(--form-input-color);
+  border-width: 1px;
+  border-color: $dark;
   border-collapse: collapse;
-  color: var(--heading-font-color);
 }
 
 table th {
-  padding: 12px;
-  font-size: 16px;
+  padding: 10px;
+  font-size: 18px;
   text-align: left;
-  border: 1px solid var(--form-input-color);
-  color: var(--white);
+  border: 1px solid $dark;
+  color: $white;
   font-weight: 700;
-  background-color: var(--form-input-color);
+  background-color: $dark;
 }
 
 table tr {
-  background-color: var(--tr-color);
+  background-color: $gray-light;
   transition: all .3s ease;
-
   &:nth-child(even) {
     background-color: transparent;
   }
 }
 
 table td {
-  padding: 12px;
-  font-size: 14px;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  border: 1px solid $dark;
 }
 
-.button {
-  display: inline-block;
-  padding: 24px 40px;
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  text-decoration: none;
-  border-radius: 30px;
-  border: none;
-  color: var(--button-color);
-  background-color: var(--button-background-color);
-  outline: none;
-  cursor: pointer;
-  transition: all .25s;
+table tr:hover {
+  background-color: $brand-color;
+}
 
-  &:hover {
-    color: var(--button-color-hover);
-    background: var(--button-background-hover);
+.gallery-box {
+  margin-bottom: 30px;
+  em {
+    display: block;
+    margin: 10px 0 30px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    a {
+      text-decoration: underline;
+      border-bottom: none;
+    }
   }
+}
 
-  &:active {
-    transform: translateY(2px);
-  }
-
-  &--dark {
-    color: var(--white);
-    background: var(--form-input-color);
-  }
-
-  &--middle {
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  justify-content: center;
+  align-content: center;
+  grid-gap: 10px;
+  img {
     width: 100%;
-    max-width: 280px;
+    height: auto;
   }
-
-  &--big {
-    width: 100%;
-  }
-}
-
-.lazy {
-  opacity: 0;
-  transition: opacity 0.3s ease-in-out;
-}
-
-.lazy.loaded {
-  opacity: 1;
-}
-
-.lightense-backdrop {
-  background-color: var(--background-alt-color) !important;
-}
-.quiz-container {
-	background: white  !important;
-	padding: 20px  !important;
-	border-radius: 10px  !important;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)  !important;
-	text-align: center  !important;
-	width: 350px  !important;
-	margin: 0 auto 40px  !important;
-}
-.progress-bar {
-	width: 100%;
-	background-color: #ddd  !important;
-	border-radius: 5px  !important;
-	margin-bottom: 15px  !important;
-}
-.progress {
-	height: 10px;
-	background-color: #3498db  !important;
-	border-radius: 5px  !important;
-	width: 0%;
-}
-.question {
-	font-size: 18px;
-	margin-bottom: 15px;
-}
-.options button {
-	display: block !important;
-	width: 100%;
-	margin: 5px 0;
-	padding: 10px;
-	border: none;
-	background: #3498db !important;
-	color: white  !important;
-	border-radius: 5px  !important;
-	cursor: pointer;
-}
-.options button:hover {
-	background: #2980b9  !important;
-}
-
-.Quit-Job-Quiz-button {
-    display: block !important;
-    width: 100%;
-    margin: 5px 0;
-    padding: 4px 8px !important;
-    border: 2px solid #047154 !important;
-    background: #028260 !important;
-    color: white  !important;
-    border-radius: 2px  !important;
-    cursor: pointer;
 }

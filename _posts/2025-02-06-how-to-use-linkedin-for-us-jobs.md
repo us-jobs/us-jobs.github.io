@@ -4,8 +4,8 @@ title: "How to Use LinkedIn to Land a Job in the USA"
 description: "Discover expert strategies to optimize your LinkedIn profile and network effectively to secure US jobs. Get step-by-step tips to land your dream job in the USA."
 tags: [US jobs, LinkedIn, job search, career tips, networking]
 categories: [Education, Test Prep, US Jobs]
-author: "Coding Rhodes"
-image: /images/featured_how-to-use-linkedin-for-us-jobs.webp
+author: CodingRhodes
+image: assets/images/featured_how-to-use-linkedin-for-us-jobs.webp
 ---
 
 ## How to Use LinkedIn to Land a Job in the USA
@@ -22,22 +22,22 @@ In this guide, we’ll cover step-by-step tips on how to optimize your LinkedIn 
 Your LinkedIn profile acts as your online resume. A well-optimized profile increases your visibility to recruiters and improves your chances of landing a job.
 
 ### **Steps to Optimize Your Profile**
-#### ✅ **Use a Professional Profile Photo**
+#### **Use a Professional Profile Photo**
 - Choose a high-quality headshot with a neutral background.
 - Dress professionally, as you would for a job interview.
 
-#### ✅ **Write a Compelling Headline**
+#### **Write a Compelling Headline**
 Your headline should clearly state your job title and skills. Instead of just "Software Engineer," write:
 > **"Software Engineer | Python | Machine Learning | Open to US Jobs"**
 
-#### ✅ **Craft a Powerful About Section**
+#### **Craft a Powerful About Section**
 - Highlight your experience, skills, and career goals in 3-5 short paragraphs.
 - Use keywords related to your industry.
 
 **Example:**
 > "I’m an experienced software engineer with expertise in AI and data science. I’ve developed innovative solutions that improved efficiency by 30%. Passionate about problem-solving, I’m currently looking for opportunities in the USA to contribute to cutting-edge projects."
 
-#### ✅ **Update Your Experience & Skills**
+#### **Update Your Experience & Skills**
 - List **detailed work experience** with measurable achievements.
 - Add **relevant skills**—LinkedIn allows you to list up to 50 skills.
 
@@ -49,15 +49,15 @@ Your headline should clearly state your job title and skills. Instead of just "S
 Over 70% of jobs are filled through networking. The more connections you have, the better your chances of getting noticed by recruiters.
 
 ### **Networking Strategies**
-#### ✅ **Connect with Industry Professionals**
+#### **Connect with Industry Professionals**
 - Send personalized connection requests to recruiters, hiring managers, and professionals in your field.
 - Join **LinkedIn Groups** related to your industry and engage in discussions.
 
-#### ✅ **Engage with Content**
+#### **Engage with Content**
 - Like, comment, and share posts from thought leaders.
 - Write your own posts about industry trends or career achievements.
 
-#### ✅ **Follow Companies Hiring for US Jobs**
+#### **Follow Companies Hiring for US Jobs**
 - Research US companies that hire international candidates.
 - Follow their pages to get updates on job openings.
 
@@ -69,15 +69,15 @@ Over 70% of jobs are filled through networking. The more connections you have, t
 LinkedIn offers advanced job search tools that make it easier to find relevant jobs and apply directly.
 
 ### **How to Use LinkedIn for Job Search**
-#### ✅ **Set Up Job Alerts**
+#### **Set Up Job Alerts**
 - Go to the **Jobs** tab and search for roles like "Software Engineer USA" or "Marketing Manager US." 
 - Click "Set Alert" to receive notifications for new job postings.
 
-#### ✅ **Use ‘Open to Work’ Feature**
+#### **Use ‘Open to Work’ Feature**
 - Turn on the "Open to Work" option in your profile settings.
 - Choose who can see it—**recruiters only** or all LinkedIn members.
 
-#### ✅ **Apply with ‘Easy Apply’**
+#### **Apply with ‘Easy Apply’**
 - Many job listings offer the **Easy Apply** option.
 - Upload your resume and submit applications with one click.
 
@@ -149,13 +149,13 @@ Regular activity on LinkedIn keeps your profile visible to recruiters and hiring
 
 Using LinkedIn effectively can **boost your chances of landing a job in the USA**. By optimizing your profile, expanding your network, engaging with content, and leveraging job search features, you can attract the right opportunities. 
 
-Are you ready to start your LinkedIn job search journey? Implement these strategies today and take the next step toward securing your dream **US job**! 🚀
+Are you ready to start your LinkedIn job search journey? Implement these strategies today and take the next step toward securing your dream **US job**!
 
 ---
 
 ### **Next Steps**
-🔹 **Update your LinkedIn profile** with the tips above. \
-🔹 **Start networking** by connecting with professionals in your industry. \
-🔹 **Apply for jobs** and reach out to recruiters today!
+  -  **Update your LinkedIn profile** with the tips above. \
+  -  **Start networking** by connecting with professionals in your industry. \
+  -  **Apply for jobs** and reach out to recruiters today!
 
-Got questions? Drop them in the comments! 😊
+Got questions? Drop them in the comments!

@@ -1,6 +1,6 @@
 ---
 title: "Terms of Service"
-layout: page
+layout: page-sidebar
 permalink: "/terms-of-service"
 ---
 
@@ -41,6 +41,6 @@ We reserve the right to update these Terms of Service at any time. Any changes w
 If you have any questions about these Terms of Service, please contact us at:  
 📧 **[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
 
-📌 Visit **[us-jobs.github.io](https://us-jobs.github.io/)** to explore job opportunities and career insights.  
+-  Visit **[us-jobs.github.io](https://us-jobs.github.io/)** to explore job opportunities and career insights.  
 
 ---

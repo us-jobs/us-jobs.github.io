@@ -1,60 +1,62 @@
+---
 #-------------------------------
 # General Site Settings
 title: US Jobs
-logo: 'images/us-logo.png' # Add your logo path
+logo: 'assets/images/us-logo.png' # Add your logo path
+favicon: 'assets/images/favicon-us.ico'
 description: 'US-Jobs: Your go-to source for the latest job trends, career advice, and employment opportunities across the USA.'
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
-future: true
 
 #-------------------------------
 # Author Settings
 author:
+  avatar: "/images/Author-codingRhodes.webp"
   name: Coding Rhodes
-  title: Coding Rhodes
-  description: Hi, I am Coding Rhodes, One of the blog authors of this site. Do let me know in the comments, If you have any Questions.
-  image: '/images/Author-codingRhodes.webp'
-  avatar: '/images/Author-codingRhodes.webp'
+  job: Passionate Developer & Content Writer. 
+  description: 'CodingRhodes is a passionate developer and tech enthusiast who loves to explore the world of programming and technology. With a keen interest in web development, software engineering, and open-source projects, CodingRhodes shares valuable insights, tutorials, and resources to help fellow developers enhance their skills and stay updated with the latest trends in the tech industry.'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/codingrhodes"}
-# - {icon: "ion-logo-github", label: Github, link: "https://github.com/"}
+  # - {icon: "ion-logo-twitter", link: "https://twitter.com"}
+  - {
+      icon: "ion-logo-twitter",
+      link: "https://x.com/CodingRhodes",
+    }
+# - {icon: "ion-logo-instagram", link: "https://instagram.com"}
+# - {icon: "ion ion-logo-github", link: "https://github.com"}
+#
 
-# Example of adding a new link to the author section - {icon: "ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
+# Example of adding a new link to the author section and footer - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
-
 #-------------------------------
-# Newsletter (_includes/footer-widgets/widget-subscribe.html)
-mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
-mailchimp__title: Get interesting news # Add your Title
-mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
-mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-mailchimp__button__text: Join # Add your button text
-
+# Featured Slider
+slider: true # NOTE - By default, the slider is set to display featured posts. To add featured post to the slider, add the field, featured: true in the YAML front matter block. If you do not want to use the slider, leave the slider field empty.
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: codingrhodes@email.com # Add your email for contact form
-  description:  # Add a description of your form
+  email: free.git.hosting@gmail.com # Add your email for contant form
+  # description: Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
-# Bracia comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
-
+# Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: codingrhodes # Add your shortname for Disqus Comment. For example anvodstudio-demo
-
+disqus-identifier: dr-ai4ed # Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
-
+# Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
-# Build Settings
+# Newsletter
+mailchimp: 'https://github.us22.list-manage.com/subscribe/post?u=7cbb8f4ffba4384950451d221&amp;id=aae56f1824&amp;f_id=00c8c2e1f0' # To enable the mailchimp form, use the value true. To turn off use the value false.
+mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+#-------------------------------
+# Build settings
 markdown: kramdown
 permalink: /:title
 plugins:
@@ -62,13 +64,13 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 12
+paginate: 8
 paginate_path: "/page/:num"
 
 # Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: "_pages"
     values:
       permalink: /:basename:output_ext
 
@@ -76,10 +78,12 @@ include:
   - _pages
 
 # Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  /:title
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: /:title
 
 sass:
   sass_dir: _sass
   style: compressed
+
+future: true

@@ -9,35 +9,11 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title }} – {{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.url == "/" %}{{ site.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
-  <meta name="twitter:image:src" content="{% if page.url == "/" %}{{ site.author.image | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}">
-
-  <!-- Facebook OpenGraph -->
-  <meta property="og:title" content="{% if page.url == "/" %}{{ site.title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.title }}{% endif %}" />
-  <meta property="og:description" content="{% if page.url == "/" %}{{ site.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}" />
-  <meta property="og:image" content="{% if page.url == "/" %}{{ site.author.image | absolute_url }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
-
   <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Corben:wght@700&family=Work+Sans:wght@400;500;700&display=swap" as="style">
-
-  <link href="https://fonts.googleapis.com/css2?family=Corben:wght@700&family=Work+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@500;600;700;800&display=swap" rel="stylesheet">
 
   <!-- Ionicons -->
-  <link rel="preload" href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" as="style">
-
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
-
-  <script>
-    if (localStorage.getItem("theme") === "dark") {
-      document.documentElement.setAttribute("dark", "");
-      document.documentElement.classList.add('dark-mode');
-    }
-  </script>
 
   <style>
   {% capture include_to_scssify %}
@@ -45,6 +21,7 @@
   {% endcapture %}
   {{ include_to_scssify | scssify }}
   </style>
+
   <script defer src="https://www.googletagmanager.com/gtag/js?id=G-7MT99FR3T6"></script>
   <script defer>
   window.dataLayer = window.dataLayer || [];
@@ -54,27 +31,33 @@
   gtag('config', 'G-7MT99FR3T6');
   </script>
 
-
-  <!-- Added searchs -->
-  <meta name="msvalidate.01" content="D949E2F107551F710F1D7CCF92BE9E7E" />
-  <meta name="yandex-verification" content="df4e56b7ff3b08d2" />
-  <meta name="seznam-wmt" content="qvHyVUDEZN8FuHEAPH5fgsaGtZ1wvj6Z" />
-  <meta name="naver-site-verification" content="" />
-
-
-    <!-- Yandex.Metrika counter -->
-  <script defer type="text/javascript" >
-      (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-      m[i].l=1*new Date();
-      for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+      <!-- Added searchs -->
+      <meta name="msvalidate.01" content="D949E2F107551F710F1D7CCF92BE9E7E" />
+      <meta name="yandex-verification" content="df4e56b7ff3b08d2" />
+      <meta name="seznam-wmt" content="qvHyVUDEZN8FuHEAPH5fgsaGtZ1wvj6Z" />
+      <meta name="naver-site-verification" content="" />
   
-      ym(99851181, "init", {
-          clickmap:true,
-          trackLinks:true,
-          accurateTrackBounce:true
-      });
-  </script>
-  <noscript><div><img src="https://mc.yandex.ru/watch/99851181" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+  
+       <!-- Yandex.Metrika counter -->
+      <script defer type="text/javascript" >
+          (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+          m[i].l=1*new Date();
+          for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+          k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+          (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+      
+          ym(99851181, "init", {
+              clickmap:true,
+              trackLinks:true,
+              accurateTrackBounce:true
+          });
+      </script>
+      <noscript><div><img src="https://mc.yandex.ru/watch/99851181" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+      <!-- /Yandex.Metrika counter -->
+  
+      <!-- <script async="async" data-cfasync="false" src="//pl26222277.effectiveratecpm.com/f87adbf393405cf171f85014e699cb60/invoke.js"></script> -->
+      <!-- <div id="container-f87adbf393405cf171f85014e699cb60"></div> -->
+  
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+       crossorigin="anonymous"></script>
 </head>

@@ -3,8 +3,8 @@ layout: post
 title: "Premium Retail Services Jobs: How to Stand Out and Get Hired Fast"
 categories: [Career, Retail]
 tags: [retail job, premium retail services, job search, career advice]
-author: "Coding Rhodes"
-image: /images/featured_premium-retail-services-jobs-tips.webp
+author: CodingRhodes
+image: assets/images/featured_premium-retail-services-jobs-tips.webp
 ---
 
 Securing a position in premium retail services can be a rewarding endeavor, offering opportunities to work with high-end brands and deliver exceptional customer experiences. To stand out in this competitive field and expedite your hiring process, consider the following strategies.

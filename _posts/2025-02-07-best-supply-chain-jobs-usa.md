@@ -3,8 +3,8 @@ layout: post
 title: "How to Find High-Paying Supply Chain Logistics Jobs in the USA"
 categories: [Career, Supply Chain, Logistics]
 tags: [supply chain logistics jobs USA, high-paying jobs, career guidance]
-author: "Coding Rhodes"
-image: /images/featured_best-supply-chain-jobs-usa.webp
+author: CodingRhodes
+image: assets/images/featured_best-supply-chain-jobs-usa.webp
 ---
 
 The supply chain and logistics sector in the USA offers numerous high-paying career opportunities. As businesses continue to expand and optimize their operations, the demand for skilled professionals in this field has surged. This guide provides actionable strategies to help you secure a lucrative position in supply chain logistics.

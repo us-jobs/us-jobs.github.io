@@ -1,26 +1,38 @@
 ---
 layout: default
 ---
-
+{% assign slider_tag = page.tag %}
 <div class="container">
-  <div class="tag" {% for post in site.tags[page.tag] %}{% if forloop.index == 1 and post.image %} style="background-image: url({{site.baseurl}}{{post.image}});" {% endif %}{% endfor %}>
-    <div class="tag__inner">
-      <h1 class="tag__title">{{ page.tag }}</h1>
-      <div class="tag__counter">
-        <span>{{ site.tags[page.tag].size }}</span>
-        <small>{% if site.tags[page.tag].size < 2 %}Article{% else %}Articles{% endif %}</small>
+  <div class="row">
+    <div class="col col-12">
+      <div class="archive-box">
+        <div class="tag-slider">
+          <div class="tag-slider__box">
+            {% for post in site.tags[slider_tag] %}
+            <div class="tag-slider__item" style="background-image: url({{site.baseurl}}{{post.image}});"></div>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="archive-text">
+          <span class="archive-meta">All posts tagged</span>
+          <h1 class="archive-title">{{ page.tag }}</h1>
+        </div>
       </div>
     </div>
   </div>
 </div>
 
-<div class="tag-box">
-  <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        {% for post in page.posts %}
-          {% include article-content.html %}
-        {% endfor %}
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="container__inner">
+        <div class="contaniner__inner-box">
+          <div class="row grid">
+            {% for post in page.posts %}
+              {% include article-content.html %}
+            {% endfor %}
+          </div>
+        </div>
       </div>
     </div>
   </div>

@@ -1,31 +1,31 @@
 ---
 layout: default
 ---
-
-<!-- begin page -->
+{% if page.image %}
 <div class="container">
-
-  <article class="page">
-
-    <div class="page__info">
-      <h1 class="page__title">{{ page.title | escape }}</h1>
-      {% if page.description %}
-        <p class="page__description">{{ page.description | escape }}</p>
-      {% endif %}
+  <div class="row">
+    <div class="col col-12">
+      <div class="image-box">
+        <img class="page-image" src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+      </div>
     </div>
-
-  
-    {% if page.image %}
-    <div class="page-image">
-      <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
-    </div>
-    {% endif %}
-
-    <div class="page__content">
-      {{ content }}
-    </div>
-
-  </article>
-
+  </div>
 </div>
-<!-- end page -->
+{% endif %}
+
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 push-2 push-d-1 col-t-12 push-t-0">
+      <!-- begin page -->
+      <article class="page animate">
+        <div class="page-head">
+          <h1 class="page-title">{{ page.title | escape }}</h1>
+        </div>
+        <div class="page__content">
+          {{ content }}
+        </div>
+      </article>
+      <!-- end page -->
+    </div>
+  </div>
+</div>
