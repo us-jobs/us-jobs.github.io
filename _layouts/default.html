@@ -4,7 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    {% if page.url == "/" %}
     <title>{{page.title}} | {{site.name}}</title>
+    {% endif %}
 
     {% seo %}
 
@@ -23,14 +25,53 @@
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
 
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
-    <script
+    <!-- <script
     src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-    crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script> -->
+    <!-- Analytics -->
+    <!-- Google tag (gtag.js) -->
+    <script defer src="https://www.googletagmanager.com/gtag/js?id=G-7MT99FR3T6"></script>
+    <script defer>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-7MT99FR3T6');
+    </script>
+
 
     {% include tracking-header.html %}
 
+    <!-- Added searchs -->
+    <meta name="msvalidate.01" content="D949E2F107551F710F1D7CCF92BE9E7E" />
+    <meta name="yandex-verification" content="df4e56b7ff3b08d2" />
+    <meta name="seznam-wmt" content="qvHyVUDEZN8FuHEAPH5fgsaGtZ1wvj6Z" />
+    <meta name="naver-site-verification" content="" />
 
+
+     <!-- Yandex.Metrika counter -->
+    <script defer type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+        ym(99851181, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/99851181" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <!-- <script async="async" data-cfasync="false" src="//pl26222277.effectiveratecpm.com/f87adbf393405cf171f85014e699cb60/invoke.js"></script> -->
+    <!-- <div id="container-f87adbf393405cf171f85014e699cb60"></div> -->
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
@@ -38,7 +79,7 @@
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><strong>{{site.name}}</strong></a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="../assets/images/us-logo.png" alt="Logo"></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
@@ -60,10 +101,16 @@
 
     <!-- Content -->
     <main role="main" class="site-content">
+        <div class="side-bar-left-ads">
+            <div class="side-bar-left-buttons">
+                <a href="/Quit-Job-Quiz" class="heart btn btn-success mt-2">Quit Job Quiz</a>
+            </div>
+        </div>
+        <div class="side-bar-right-ads">
+
+        </div>
         {{ content }}
     </main>
-
-
     <!-- Scripts: popper, bootstrap, theme, lunr -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 
@@ -75,18 +122,24 @@
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
         <div class="container">
-        <div class="row align-items-center justify-content-between">
+        <div class="row align-items-center justify-content-center">
             <div>
-                <span class="navbar-brand mr-2 mb-0"><strong>Mundana</strong></span>
+                <span class="navbar-brand mr-2 mb-0"><strong>US Jobs</strong></span>
                 <span>Copyright © <script>document.write(new Date().getFullYear())</script>.</span>
 
-                <!--  Github Repo Star Btn-->
-                <a class="text-dark ml-1" target="_blank" href="https://github.com/wowthemesnet/mundana-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
+            </div>
+        </div>
 
-            </div>
-            <div>
-                Made with <a target="_blank" class="text-dark font-weight-bold" href="https://www.wowthemes.net/mundana-jekyll-theme/"> Mundana Jekyll Theme </a> by <a class="text-dark" target="_blank" href="https://www.wowthemes.net">WowThemes</a>.
-            </div>
+        <br>
+        <div class="row align-items-center justify-content-between">
+            <a href="/about-us">About US</a>
+            <a href="/contact-us">Contact US</a>
+            <a href="/privacy-policy">Privacy Policies</a>
+            <a href="/disclaimer">Disclaimer</a>
+            <a href="/affiliate">Affiliate Policy</a>
+            <a href="/terms-of-service">Terms of Service</a>
+            <a href="/sitemap.xml">Site Map</a>
+
         </div>
         </div>
     </footer>
@@ -94,5 +147,5 @@
     {% include tracking-footer.html %}
 
 </body>
-
+<!-- start webpushr code --> <script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.async=1;js.src = "https://cdn.webpushr.com/app.min.js";fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));webpushr('setup',{'key':'BFIM0K_KTh7ieuH7xZWUZt0-qEXyA777JvV9_-O33pkVbJeTXfJF-6k_g-pdpViOP3dqukzb6hw_gURyqhMhDUs' });</script><!-- end webpushr code -->
 </html>
