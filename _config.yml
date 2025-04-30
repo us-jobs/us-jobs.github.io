@@ -4,7 +4,7 @@ title: US Jobs
 logo: 'assets/images/us-logo.png' # Add your logo path
 favicon: 'assets/images/favicon-us.ico'
 description: 'US-Jobs: Your go-to source for the latest job trends, career advice, and employment opportunities across the USA.'
-baseurl: "us-jobs.github.io/" # The subpath of your site, e.g. /blog
+baseurl: "" # The subpath of your site, e.g. /blog
 future: true
 
 #-------------------------------
