@@ -2,7 +2,8 @@
 layout: post
 title: "Bank of America Layoffs 2025: What Job Seekers Need to Know"
 description: "Explore Bank of America job news and layoffs in 2025, including key updates for job seekers and industry trends impacting finance careers."
-keywords: ["Dubai jobs for US citizens", "jobs in Dubai for Americans", "how to get a job in Dubai as a US citizen"]
+categories: [Careers, Banking, Technology, AI]
+tags: [bank of america careers, digital banking jobs, AI in banking, future of work, banking transformation]
 author: CodingRhodes
 image: assets/images/featured_bank-of-america-layoffs-2025-job-seekers-guide.webp
 ---
