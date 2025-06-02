@@ -5,7 +5,7 @@ description: "Explore Bank of America job news, wage increase to \$25/hour by 20
 categories: [Careers, Banking, Technology, AI]
 tags: [bank of america careers, digital banking jobs, AI in banking, future of work, banking transformation]
 author: CodingRhodes
-image: assets/images/featured_bank-of-america-2025-wage-increase-impact-1.webp
+image: assets/images/featured_bank-of-america-2025-wage-increase-impact.webp
 ---
 
 In a significant move for employee compensation, Bank of America has committed to raising its U.S. minimum hourly wage to \$25 by the end of 2025. 
