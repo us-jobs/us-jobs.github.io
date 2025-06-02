@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /category/
+Disallow: /tag/
+Disallow: /*?m=1
