@@ -2,3 +2,6 @@ User-Agent: *
 Disallow: /category/
 Disallow: /tag/
 Disallow: /*?m=1
+Disallow: /*?m=0
+
+Sitemap: https://us-jobs.github.io/sitemap.xml
