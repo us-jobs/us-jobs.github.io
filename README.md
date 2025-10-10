@@ -1,4 +1,4 @@
-# Jekyll Theme - Mundana by WowThemes.net
+<!-- # Jekyll Theme - Mundana by WowThemes.net
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
 [Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
@@ -48,4 +48,4 @@ Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under M
 
 ### Live Demo
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) -->
